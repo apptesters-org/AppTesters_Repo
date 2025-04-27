@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Yogger",
+            "type": 1,
+            "bundleID": "io.yogger.Yogger",
+            "bundleIdentifier": "io.yogger.Yogger",
+            "version": "3.9.6",
+            "versionDate": "2025-04-27",
+            "fullDate": "20250427234524",
+            "size": 63461335,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Yogger_3.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Yogger_3.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png"
+        },
+        {
             "name": "Textastic",
             "type": 1,
             "bundleID": "com.textasticapp.textastic-universal",
