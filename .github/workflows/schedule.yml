@@ -7,7 +7,7 @@ permissions: write-all
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04   # ✅ Updated!
 
     steps:
       - name: checkout repo content
@@ -23,7 +23,7 @@ jobs:
           pip install PyGithub pandas Pillow
 
       - name: execute py script
-        env: 
+        env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
@@ -33,7 +33,7 @@ jobs:
 
       - name: auto commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
-        env: 
+        env:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
