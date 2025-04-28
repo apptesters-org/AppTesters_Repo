@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Speedometer",
+            "type": 1,
+            "bundleID": "com.jps.gpspeedhud",
+            "bundleIdentifier": "com.jps.gpspeedhud",
+            "version": "6.3.20",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428052102",
+            "size": 29922740,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Speedometer_6.3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Speedometer_6.3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jps.gpspeedhud.png"
+        },
+        {
+            "name": "Place",
+            "type": 2,
+            "bundleID": "com.mobivalley.LookAroundApp",
+            "bundleIdentifier": "com.mobivalley.LookAroundApp",
+            "version": "Guesser",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428052059",
+            "size": 35723831,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Place_Guesser_1.34.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Place_Guesser_1.34.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 1.34.0 Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
