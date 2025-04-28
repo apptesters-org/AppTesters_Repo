@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Lampa",
+            "type": 1,
+            "bundleID": "com.lampa.photo",
+            "bundleIdentifier": "com.lampa.photo",
+            "version": "1.5.3",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428200023",
+            "size": 62187690,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Lampa_1.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Lampa_1.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
+        },
+        {
             "name": "Buddy",
             "type": 1,
             "bundleID": "com.iPwners.Plonkan",
