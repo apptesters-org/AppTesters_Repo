@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Coloring",
+            "type": 1,
+            "bundleID": "com.apalonapps.clrbook",
+            "bundleIdentifier": "com.apalonapps.clrbook",
+            "version": "Book",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428072129",
+            "size": 137133621,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Coloring_Book_for_Me_4.50.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Coloring_Book_for_Me_4.50.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with for Me 4.50.18 Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
+        },
+        {
             "name": "PictureThis",
             "type": 1,
             "bundleID": "cn.danatech.xingseus",
