@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "12.15.2",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428121307",
+            "size": 483946372,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Captions_12.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Captions_12.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
