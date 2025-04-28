@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Acrobat",
+            "type": 1,
+            "bundleID": "com.adobe.Adobe-Reader",
+            "bundleIdentifier": "com.adobe.Adobe-Reader",
+            "version": "25.03.05",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428164436",
+            "size": 183487683,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Acrobat_25.03.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Acrobat_25.03.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
+        },
+        {
             "name": "Planes",
             "type": 1,
             "bundleID": "com.apalonapps.planesfree",
