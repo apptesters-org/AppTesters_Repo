@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "",
+            "type": 1,
+            "bundleID": "com.intsig.CamScannerLite",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "6.87.0",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428034045",
+            "size": 165283703,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/_6.87.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/_6.87.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+        },
+        {
             "name": "Yogger",
             "type": 1,
             "bundleID": "io.yogger.Yogger",
