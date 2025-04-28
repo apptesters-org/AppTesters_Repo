@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "superagent",
+            "type": 1,
+            "bundleID": "com.agent.super.extension.safari",
+            "bundleIdentifier": "com.agent.super.extension.safari",
+            "version": "3.18.0",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428062111",
+            "size": 32925966,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/superagent_3.18.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/superagent_3.18.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+        },
+        {
             "name": "Speedometer",
             "type": 1,
             "bundleID": "com.jps.gpspeedhud",
