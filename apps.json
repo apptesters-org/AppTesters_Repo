@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "327.4",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428074136",
+            "size": 132175083,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Headway_327.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Headway_327.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "Coloring",
             "type": 1,
             "bundleID": "com.apalonapps.clrbook",
