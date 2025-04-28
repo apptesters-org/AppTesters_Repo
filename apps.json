@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Genie",
+            "type": 1,
+            "bundleID": "co.appnation.geniechat",
+            "bundleIdentifier": "co.appnation.geniechat",
+            "version": "7.6.3",
+            "versionDate": "2025-04-28",
+            "fullDate": "20250428153421",
+            "size": 64969175,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Genie_7.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2025/Genie_7.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png"
+        },
+        {
             "name": "Speak",
             "type": 1,
             "bundleID": "com.appicfun.translatorfree",
