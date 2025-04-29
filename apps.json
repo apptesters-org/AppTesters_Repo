@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Productive",
+            "type": 1,
+            "bundleID": "com.beHappy.Productive",
+            "bundleIdentifier": "com.beHappy.Productive",
+            "version": "3.26.29",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429123544",
+            "size": 188785448,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Productive_3.26.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beHappy.Productive.png"
+        },
+        {
             "name": "SnapEdit",
             "type": 1,
             "bundleID": "com.sfun.snapedit",
