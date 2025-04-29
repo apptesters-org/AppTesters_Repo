@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.45",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429125605",
+            "size": 163871448,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/CLIME_5.13.45_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/CLIME_5.13.45_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "SlideShow",
             "type": 1,
             "bundleID": "com.spacegab.slideshow",
