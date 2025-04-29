@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "EPIK",
+            "type": 1,
+            "bundleID": "com.snowcorp.epik",
+            "bundleIdentifier": "com.snowcorp.epik",
+            "version": "5.6.20",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429062152",
+            "size": 152279564,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/EPIK_5.6.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/EPIK_5.6.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
+        },
+        {
             "name": "Video",
             "type": 1,
             "bundleID": "com.videobrowser.ios",
