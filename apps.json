@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Video",
+            "type": 1,
+            "bundleID": "com.videobrowser.ios",
+            "bundleIdentifier": "com.videobrowser.ios",
+            "version": "Lite",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429051144",
+            "size": 31334359,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Video_Lite_612110_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Video_Lite_612110_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 612110 Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
