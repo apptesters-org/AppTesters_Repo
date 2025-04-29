@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Windy.app",
+            "type": 1,
+            "bundleID": "co.windyapp.Windy",
+            "bundleIdentifier": "co.windyapp.Windy",
+            "version": "15.0.9",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429090421",
+            "size": 282353532,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Windy.app_15.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Windy.app_15.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png"
+        },
+        {
             "name": "HabitKit",
             "type": 1,
             "bundleID": "com.roehl.habitkit",
