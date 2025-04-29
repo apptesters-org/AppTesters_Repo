@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Scanner",
+            "type": 1,
+            "bundleID": "com.apalonapps.pdffree",
+            "bundleIdentifier": "com.apalonapps.pdffree",
+            "version": "for",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429131625",
+            "size": 232696260,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Scanner_for_Me_4.24.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Scanner_for_Me_4.24.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Me 4.24.24 Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png"
+        },
+        {
             "name": "Offline",
             "type": 1,
             "bundleID": "com.offlinemusic",
