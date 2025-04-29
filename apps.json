@@ -75,18 +75,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png"
         },
         {
-            "name": "VEED",
+            "name": "VEEDCaptions",
             "type": 1,
             "bundleID": "io.veed.appstore",
             "bundleIdentifier": "io.veed.appstore",
-            "version": "Captions",
+            "version": "5.13.0",
             "versionDate": "2025-04-29",
             "fullDate": "20250429112521",
             "size": 51724137,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/VEED_Captions_5.13.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/VEED_Captions_5.13.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/VEEDCaptions_5.13.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/VEEDCaptions_5.13.0_Pro_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 5.13.0 Pro",
+            "localizedDescription": "Injected with Pro",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
         },
