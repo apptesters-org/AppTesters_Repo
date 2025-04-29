@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Filmic",
+            "type": 1,
+            "bundleID": "com.cinegenix.filmic.pro",
+            "bundleIdentifier": "com.cinegenix.filmic.pro",
+            "version": "Pro",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429084908",
+            "size": 142032264,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Filmic_Pro_7.5.24_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Filmic_Pro_7.5.24_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 7.5.24 Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
+        },
+        {
             "name": "Diamond",
             "type": 1,
             "bundleID": "com.mcdiamondfinder.app",
