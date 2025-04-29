@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "30",
+            "type": 1,
+            "bundleID": "com.vigorapps.30DayFitness",
+            "bundleIdentifier": "com.vigorapps.30DayFitness",
+            "version": "Day",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429103458",
+            "size": 117051252,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/30_Day_Fitness_6.29.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/30_Day_Fitness_6.29.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Fitness 6.29.12 Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
+        },
+        {
             "name": "Coloring",
             "type": 1,
             "bundleID": "com.apalonapps.clrbook",
