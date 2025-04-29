@@ -27,18 +27,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
         },
         {
-            "name": "Alight",
+            "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
             "bundleIdentifier": "com.alightcreative.motion",
-            "version": "Motion",
+            "version": "6.2.17",
             "versionDate": "2025-04-29",
             "fullDate": "20250429150700",
             "size": 119347456,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Alight_Motion_6.2.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Alight_Motion_6.2.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/AlightMotion_6.2.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/AlightMotion_6.2.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 6.2.17 Subscription Unlocked",
+            "localizedDescription": "Injected with Subscription Unlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
         },
