@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Background",
+            "type": 1,
+            "bundleID": "com.flyingnayeem.nmVideoMergerJune",
+            "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
+            "version": "Music",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429164746",
+            "size": 87602262,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Background_Music_5.4.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Background_Music_5.4.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 5.4.25 Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
+        },
+        {
             "name": "Facebook",
             "type": 1,
             "bundleID": "com.facebook.Facebook",
