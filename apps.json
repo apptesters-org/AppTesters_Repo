@@ -11,6 +11,38 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "14.11.10",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429073818",
+            "size": 204541861,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Notability_14.11.10_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Notability_14.11.10_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
+            "name": "Quizlet",
+            "type": 1,
+            "bundleID": "com.quizlet.quizlet",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "9.29.1",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429073816",
+            "size": 58542743,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Quizlet_9.29.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Quizlet_9.29.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+        },
+        {
             "name": "IPTV",
             "type": 1,
             "bundleID": "com.iptv.player",
