@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Planes",
+            "type": 1,
+            "bundleID": "com.apalonapps.planesfree",
+            "bundleIdentifier": "com.apalonapps.planesfree",
+            "version": "Live",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429092435",
+            "size": 125657912,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Planes_Live_Free_3.10.41_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Planes_Live_Free_3.10.41_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Free 3.10.41 Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
+        },
+        {
             "name": "Windy.app",
             "type": 1,
             "bundleID": "co.windyapp.Windy",
