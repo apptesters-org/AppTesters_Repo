@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Diamond",
+            "type": 1,
+            "bundleID": "com.mcdiamondfinder.app",
+            "bundleIdentifier": "com.mcdiamondfinder.app",
+            "version": "Finder",
+            "versionDate": "2025-04-29",
+            "fullDate": "20250429083904",
+            "size": 41722218,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Diamond_Finder_3.0.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Diamond_Finder_3.0.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with 3.0.14 Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+        },
+        {
             "name": "Question.AI",
             "type": 1,
             "bundleID": "com.qianfan.aihomework",
