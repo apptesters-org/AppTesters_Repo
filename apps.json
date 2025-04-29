@@ -11,18 +11,18 @@
     },
     "apps": [
         {
-            "name": "Gentler",
+            "name": "GentlerStreak",
             "type": 1,
             "bundleID": "app.gentler.activity",
             "bundleIdentifier": "app.gentler.activity",
-            "version": "Streak",
+            "version": "5.4.1",
             "versionDate": "2025-04-29",
             "fullDate": "20250429113025",
             "size": 99567632,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Gentler_Streak_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/Gentler_Streak_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/GentlerStreak_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/GentlerStreak_5.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 5.4.1 Subscription Unlocked",
+            "localizedDescription": "Injected with Subscription Unlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png"
         },
@@ -219,20 +219,20 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
         },
         {
-            "name": "BrainTest",
+            "name": "BrainTest2",
             "type": 2,
-            "bundleID": "com.unicostudio.braintest",
-            "bundleIdentifier": "com.unicostudio.braintest",
-            "version": "2",
+            "bundleID": "com.unicostudio.braintest2",
+            "bundleIdentifier": "com.unicostudio.braintest2",
+            "version": "1.20.29",
             "versionDate": "2025-04-29",
             "fullDate": "20250429080841",
             "size": 134010368,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/BrainTest_2_1.20.29_IAP_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/BrainTest_2_1.20.29_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/BrainTest2_1.20.29_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-04-2025/BrainTest2_1.20.29_IAP_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": "Injected with 1.20.29 IAP",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png"
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest2.png"
         },
         {
             "name": "BrainTest",
