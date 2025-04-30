@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "SkyGuide",
+            "type": 1,
+            "bundleID": "com.fifthstarlabs.skyguide",
+            "bundleIdentifier": "com.fifthstarlabs.skyguide",
+            "version": "11.0.4",
+            "versionDate": "2025-04-30",
+            "fullDate": "20250430115357",
+            "size": 260176775,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SkyGuide_11.0.4_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SkyGuide_11.0.4_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
+        },
+        {
             "name": "Photoroom",
             "type": 1,
             "bundleID": "com.dr1ven.eraser",
