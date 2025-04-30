@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "HappyScale",
+            "type": 1,
+            "bundleID": "com.frontpocketsoftware.happyscale",
+            "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+            "version": "2025.8.1",
+            "versionDate": "2025-04-30",
+            "fullDate": "20250430192003",
+            "size": 40456199,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/HappyScale_2025.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/HappyScale_2025.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png"
+        },
+        {
             "name": "KineMaster",
             "type": 1,
             "bundleID": "com.kinemaster.kios",
