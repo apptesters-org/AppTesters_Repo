@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "1.122.0",
+            "versionDate": "2025-04-30",
+            "fullDate": "20250430215107",
+            "size": 127228702,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Locket_1.122.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Locket_1.122.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "DiamondFinder",
             "type": 1,
             "bundleID": "com.mcdiamondfinder.app",
