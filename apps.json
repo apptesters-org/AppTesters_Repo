@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "SHRED",
+            "type": 1,
+            "bundleID": "com.shred.shredlabs",
+            "bundleIdentifier": "com.shred.shredlabs",
+            "version": "5.0.1",
+            "versionDate": "2025-04-30",
+            "fullDate": "20250430195013",
+            "size": 155113876,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/SHRED_5.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/SHRED_5.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
