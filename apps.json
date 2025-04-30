@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "SixPackAbsAbsWorkout",
+            "type": 1,
+            "bundleID": "com.abishkking.sixpack",
+            "bundleIdentifier": "com.abishkking.sixpack",
+            "version": "1.29.0",
+            "versionDate": "2025-04-30",
+            "fullDate": "20250430101327",
+            "size": 347554455,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SixPackAbsAbsWorkout_1.29.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2025/SixPackAbsAbsWorkout_1.29.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
