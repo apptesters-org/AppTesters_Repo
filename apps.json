@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "QrCode",
+            "type": 1,
+            "bundleID": "com.internet-rocks.codescanner",
+            "bundleIdentifier": "com.internet-rocks.codescanner",
+            "version": "6.23.0",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501133833",
+            "size": 89980646,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/QrCode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/QrCode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
+        },
+        {
             "name": "FindAir",
             "type": 1,
             "bundleID": "co.airapps.finderbot",
