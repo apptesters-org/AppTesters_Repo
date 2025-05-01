@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "FilmicPro",
+            "type": 1,
+            "bundleID": "com.cinegenix.filmic.pro",
+            "bundleIdentifier": "com.cinegenix.filmic.pro",
+            "version": "7.5.25",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501163421",
+            "size": 142032587,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/FilmicPro_7.5.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/FilmicPro_7.5.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
