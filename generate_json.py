@@ -5,6 +5,7 @@ import pandas as pd
 from get_bundle_id import get_single_bundle_id
 import os
 import shutil
+from datetime import timezone, timedelta
 
 REPO_NAME = "apptesters-org/AppTesters_Repo"
 
@@ -39,8 +40,11 @@ if __name__ == "__main__":
                 continue
             IS_IPA = spl[-1] == "ipa"
             name = ".".join(spl[:-1])
-            date = asset.created_at.strftime("%Y-%m-%d")
-            full_date = asset.created_at.strftime("%Y%m%d%H%M%S")
+            # IST = UTC+5:30
+            IST = timezone(timedelta(hours=5, minutes=30))
+            created_at_ist = asset.created_at.astimezone(IST)
+            date = created_at_ist.strftime("%Y-%m-%d")         # e.g., '2025-05-02'
+            full_date = created_at_ist.strftime("%Y%m%d%H%M%S") # e.g., '20250502020230'
             try:
                 app_name, version, tweaks = name.split("_", 2)
                 tweaks, _ = tweaks.split("@", 1)
