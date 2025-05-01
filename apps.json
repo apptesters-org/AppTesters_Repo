@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "SAOVS",
+            "type": 2,
+            "bundleID": "jp.co.bandainamcoent.BNEI0409",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0409",
+            "version": "2.5.2",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501195222",
+            "size": 143493967,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/SAOVS_2.5.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/SAOVS_2.5.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0409.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0409.png"
+        },
+        {
             "name": "MyFitnessPal",
             "type": 1,
             "bundleID": "com.myfitnesspal.mfp",
