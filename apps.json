@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Speedtest",
+            "type": 1,
+            "bundleID": "com.ookla.speedtest",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "version": "6.1.1",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501220244",
+            "size": 54769751,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Speedtest_6.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Speedtest_6.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png"
+        },
+        {
             "name": "Locket",
             "type": 1,
             "bundleID": "com.locket.Locket",
