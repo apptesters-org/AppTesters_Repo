@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AgeofMagic",
+            "type": 2,
+            "bundleID": "com.playkot.ageofmagic",
+            "bundleIdentifier": "com.playkot.ageofmagic",
+            "version": "2.33.1",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502040751",
+            "size": 260659206,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AgeofMagic_2.33.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/AgeofMagic_2.33.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playkot.ageofmagic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playkot.ageofmagic.png"
+        },
+        {
             "name": "Speedtest",
             "type": 1,
             "bundleID": "com.ookla.speedtest",
