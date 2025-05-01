@@ -1,9 +1,10 @@
 {
     "name": "AppTesters IPA Repo",
     "identifier": "org.apptesters.repo",
-    "sourceURL": "https://repo.apptesters.org/",
+    "sourceURL": "https://repository.apptesters.org/",
     "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
     "website": "https://apptesters.org",
+    "ipawebsite": "https://apps.apptesters.org",
     "subtitle": "Biggest Updated Modified IPA Library for Sideloading - AppTesters.org",
     "META": {
         "repoName": "AppTesters IPA Repo",
