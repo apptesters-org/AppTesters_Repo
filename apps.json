@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "FindAir",
+            "type": 1,
+            "bundleID": "co.airapps.finderbot",
+            "bundleIdentifier": "co.airapps.finderbot",
+            "version": "3.14.0",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501121322",
+            "size": 68507990,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/FindAir_3.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/FindAir_3.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png"
+        },
+        {
             "name": "BlockBlast",
             "type": 2,
             "bundleID": "com.blockpuzzle.us.ios",
