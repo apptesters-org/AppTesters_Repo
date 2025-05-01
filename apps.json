@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "Supershift",
+            "type": 1,
+            "bundleID": "io.erna",
+            "bundleIdentifier": "io.erna",
+            "version": "2025.9",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501060702",
+            "size": 34259006,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Supershift_2025.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/Supershift_2025.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
+        },
+        {
             "name": "WaterMinder",
             "type": 1,
             "bundleID": "com.waterminder.waterminder",
