@@ -11,6 +11,22 @@
     },
     "apps": [
         {
+            "name": "CarScanner",
+            "type": 1,
+            "bundleID": "ovz.Car-Scanner",
+            "bundleIdentifier": "ovz.Car-Scanner",
+            "version": "1.118.0",
+            "versionDate": "2025-05-01",
+            "fullDate": "20250501102752",
+            "size": 62971878,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/CarScanner_1.118.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-05-2025/CarScanner_1.118.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
+        },
+        {
             "name": "VivaCut",
             "type": 1,
             "bundleID": "com.vivacut.videoeditor",
