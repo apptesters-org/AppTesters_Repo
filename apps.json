@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlanesLiveFree",
+            "type": 1,
+            "bundleID": "com.apalonapps.planesfree",
+            "bundleIdentifier": "com.apalonapps.planesfree",
+            "version": "3.10.42",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502115906",
+            "size": 125759166,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PlanesLiveFree_3.10.42_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PlanesLiveFree_3.10.42_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
