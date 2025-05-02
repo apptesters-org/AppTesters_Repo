@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KineMaster",
+            "type": 1,
+            "bundleID": "com.kinemaster.kios",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "7.6.14",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502135508",
+            "size": 108737791,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/KineMaster_7.6.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/KineMaster_7.6.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+        },
+        {
             "name": "SpeakTranslate",
             "type": 1,
             "bundleID": "com.appicfun.translatorfree",
