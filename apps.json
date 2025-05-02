@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantApp",
+            "type": 1,
+            "bundleID": "com.scaleup.plantid",
+            "bundleIdentifier": "com.scaleup.plantid",
+            "version": "3.0.4",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502140515",
+            "size": 79448771,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PlantApp_3.0.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PlantApp_3.0.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+        },
+        {
             "name": "KineMaster",
             "type": 1,
             "bundleID": "com.kinemaster.kios",
