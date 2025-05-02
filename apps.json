@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Focos",
+            "type": 1,
+            "bundleID": "com.focos",
+            "bundleIdentifier": "com.focos",
+            "version": "2.11.22",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502123435",
+            "size": 348675945,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Focos_2.11.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Focos_2.11.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png"
+        },
+        {
             "name": "Coconote",
             "type": 1,
             "bundleID": "com.bbauman.Scripty",
