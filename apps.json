@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Facetune",
+            "type": 1,
+            "bundleID": "com.lightricks.Facetune2",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.87.1",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502221812",
+            "size": 350815099,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Facetune_3.87.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/Facetune_3.87.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "RiseSleep",
             "type": 1,
             "bundleID": "com.risesci.nyx",
