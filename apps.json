@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PicsArt",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "27.3.1",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502174154",
+            "size": 100442391,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PicsArt_27.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/PicsArt_27.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "NBv61249",
+            "type": 1,
+            "bundleID": "nt.nb.ios",
+            "bundleIdentifier": "nt.nb.ios",
+            "version": "61.249",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502174125",
+            "size": 793492751,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/NBv61249_61.249_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/NBv61249_61.249_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png"
+        },
+        {
             "name": "FELFishEyeLens",
             "type": 1,
             "bundleID": "com.phantom.fantengmu",
