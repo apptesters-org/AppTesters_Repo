@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ParkingJam3D",
+            "type": 2,
+            "bundleID": "com.uqxuwtxbbu.parkingjam",
+            "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+            "version": "218.2.4",
+            "versionDate": "2025-05-02",
+            "fullDate": "20250502192721",
+            "size": 225060744,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/ParkingJam3D_218.2.4_noads_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-05-2025/ParkingJam3D_218.2.4_noads_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with noads",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png"
+        },
+        {
             "name": "Fitbod",
             "type": 1,
             "bundleID": "com.fitbod",
