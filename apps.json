@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PeekWeather",
+            "type": 1,
+            "bundleID": "com.indiegoodies.Weather2",
+            "bundleIdentifier": "com.indiegoodies.Weather2",
+            "version": "1.4.1",
+            "versionDate": "2025-05-03",
+            "fullDate": "20250503155057",
+            "size": 227975607,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/PeekWeather_1.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.indiegoodies.Weather2.png"
+        },
+        {
             "name": "Artistai",
             "type": 1,
             "bundleID": "com.livintis.aiartapp",
