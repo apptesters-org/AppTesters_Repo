@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Brite",
+            "type": 1,
+            "bundleID": "io.konveier.timo",
+            "bundleIdentifier": "io.konveier.timo",
+            "version": "24.1.8",
+            "versionDate": "2025-05-03",
+            "fullDate": "20250503143519",
+            "size": 25493291,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Brite_24.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png"
+        },
+        {
             "name": "TerrariumGardenIdle",
             "type": 2,
             "bundleID": "sk.phx.terrarium",
