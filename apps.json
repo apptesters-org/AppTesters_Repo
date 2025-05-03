@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Breathwrk",
+            "type": 1,
+            "bundleID": "com.breathwrk.ios",
+            "bundleIdentifier": "com.breathwrk.ios",
+            "version": "23.38",
+            "versionDate": "2025-05-03",
+            "fullDate": "20250503153538",
+            "size": 237901443,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/Breathwrk_23.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.breathwrk.ios.png"
+        },
+        {
             "name": "PhotoSwipe",
             "type": 1,
             "bundleID": "com.app.gallerycleaner",
