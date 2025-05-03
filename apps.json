@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "OffScreen",
+            "type": 1,
+            "bundleID": "tech.miidii.off-screen",
+            "bundleIdentifier": "tech.miidii.off-screen",
+            "version": "3.19.7",
+            "versionDate": "2025-05-03",
+            "fullDate": "20250503151028",
+            "size": 89352180,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2025/OffScreen_3.19.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.off-screen.png"
+        },
+        {
             "name": "Liftoff",
             "type": 1,
             "bundleID": "com.gymbros.app",
