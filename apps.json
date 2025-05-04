@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MacroFactor",
+            "type": 1,
+            "bundleID": "com.sbs.diet",
+            "bundleIdentifier": "com.sbs.diet",
+            "version": "5.1.2",
+            "versionDate": "2025-05-04",
+            "fullDate": "20250504075839",
+            "size": 75264768,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2025/MacroFactor_5.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2025/MacroFactor_5.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
+        },
+        {
             "name": "Photoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Editor",
