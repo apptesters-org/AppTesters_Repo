@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Finch",
+            "type": 1,
+            "bundleID": "com.finch.finch",
+            "bundleIdentifier": "com.finch.finch",
+            "version": "3.73.15",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505161235",
+            "size": 167058066,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Finch_3.73.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.finch.finch.png"
+        },
+        {
             "name": "Eden",
             "type": 1,
             "bundleID": "com.mfagency.nurture",
