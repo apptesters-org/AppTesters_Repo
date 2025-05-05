@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "",
+            "type": 1,
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
+            "version": "15.5",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505220922",
+            "size": 364706365,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/_15.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/_15.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
@@ -5518,8 +5534,8 @@
         {
             "name": "",
             "type": 1,
-            "bundleID": "com.intsig.CamScannerLite",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
             "version": "6.84.2",
             "versionDate": "2025-03-26",
             "fullDate": "20250326162743",
@@ -5528,8 +5544,8 @@
             "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-03-2025/_6.84.2_VIP_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with VIP",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
         },
         {
             "name": "Documents",
@@ -6174,8 +6190,8 @@
         {
             "name": "",
             "type": 1,
-            "bundleID": "com.intsig.CamScannerLite",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
             "version": "8.4.3",
             "versionDate": "2025-03-24",
             "fullDate": "20250324124211",
@@ -6184,8 +6200,8 @@
             "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-03-2025/_8.4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Pro",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
         },
         {
             "name": "Paired",
@@ -7230,8 +7246,8 @@
         {
             "name": "",
             "type": 1,
-            "bundleID": "com.intsig.CamScannerLite",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
             "version": "14.9.5",
             "versionDate": "2025-03-07",
             "fullDate": "20250307013554",
@@ -7240,8 +7256,8 @@
             "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/_14.9.5_Pro_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Pro",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
         },
         {
             "name": "Vsco",
@@ -7790,8 +7806,8 @@
         {
             "name": "",
             "type": 1,
-            "bundleID": "com.intsig.CamScannerLite",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
             "version": "6.83.0",
             "versionDate": "2025-03-05",
             "fullDate": "20250305153101",
@@ -7800,8 +7816,8 @@
             "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/_6.83.0_VIP_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with VIP",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
         },
         {
             "name": "Busuu",
@@ -8206,8 +8222,8 @@
         {
             "name": "",
             "type": 1,
-            "bundleID": "com.intsig.CamScannerLite",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "bundleID": "com.madarsoft.fitness",
+            "bundleIdentifier": "com.madarsoft.fitness",
             "version": "14.9",
             "versionDate": "2025-03-05",
             "fullDate": "20250305022156",
@@ -8216,8 +8232,8 @@
             "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/_14.9_Pro_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with Pro",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.madarsoft.fitness.png"
         },
         {
             "name": "Notability",
