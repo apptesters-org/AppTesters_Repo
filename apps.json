@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HabitKit",
+            "type": 1,
+            "bundleID": "com.roehl.habitkit",
+            "bundleIdentifier": "com.roehl.habitkit",
+            "version": "1.12.1",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505142116",
+            "size": 58292328,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/HabitKit_1.12.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/HabitKit_1.12.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
