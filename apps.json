@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PicsArt",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "27.4.3",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505214915",
+            "size": 108520707,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/PicsArt_27.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/PicsArt_27.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "FitnessAI",
             "type": 1,
             "bundleID": "com.jakemor.firness-ai",
