@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Eden",
+            "type": 1,
+            "bundleID": "com.mfagency.nurture",
+            "bundleIdentifier": "com.mfagency.nurture",
+            "version": "4.9.6",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505160228",
+            "size": 114699432,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Eden_4.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Eden_4.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
