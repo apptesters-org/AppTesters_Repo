@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Suret",
+            "type": 1,
+            "bundleID": "com.idevtal.Wallpapers",
+            "bundleIdentifier": "com.idevtal.Wallpapers",
+            "version": "5.61",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505211901",
+            "size": 95302020,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Suret_5.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Suret_5.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png"
+        },
+        {
             "name": "Threads",
             "type": 1,
             "bundleID": "com.burbn.barcelona",
