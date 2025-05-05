@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "14.11.11",
+            "versionDate": "2025-05-05",
+            "fullDate": "20250505144157",
+            "size": 201741792,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Notability_14.11.11_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2025/Notability_14.11.11_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
             "name": "MonokaiToolkitPro",
             "type": 1,
             "bundleID": "com.monokaitoolkit.pro",
