@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FarmVille2",
+            "type": 2,
+            "bundleID": "com.zynga.FarmVille2CountryEscape",
+            "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+            "version": "27.7",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506152238",
+            "size": 285881187,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/FarmVille2_27.7_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/FarmVille2_27.7_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
+        },
+        {
             "name": "GentlerStreak",
             "type": 1,
             "bundleID": "app.gentler.activity",
