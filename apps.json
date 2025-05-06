@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TomboftheMask",
+            "type": 2,
+            "bundleID": "com.happymagenta.fromcore",
+            "bundleIdentifier": "com.happymagenta.fromcore",
+            "version": "1.20.2",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506193914",
+            "size": 71512024,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/TomboftheMask_1.20.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/TomboftheMask_1.20.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.happymagenta.fromcore.png"
+        },
+        {
             "name": "Cheatsheet",
             "type": 1,
             "bundleID": "com.overdesigned.Cheatsheet",
