@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "superagent",
+            "type": 1,
+            "bundleID": "com.agent.super.extension.safari",
+            "bundleIdentifier": "com.agent.super.extension.safari",
+            "version": "3.19.0",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506154810",
+            "size": 34773028,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/superagent_3.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/superagent_3.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+        },
+        {
             "name": "Moonly",
             "type": 1,
             "bundleID": "com.moonly.Moonly",
