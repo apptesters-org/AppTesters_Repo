@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "myTunerRadio",
+            "type": 1,
+            "bundleID": "mobi.digitalminds.itunerfree",
+            "bundleIdentifier": "mobi.digitalminds.itunerfree",
+            "version": "9.5.7",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506190853",
+            "size": 79592337,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/myTunerRadio_9.5.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png"
+        },
+        {
+            "name": "Planta",
+            "type": 1,
+            "bundleID": "com.stromming.Plants",
+            "bundleIdentifier": "com.stromming.Plants",
+            "version": "3.86.0",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506190848",
+            "size": 99423145,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Planta_3.86.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Planta_3.86.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png"
+        },
+        {
             "name": "Tarteel",
             "type": 1,
             "bundleID": "com.iqraapp.Iqra",
