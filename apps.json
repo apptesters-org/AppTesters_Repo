@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PREQUEL",
+            "type": 1,
+            "bundleID": "com.aiarlabs.prequel",
+            "bundleIdentifier": "com.aiarlabs.prequel",
+            "version": "2.69.0",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506141618",
+            "size": 200036691,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/PREQUEL_2.69.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
