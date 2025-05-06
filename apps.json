@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Anime",
+            "type": 1,
+            "bundleID": "com.wallpapershub.anime",
+            "bundleIdentifier": "com.wallpapershub.anime",
+            "version": "3.8.3",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506143128",
+            "size": 123043375,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Anime_3.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Anime_3.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png"
+        },
+        {
             "name": "PREQUEL",
             "type": 1,
             "bundleID": "com.aiarlabs.prequel",
