@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Moonly",
+            "type": 1,
+            "bundleID": "com.moonly.Moonly",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "version": "2.2.4",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506154303",
+            "size": 171850179,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Moonly_2.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Moonly_2.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+        },
+        {
+            "name": "Komoot",
+            "type": 1,
+            "bundleID": "de.komoot.berlinbikeapp",
+            "bundleIdentifier": "de.komoot.berlinbikeapp",
+            "version": "2025.20.1",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506154258",
+            "size": 104343280,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Komoot_2025.20.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Komoot_2025.20.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png"
+        },
+        {
             "name": "Persona",
             "type": 1,
             "bundleID": "com.tickettothemoon.video.persona",
