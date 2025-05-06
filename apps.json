@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Mondly",
+            "type": 1,
+            "bundleID": "com.atistudios.MondlyLanguages",
+            "bundleIdentifier": "com.atistudios.MondlyLanguages",
+            "version": "10.49.1",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506145214",
+            "size": 184040004,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Mondly_10.49.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Mondly_10.49.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
+        },
+        {
+            "name": "Twitch",
+            "type": 1,
+            "bundleID": "tv.twitch",
+            "bundleIdentifier": "tv.twitch",
+            "version": "24.3",
+            "versionDate": "2025-05-06",
+            "fullDate": "20250506145210",
+            "size": 106281728,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Twitch_24.3_Adblock_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Twitch_24.3_Adblock_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Adblock",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tv.twitch.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tv.twitch.png"
+        },
+        {
             "name": "1998Cam",
             "type": 1,
             "bundleID": "com.h3d2.1998cam",
