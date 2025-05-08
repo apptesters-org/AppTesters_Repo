@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Reface",
+            "type": 1,
+            "bundleID": "com.neocortext.doublicatapp",
+            "bundleIdentifier": "com.neocortext.doublicatapp",
+            "version": "5.16.0",
+            "versionDate": "2025-05-08",
+            "fullDate": "20250508220208",
+            "size": 128409624,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Reface_5.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-05-2025/Reface_5.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png"
+        },
+        {
             "name": "PlaceGuesser",
             "type": 2,
             "bundleID": "com.mobivalley.LookAroundApp",
