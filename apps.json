@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PrettyUp",
+            "type": 1,
+            "bundleID": "com.floatcamellia.prettyup",
+            "bundleIdentifier": "com.floatcamellia.prettyup",
+            "version": "8.5.01",
+            "versionDate": "2025-05-09",
+            "fullDate": "20250509040357",
+            "size": 280111324,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PrettyUp_8.5.01_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PrettyUp_8.5.01_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.floatcamellia.prettyup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.floatcamellia.prettyup.png"
+        },
+        {
             "name": "TranslateNow",
             "type": 1,
             "bundleID": "solutions.wzp.translator",
