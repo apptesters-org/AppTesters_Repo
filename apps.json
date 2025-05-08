@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "superagent",
+            "type": 1,
+            "bundleID": "com.agent.super.extension.safari",
+            "bundleIdentifier": "com.agent.super.extension.safari",
+            "version": "3.20.0",
+            "versionDate": "2025-05-09",
+            "fullDate": "20250509021231",
+            "size": 34773076,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/superagent_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/superagent_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png"
+        },
+        {
             "name": "Reface",
             "type": 1,
             "bundleID": "com.neocortext.doublicatapp",
