@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PodcastyAI",
+            "type": 1,
+            "bundleID": "com.stbokarev.podcastyai",
+            "bundleIdentifier": "com.stbokarev.podcastyai",
+            "version": "1.1.22",
+            "versionDate": "2025-05-09",
+            "fullDate": "20250509153302",
+            "size": 22003782,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/PodcastyAI_1.1.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stbokarev.podcastyai.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
