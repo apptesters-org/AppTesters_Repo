@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AdventureBay",
+            "type": 2,
+            "bundleID": "com.gamegos.adventure.bay.paradise.farm",
+            "bundleIdentifier": "com.gamegos.adventure.bay.paradise.farm",
+            "version": "1.38.19",
+            "versionDate": "2025-05-09",
+            "fullDate": "20250509164821",
+            "size": 209709895,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/AdventureBay_1.38.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamegos.adventure.bay.paradise.farm.png"
+        },
+        {
             "name": "Dune",
             "type": 2,
             "bundleID": "io.voodoo.dune",
