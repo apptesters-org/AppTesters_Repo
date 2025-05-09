@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Aloha",
+            "type": 1,
+            "bundleID": "com.alohabrowser.alohabrowser",
+            "bundleIdentifier": "com.alohabrowser.alohabrowser",
+            "version": "7.3.0",
+            "versionDate": "2025-05-09",
+            "fullDate": "20250509130738",
+            "size": 123587971,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Aloha_7.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Aloha_7.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png"
+        },
+        {
             "name": "foriOS",
             "type": 1,
             "bundleID": "com.tapinfinity.HdjcXcode7",
