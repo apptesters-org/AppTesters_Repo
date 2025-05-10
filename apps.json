@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Thenx",
+            "type": 1,
+            "bundleID": "com.calisthenics.thenx",
+            "bundleIdentifier": "com.calisthenics.thenx",
+            "version": "6.2.3",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510215220",
+            "size": 82406727,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Thenx_6.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Thenx_6.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+        },
+        {
             "name": "MagicTiles3",
             "type": 2,
             "bundleID": "com.amanotes.magictiles",
