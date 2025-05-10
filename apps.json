@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PinGrab",
+            "type": 1,
+            "bundleID": "com.pingrab.app",
+            "bundleIdentifier": "com.pingrab.app",
+            "version": "2.6.5",
+            "versionDate": "2025-05-11",
+            "fullDate": "20250511040907",
+            "size": 169092261,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/PinGrab_2.6.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pingrab.app.png"
+        },
+        {
             "name": "Slopes",
             "type": 1,
             "bundleID": "com.consumedbycode.slopes",
