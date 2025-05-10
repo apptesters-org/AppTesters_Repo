@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LoopBattle",
+            "type": 2,
+            "bundleID": "com.imba.loopbattle",
+            "bundleIdentifier": "com.imba.loopbattle",
+            "version": "0.3",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510154049",
+            "size": 98391469,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/LoopBattle_0.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.imba.loopbattle.png"
+        },
+        {
             "name": "SonivaMusic",
             "type": 1,
             "bundleID": "ai.mindveil.musicai",
