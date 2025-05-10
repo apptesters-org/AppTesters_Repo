@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "intoLive",
+            "type": 1,
+            "bundleID": "me.imgbase.intolive",
+            "bundleIdentifier": "me.imgbase.intolive",
+            "version": "4.3.1",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510151530",
+            "size": 132727260,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/intoLive_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png"
+        },
+        {
+            "name": "VDIT",
+            "type": 1,
+            "bundleID": "me.imgbase.videoday",
+            "bundleIdentifier": "me.imgbase.videoday",
+            "version": "3.3.0",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510151525",
+            "size": 182801525,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/VDIT_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/VDIT_3.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
+        },
+        {
             "name": "SolarSmash",
             "type": 2,
             "bundleID": "com.paradyme.solarsmasher",
