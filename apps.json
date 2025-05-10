@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SolarSmash",
+            "type": 2,
+            "bundleID": "com.paradyme.solarsmasher",
+            "bundleIdentifier": "com.paradyme.solarsmasher",
+            "version": "2.5.4",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510151016",
+            "size": 285807404,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SolarSmash_2.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.paradyme.solarsmasher.png"
+        },
+        {
             "name": "LiveScore",
             "type": 1,
             "bundleID": "LiveScore",
