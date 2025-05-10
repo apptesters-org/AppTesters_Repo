@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SoccerStar",
+            "type": 2,
+            "bundleID": "soccer.score.star",
+            "bundleIdentifier": "soccer.score.star",
+            "version": "0.3.14",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510183136",
+            "size": 169738466,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SoccerStar_0.3.14_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/SoccerStar_0.3.14_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/soccer.score.star.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/soccer.score.star.png"
+        },
+        {
             "name": "CalculatorAir",
             "type": 1,
             "bundleID": "com.CalculatorForiPad.InternetRocks",
