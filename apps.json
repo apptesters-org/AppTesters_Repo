@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tripsy",
+            "type": 1,
+            "bundleID": "app.tripsy.ios",
+            "bundleIdentifier": "app.tripsy.ios",
+            "version": "3.4.4",
+            "versionDate": "2025-05-10",
+            "fullDate": "20250510122443",
+            "size": 174310422,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Tripsy_3.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2025/Tripsy_3.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+        },
+        {
             "name": "Beelinguapp",
             "type": 1,
             "bundleID": "com.beelinguapp.beelinguapp",
