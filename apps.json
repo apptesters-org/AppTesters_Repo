@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Videoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Video",
+            "bundleIdentifier": "com.lightricks.Enlight-Video",
+            "version": "2.69",
+            "versionDate": "2025-05-11",
+            "fullDate": "20250511120539",
+            "size": 407052029,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/Videoleap_2.69_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/Videoleap_2.69_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png"
+        },
+        {
             "name": "Photoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Editor",
