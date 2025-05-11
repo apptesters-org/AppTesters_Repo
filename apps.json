@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SigStick",
+            "type": 1,
+            "bundleID": "com.ooeric.SignStick1",
+            "bundleIdentifier": "com.ooeric.SignStick1",
+            "version": "5.26.1",
+            "versionDate": "2025-05-11",
+            "fullDate": "20250511131132",
+            "size": 54001129,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/SigStick_5.26.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/SigStick_5.26.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
+        },
+        {
             "name": "Videoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Video",
