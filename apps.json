@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Clarity",
+            "type": 1,
+            "bundleID": "com.moodtools.thoughtdiary",
+            "bundleIdentifier": "com.moodtools.thoughtdiary",
+            "version": "5.4.93",
+            "versionDate": "2025-05-11",
+            "fullDate": "20250511233546",
+            "size": 206755386,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/Clarity_5.4.93_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/Clarity_5.4.93_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
+        },
+        {
             "name": "Encode",
             "type": 1,
             "bundleID": "com.upskew.encode.ios",
