@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "iSTB",
+            "type": 1,
+            "bundleID": "com.na.istb",
+            "bundleIdentifier": "com.na.istb",
+            "version": "1.28.9",
+            "versionDate": "2025-05-12",
+            "fullDate": "20250512033118",
+            "size": 38383359,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/iSTB_1.28.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2025/iSTB_1.28.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png"
+        },
+        {
             "name": "Suret",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
