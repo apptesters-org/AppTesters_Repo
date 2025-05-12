@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stemz",
+            "type": 1,
+            "bundleID": "com.mwm.stems",
+            "bundleIdentifier": "com.mwm.stems",
+            "version": "4.01.24",
+            "versionDate": "2025-05-12",
+            "fullDate": "20250512064717",
+            "size": 149463326,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Stemz_4.01.24_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Stemz_4.01.24_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
+        },
+        {
             "name": "Typeright",
             "type": 1,
             "bundleID": "com.itranslate.grammatica.ios",
