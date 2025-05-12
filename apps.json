@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "329.2",
+            "versionDate": "2025-05-12",
+            "fullDate": "20250512131302",
+            "size": 208135133,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Headway_329.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/Headway_329.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
