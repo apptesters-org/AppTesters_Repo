@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Quizlet",
+            "type": 1,
+            "bundleID": "com.quizlet.quizlet",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "9.32",
+            "versionDate": "2025-05-13",
+            "fullDate": "20250513015730",
+            "size": 59112489,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/Quizlet_9.32_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/Quizlet_9.32_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+        },
+        {
             "name": "ForeFlight",
             "type": 1,
             "bundleID": "com.foreflight.ForeFlightMobile",
