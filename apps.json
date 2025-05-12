@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoLite",
+            "type": 1,
+            "bundleID": "com.videobrowser.ios",
+            "bundleIdentifier": "com.videobrowser.ios",
+            "version": "612130",
+            "versionDate": "2025-05-12",
+            "fullDate": "20250512154845",
+            "size": 31292186,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/VideoLite_612130_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/VideoLite_612130_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
+        },
+        {
             "name": "Flightradar24",
             "type": 1,
             "bundleID": "se.resenatverket.FlightRadar24-Free",
