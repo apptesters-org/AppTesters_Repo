@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DiamondFinder",
+            "type": 1,
+            "bundleID": "com.mcdiamondfinder.app",
+            "bundleIdentifier": "com.mcdiamondfinder.app",
+            "version": "3.0.16",
+            "versionDate": "2025-05-12",
+            "fullDate": "20250512171424",
+            "size": 41779307,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/DiamondFinder_3.0.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2025/DiamondFinder_3.0.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mcdiamondfinder.app.png"
+        },
+        {
             "name": "BodyFast",
             "type": 1,
             "bundleID": "de.BodyFast.BodyFast2",
