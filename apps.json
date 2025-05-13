@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AIChatbot",
+            "type": 1,
+            "bundleID": "com.aichatbot.assistant",
+            "bundleIdentifier": "com.aichatbot.assistant",
+            "version": "2.27",
+            "versionDate": "2025-05-13",
+            "fullDate": "20250513230042",
+            "size": 111970657,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/AIChatbot_2.27_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/AIChatbot_2.27_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png"
+        },
+        {
             "name": "VoiceTube",
             "type": 1,
             "bundleID": "tw.tyche.voicetube",
