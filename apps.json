@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "type": 1,
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.97.1",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514021335",
+            "size": 167001383,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/X_10.97.1_BHTwitter_4.4_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/X_10.97.1_BHTwitter_4.4_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHTwitter 4.4",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "Pillow",
             "type": 1,
             "bundleID": "com.neybox.Pillow",
