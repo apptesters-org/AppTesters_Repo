@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "iLovePDF",
+            "type": 1,
+            "bundleID": "com.ilovepdf.www",
+            "bundleIdentifier": "com.ilovepdf.www",
+            "version": "3.12.1",
+            "versionDate": "2025-05-13",
+            "fullDate": "20250513202019",
+            "size": 160814237,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/iLovePDF_3.12.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/iLovePDF_3.12.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
+        },
+        {
             "name": "HappyScale",
             "type": 1,
             "bundleID": "com.frontpocketsoftware.happyscale",
