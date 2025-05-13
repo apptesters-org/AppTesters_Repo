@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.8.9",
+            "versionDate": "2025-05-13",
+            "fullDate": "20250513184501",
+            "size": 60818894,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/SCRL_9.8.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/SCRL_9.8.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
