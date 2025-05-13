@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Minutes",
+            "type": 1,
+            "bundleID": "ventures.slam.minutes",
+            "bundleIdentifier": "ventures.slam.minutes",
+            "version": "1.6.4",
+            "versionDate": "2025-05-13",
+            "fullDate": "20250513103349",
+            "size": 10051242,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/Minutes_1.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2025/Minutes_1.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
