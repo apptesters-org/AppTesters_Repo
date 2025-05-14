@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.227.1",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514183847",
+            "size": 188014711,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Mojo_1.227.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Mojo_1.227.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "TeraBox",
             "type": 1,
             "bundleID": "com.dubox.drive",
