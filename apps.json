@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Persona",
+            "type": 1,
+            "bundleID": "com.tickettothemoon.video.persona",
+            "bundleIdentifier": "com.tickettothemoon.video.persona",
+            "version": "1.12.18",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514184856",
+            "size": 171090848,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Persona_1.12.18_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Persona_1.12.18_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png"
+        },
+        {
             "name": "Mojo",
             "type": 1,
             "bundleID": "archery.storify",
