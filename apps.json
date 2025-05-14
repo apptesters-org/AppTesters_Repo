@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Soundmap",
+            "type": 2,
+            "bundleID": "app.mmap.mobile",
+            "bundleIdentifier": "app.mmap.mobile",
+            "version": "1.63.0",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514132213",
+            "size": 50949256,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Soundmap_1.63.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/Soundmap_1.63.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
