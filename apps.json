@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MergeCooking",
+            "type": 2,
+            "bundleID": "com.merge.cooking.theme.restaurant.food",
+            "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+            "version": "1.1.91",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514171743",
+            "size": 244391788,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/MergeCooking_1.1.91_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/MergeCooking_1.1.91_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
+        },
+        {
             "name": "TuneInRadio",
             "type": 1,
             "bundleID": "com.alexanderben.RadioIn",
