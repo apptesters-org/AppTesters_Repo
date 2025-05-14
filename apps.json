@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TeraBox",
+            "type": 1,
+            "bundleID": "com.dubox.drive",
+            "bundleIdentifier": "com.dubox.drive",
+            "version": "3.44.3",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514181340",
+            "size": 122027856,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/TeraBox_3.44.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/TeraBox_3.44.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png"
+        },
+        {
             "name": "CodeRunner",
             "type": 1,
             "bundleID": "com.markodevcic.code-runner",
