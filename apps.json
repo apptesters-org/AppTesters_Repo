@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TuneInRadio",
+            "type": 1,
+            "bundleID": "com.alexanderben.RadioIn",
+            "bundleIdentifier": "com.alexanderben.RadioIn",
+            "version": "32.5.0",
+            "versionDate": "2025-05-14",
+            "fullDate": "20250514164238",
+            "size": 59296955,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/TuneInRadio_32.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2025/TuneInRadio_32.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
+        },
+        {
             "name": "Life",
             "type": 1,
             "bundleID": "co.lovetap.Female-by-Design",
