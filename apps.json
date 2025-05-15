@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.10.10",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515184841",
+            "size": 139591057,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/SimplyPiano_9.10.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/SimplyPiano_9.10.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "Pillow",
             "type": 1,
             "bundleID": "com.neybox.Pillow",
