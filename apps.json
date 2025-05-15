@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "TravelBoast",
+            "type": 1,
+            "bundleID": "com.travelboast.travelboast",
+            "bundleIdentifier": "com.travelboast.travelboast",
+            "version": "2.09",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515185907",
+            "size": 241358810,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/TravelBoast_2.09_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/TravelBoast_2.09_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png"
+        },
+        {
+            "name": "Unscripted",
+            "type": 1,
+            "bundleID": "com.ibit.UNPOSED",
+            "bundleIdentifier": "com.ibit.UNPOSED",
+            "version": "4.2.6",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515185902",
+            "size": 120339576,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/Unscripted_4.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/Unscripted_4.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png"
+        },
+        {
             "name": "CoinSnap",
             "type": 1,
             "bundleID": "com.coinidentifier.identifycoins",
