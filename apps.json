@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MuslimPro",
+            "type": 1,
+            "bundleID": "com.bitsmedia.muslimpro",
+            "bundleIdentifier": "com.bitsmedia.muslimpro",
+            "version": "16.12.1",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515193447",
+            "size": 152606125,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/MuslimPro_16.12.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/MuslimPro_16.12.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bitsmedia.muslimpro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bitsmedia.muslimpro.png"
+        },
+        {
             "name": "Unfold",
             "type": 1,
             "bundleID": "com.moonlab.unfoldstories",
