@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantApp",
+            "type": 1,
+            "bundleID": "com.scaleup.plantid",
+            "bundleIdentifier": "com.scaleup.plantid",
+            "version": "3.0.5",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515061950",
+            "size": 78621982,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/PlantApp_3.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/PlantApp_3.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+        },
+        {
             "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
