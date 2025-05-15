@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stemz",
+            "type": 1,
+            "bundleID": "com.mwm.stems",
+            "bundleIdentifier": "com.mwm.stems",
+            "version": "4.01.25",
+            "versionDate": "2025-05-15",
+            "fullDate": "20250515145737",
+            "size": 148481715,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/Stemz_4.01.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2025/Stemz_4.01.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
