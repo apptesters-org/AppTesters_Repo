@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Speak",
+            "type": 1,
+            "bundleID": "com.appicfun.translatorfree",
+            "bundleIdentifier": "com.appicfun.translatorfree",
+            "version": "3.103.0",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516155214",
+            "size": 117223581,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Speak_3.103.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Speak_3.103.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png"
+        },
+        {
             "name": "Summarify",
             "type": 1,
             "bundleID": "nz.digitaltools.Tube-GPT",
