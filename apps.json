@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Buddy",
+            "type": 1,
+            "bundleID": "com.iPwners.Plonkan",
+            "bundleIdentifier": "com.iPwners.Plonkan",
+            "version": "12.51",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516205850",
+            "size": 69502860,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Buddy_12.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Buddy_12.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
+        },
+        {
             "name": "BXNG",
             "type": 1,
             "bundleID": "com.app.BXNGApp",
