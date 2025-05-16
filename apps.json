@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitnessAI",
+            "type": 1,
+            "bundleID": "com.jakemor.firness-ai",
+            "bundleIdentifier": "com.jakemor.firness-ai",
+            "version": "13.5",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517013921",
+            "size": 126968345,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/FitnessAI_13.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/FitnessAI_13.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png"
+        },
+        {
             "name": "Fitbod",
             "type": 1,
             "bundleID": "com.fitbod",
