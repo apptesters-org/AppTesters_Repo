@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Oniri",
+            "type": 1,
+            "bundleID": "com.sublime.capture",
+            "bundleIdentifier": "com.sublime.capture",
+            "version": "4.6.9",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516165302",
+            "size": 75117128,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Oniri_4.6.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Oniri_4.6.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sublime.capture.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sublime.capture.png"
+        },
+        {
             "name": "Accountit",
             "type": 1,
             "bundleID": "DesignTech-SIA.Spendit",
