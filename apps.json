@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Calory",
+            "type": 1,
+            "bundleID": "com.funnmedia.calory",
+            "bundleIdentifier": "com.funnmedia.calory",
+            "version": "4.2.2",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516182814",
+            "size": 223154205,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Calory_4.2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/Calory_4.2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png"
+        },
+        {
+            "name": "VEEDCaptions",
+            "type": 1,
+            "bundleID": "io.veed.appstore",
+            "bundleIdentifier": "io.veed.appstore",
+            "version": "5.15.0",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516182811",
+            "size": 54515241,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/VEEDCaptions_5.15.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/VEEDCaptions_5.15.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
+        },
+        {
             "name": "Oniri",
             "type": 1,
             "bundleID": "com.sublime.capture",
