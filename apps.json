@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BrickOut",
+            "type": 2,
+            "bundleID": "com.puzzle1studio.ap.brickoutshoottheball",
+            "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+            "version": "25.0515.02",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516192839",
+            "size": 81180598,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/BrickOut_25.0515.02_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/BrickOut_25.0515.02_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
+        },
+        {
             "name": "Komoot",
             "type": 1,
             "bundleID": "de.komoot.berlinbikeapp",
