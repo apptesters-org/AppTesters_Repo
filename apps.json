@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FELFishEyeLens",
+            "type": 1,
+            "bundleID": "com.phantom.fantengmu",
+            "bundleIdentifier": "com.phantom.fantengmu",
+            "version": "2.0.10",
+            "versionDate": "2025-05-16",
+            "fullDate": "20250516183322",
+            "size": 74530879,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/FELFishEyeLens_2.0.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2025/FELFishEyeLens_2.0.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
+        },
+        {
             "name": "Calory",
             "type": 1,
             "bundleID": "com.funnmedia.calory",
