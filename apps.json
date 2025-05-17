@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Gardenscapes",
+            "type": 2,
+            "bundleID": "com.playrix.gardenscapes-m3-ios",
+            "bundleIdentifier": "com.playrix.gardenscapes-m3-ios",
+            "version": "8.7.5",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517140540",
+            "size": 209581655,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Gardenscapes_8.7.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Gardenscapes_8.7.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-m3-ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-m3-ios.png"
+        },
+        {
             "name": "CatMagicSchool",
             "type": 2,
             "bundleID": "com.tree.idle.cat.academy",
