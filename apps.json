@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "FortGuardian",
+            "type": 2,
+            "bundleID": "com.xiaomo.bag",
+            "bundleIdentifier": "com.xiaomo.bag",
+            "version": "0.6.1",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517150059",
+            "size": 89994942,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/FortGuardian_0.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/FortGuardian_0.6.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png"
+        },
+        {
+            "name": "Homescapes",
+            "type": 2,
+            "bundleID": "com.playrix.gardenscapes-sweethome",
+            "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
+            "version": "7.9.6",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517150052",
+            "size": 206301869,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Homescapes_7.9.6_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Homescapes_7.9.6_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png"
+        },
+        {
             "name": "Gardenscapes",
             "type": 2,
             "bundleID": "com.playrix.gardenscapes-m3-ios",
