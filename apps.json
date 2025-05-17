@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "stoic",
+            "type": 1,
+            "bundleID": "com.mlobodzinski.Stoic",
+            "bundleIdentifier": "com.mlobodzinski.Stoic",
+            "version": "2025.15",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517155622",
+            "size": 110706966,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/stoic_2025.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/stoic_2025.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mlobodzinski.Stoic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mlobodzinski.Stoic.png"
+        },
+        {
             "name": "Walnote",
             "type": 1,
             "bundleID": "com.dhara.ytsummerize",
