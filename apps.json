@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Walnote",
+            "type": 1,
+            "bundleID": "com.dhara.ytsummerize",
+            "bundleIdentifier": "com.dhara.ytsummerize",
+            "version": "1.5",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517155120",
+            "size": 10251310,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Walnote_1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/Walnote_1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dhara.ytsummerize.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dhara.ytsummerize.png"
+        },
+        {
             "name": "NERFSuperblast",
             "type": 2,
             "bundleID": "com.nitrogames.newdawn",
