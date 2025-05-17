@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "CatMagicSchool",
+            "type": 2,
+            "bundleID": "com.tree.idle.cat.academy",
+            "bundleIdentifier": "com.tree.idle.cat.academy",
+            "version": "1.0.27",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517140032",
+            "size": 157628999,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/CatMagicSchool_1.0.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/CatMagicSchool_1.0.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.academy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.academy.png"
+        },
+        {
+            "name": "iTranslate",
+            "type": 1,
+            "bundleID": "com.outerspaceapps.itranslate",
+            "bundleIdentifier": "com.outerspaceapps.itranslate",
+            "version": "17.4.32",
+            "versionDate": "2025-05-17",
+            "fullDate": "20250517140029",
+            "size": 73494876,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/iTranslate_17.4.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-05-2025/iTranslate_17.4.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png"
+        },
+        {
             "name": "Bend",
             "type": 1,
             "bundleID": "com.bowery-digital.bend",
