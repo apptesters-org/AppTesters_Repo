@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnoreLab",
+            "type": 1,
+            "bundleID": "com.revivasoftworks.Snore-Lab",
+            "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+            "version": "5.7.7",
+            "versionDate": "2025-05-18",
+            "fullDate": "20250518225515",
+            "size": 117727364,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2025/SnoreLab_5.7.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2025/SnoreLab_5.7.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+        },
+        {
             "name": "Buddy",
             "type": 1,
             "bundleID": "com.iPwners.Plonkan",
