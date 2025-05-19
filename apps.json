@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TakeOffBoltsScrewPuzzle",
+            "type": 2,
+            "bundleID": "ios.takeoffbolts.screw.puzzle",
+            "bundleIdentifier": "ios.takeoffbolts.screw.puzzle",
+            "version": "1.2.5",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519183456",
+            "size": 177851074,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/TakeOffBoltsScrewPuzzle_1.2.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/TakeOffBoltsScrewPuzzle_1.2.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ios.takeoffbolts.screw.puzzle.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ios.takeoffbolts.screw.puzzle.png"
+        },
+        {
             "name": "TREASURECRUISE",
             "type": 2,
             "bundleID": "jp.co.bandainamcogames.BNGI0218",
