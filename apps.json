@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Osmosis",
+            "type": 1,
+            "bundleID": "com.osmose-it.osmosis",
+            "bundleIdentifier": "com.osmose-it.osmosis",
+            "version": "5.6.6",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519204101",
+            "size": 22219110,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Osmosis_5.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Osmosis_5.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
+        },
+        {
             "name": "Unfold",
             "type": 1,
             "bundleID": "com.moonlab.unfoldstories",
