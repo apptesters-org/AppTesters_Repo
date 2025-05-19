@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Rest",
+            "type": 1,
+            "bundleID": "com.evolve.helm",
+            "bundleIdentifier": "com.evolve.helm",
+            "version": "3.133.0",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519211624",
+            "size": 123026685,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Rest_3.133.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Rest_3.133.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+        },
+        {
+            "name": "Busuu",
+            "type": 1,
+            "bundleID": "com.busuu.english.app",
+            "bundleIdentifier": "com.busuu.english.app",
+            "version": "29.4.0",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519211618",
+            "size": 173785381,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Busuu_29.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Busuu_29.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
