@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WorldChef",
+            "type": 2,
+            "bundleID": "worldchef",
+            "bundleIdentifier": "worldchef",
+            "version": "3.0.8",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519175350",
+            "size": 119603150,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/WorldChef_3.0.8_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/WorldChef_3.0.8_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/worldchef.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/worldchef.png"
+        },
+        {
             "name": "Truecaller",
             "type": 1,
             "bundleID": "com.truesoftware.TrueCallerOther",
