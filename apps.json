@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Bowmasters",
+            "type": 2,
+            "bundleID": "com.playgendary.bowmasters",
+            "bundleIdentifier": "com.playgendary.bowmasters",
+            "version": "8.2.0",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519170834",
+            "size": 202244744,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Bowmasters_8.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Bowmasters_8.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.bowmasters.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
