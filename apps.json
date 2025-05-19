@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Osmosis",
+            "type": 1,
+            "bundleID": "com.osmose-it.osmosis",
+            "bundleIdentifier": "com.osmose-it.osmosis",
+            "version": "5.6.6",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520000341",
+            "size": 22201889,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Osmosis_5.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Osmosis_5.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
