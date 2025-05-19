@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MysteryMatters",
+            "type": 2,
+            "bundleID": "com.playrix.mystery-matters",
+            "bundleIdentifier": "com.playrix.mystery-matters",
+            "version": "2.9.1",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519165308",
+            "size": 218289117,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/MysteryMatters_2.9.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/MysteryMatters_2.9.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.mystery-matters.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.mystery-matters.png"
+        },
+        {
+            "name": "NoLimit2",
+            "type": 2,
+            "bundleID": "com.battlecreek.nolimit2",
+            "bundleIdentifier": "com.battlecreek.nolimit2",
+            "version": "2.2.3",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519165248",
+            "size": 594880911,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/NoLimit2_2.2.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/NoLimit2_2.2.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.battlecreek.nolimit2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.battlecreek.nolimit2.png"
+        },
+        {
             "name": "CaseChaseCSGO",
             "type": 2,
             "bundleID": "com.kommadot.casesimulator",
