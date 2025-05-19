@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SNOW",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "14.1.10",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519184511",
+            "size": 130864974,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/SNOW_14.1.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/SNOW_14.1.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
+            "name": "Roblox",
+            "type": 1,
+            "bundleID": "com.gloop.deltamobile",
+            "bundleIdentifier": "com.gloop.deltamobile",
+            "version": "2.670.714",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519184504",
+            "size": 166308783,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Roblox_2.670.714_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Roblox_2.670.714_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png"
+        },
+        {
             "name": "TakeOffBoltsScrewPuzzle",
             "type": 2,
             "bundleID": "ios.takeoffbolts.screw.puzzle",
