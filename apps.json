@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Sumato",
+            "type": 1,
+            "bundleID": "com.talhayavcin.summarize",
+            "bundleIdentifier": "com.talhayavcin.summarize",
+            "version": "1.0.25",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519151655",
+            "size": 19648356,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Sumato_1.0.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/Sumato_1.0.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talhayavcin.summarize.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talhayavcin.summarize.png"
+        },
+        {
+            "name": "TideGuide",
+            "type": 1,
+            "bundleID": "com.condor.digital.Tide-Over",
+            "bundleIdentifier": "com.condor.digital.Tide-Over",
+            "version": "6.34",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519151650",
+            "size": 110442579,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/TideGuide_6.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/TideGuide_6.34_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
