@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CookingCraze",
+            "type": 2,
+            "bundleID": "com.bigfishgames.cookingempireuniversalf2p",
+            "bundleIdentifier": "com.bigfishgames.cookingempireuniversalf2p",
+            "version": "2.5.0",
+            "versionDate": "2025-05-19",
+            "fullDate": "20250519175926",
+            "size": 350276072,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/CookingCraze_2.5.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2025/CookingCraze_2.5.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigfishgames.cookingempireuniversalf2p.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigfishgames.cookingempireuniversalf2p.png"
+        },
+        {
             "name": "WorldChef",
             "type": 2,
             "bundleID": "worldchef",
