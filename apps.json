@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "OfficeCat",
+            "type": 2,
+            "bundleID": "com.tree.idle.cat.office",
+            "bundleIdentifier": "com.tree.idle.cat.office",
+            "version": "1.0.52",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520194208",
+            "size": 279952327,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/OfficeCat_1.0.52_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/OfficeCat_1.0.52_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.office.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tree.idle.cat.office.png"
+        },
+        {
             "name": "GOWOD",
             "type": 1,
             "bundleID": "eu.gowod",
