@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unstuck",
+            "type": 1,
+            "bundleID": "com.unstuckstudy",
+            "bundleIdentifier": "com.unstuckstudy",
+            "version": "1.5.3",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520153649",
+            "size": 16978849,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Unstuck_1.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Unstuck_1.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unstuckstudy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unstuckstudy.png"
+        },
+        {
             "name": "FocusKeeper",
             "type": 1,
             "bundleID": "com.limepresso.pomodorofree",
