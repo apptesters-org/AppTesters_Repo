@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Speedtest",
+            "type": 1,
+            "bundleID": "com.ookla.speedtest",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "version": "6.1.2",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520063030",
+            "size": 54563598,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Speedtest_6.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Speedtest_6.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png"
+        },
+        {
+            "name": "Amie",
+            "type": 1,
+            "bundleID": "so.amie.ios-app",
+            "bundleIdentifier": "so.amie.ios-app",
+            "version": "1.15.14",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520063026",
+            "size": 90737657,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Amie_1.15.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Amie_1.15.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/so.amie.ios-app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/so.amie.ios-app.png"
+        },
+        {
             "name": "Mojo",
             "type": 1,
             "bundleID": "archery.storify",
