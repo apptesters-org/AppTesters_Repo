@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "330.5",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520210739",
+            "size": 204235446,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Headway_330.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Headway_330.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "Matchington",
             "type": 2,
             "bundleID": "com.matchington.mansion",
