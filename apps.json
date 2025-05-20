@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Windyapp",
+            "type": 1,
+            "bundleID": "co.windyapp.Windy",
+            "bundleIdentifier": "co.windyapp.Windy",
+            "version": "15.1.1",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520053927",
+            "size": 282558893,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Windyapp_15.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/Windyapp_15.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png"
+        },
+        {
             "name": "Persona",
             "type": 1,
             "bundleID": "com.tickettothemoon.video.persona",
