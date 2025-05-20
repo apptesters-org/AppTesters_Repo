@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Photoroom",
+            "type": 1,
+            "bundleID": "com.dr1ven.eraser",
+            "bundleIdentifier": "com.dr1ven.eraser",
+            "version": "2025.20.01",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521031544",
+            "size": 110689145,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Photoroom_2025.20.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Photoroom_2025.20.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
+        },
+        {
+            "name": "SigStick",
+            "type": 1,
+            "bundleID": "com.ooeric.SignStick1",
+            "bundleIdentifier": "com.ooeric.SignStick1",
+            "version": "5.26.2",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521031541",
+            "size": 54005712,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/SigStick_5.26.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/SigStick_5.26.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
