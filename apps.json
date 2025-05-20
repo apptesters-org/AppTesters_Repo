@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KineMaster",
+            "type": 1,
+            "bundleID": "com.kinemaster.kios",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "7.6.17",
+            "versionDate": "2025-05-20",
+            "fullDate": "20250520054439",
+            "size": 106487243,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/KineMaster_7.6.17_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2025/KineMaster_7.6.17_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+        },
+        {
             "name": "Windyapp",
             "type": 1,
             "bundleID": "co.windyapp.Windy",
