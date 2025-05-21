@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Compress",
+            "type": 1,
+            "bundleID": "com.newmarketinglab.ImageCompressor",
+            "bundleIdentifier": "com.newmarketinglab.ImageCompressor",
+            "version": "3.0",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522014147",
+            "size": 4380999,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Compress_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Compress_3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newmarketinglab.ImageCompressor.png"
+        },
+        {
             "name": "RiseSleep",
             "type": 1,
             "bundleID": "com.risesci.nyx",
