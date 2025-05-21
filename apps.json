@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "StickCricketClash",
+            "type": 2,
+            "bundleID": "com.sticksports.stickcricketclash",
+            "bundleIdentifier": "com.sticksports.stickcricketclash",
+            "version": "1.9.5",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521171524",
+            "size": 108773844,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/StickCricketClash_1.9.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/StickCricketClash_1.9.5_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sticksports.stickcricketclash.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sticksports.stickcricketclash.png"
+        },
+        {
             "name": "Homeworkouts",
             "type": 1,
             "bundleID": "com.abishkking.maleworkout",
