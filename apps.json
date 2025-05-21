@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tetris",
+            "type": 2,
+            "bundleID": "com.n3twork.tetris",
+            "bundleIdentifier": "com.n3twork.tetris",
+            "version": "7.2.3",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521145938",
+            "size": 146465398,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Tetris_7.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Tetris_7.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.n3twork.tetris.png"
+        },
+        {
             "name": "CLIME",
             "type": 1,
             "bundleID": "com.apalonapps.radarfree",
