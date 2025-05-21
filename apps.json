@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Hevy",
+            "type": 1,
+            "bundleID": "com.hevyapp.hevy",
+            "bundleIdentifier": "com.hevyapp.hevy",
+            "version": "2.2.11",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521155949",
+            "size": 76684274,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Hevy_2.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Hevy_2.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png"
+        },
+        {
             "name": "Evoday",
             "type": 1,
             "bundleID": "com.kevinquisquater.Habits",
