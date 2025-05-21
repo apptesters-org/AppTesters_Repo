@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "12.19.0",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522045719",
+            "size": 482942569,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Captions_12.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Captions_12.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
             "name": "Locket",
             "type": 1,
             "bundleID": "com.locket.Locket",
