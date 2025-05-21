@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Evoday",
+            "type": 1,
+            "bundleID": "com.kevinquisquater.Habits",
+            "bundleIdentifier": "com.kevinquisquater.Habits",
+            "version": "2025.11",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521150444",
+            "size": 26803065,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/Evoday_2025.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png"
+        },
+        {
             "name": "Tetris",
             "type": 2,
             "bundleID": "com.n3twork.tetris",
