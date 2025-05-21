@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SixPackAbsAbsWorkout",
+            "type": 1,
+            "bundleID": "com.abishkking.sixpack",
+            "bundleIdentifier": "com.abishkking.sixpack",
+            "version": "1.30.0",
+            "versionDate": "2025-05-21",
+            "fullDate": "20250521104134",
+            "size": 351039488,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/SixPackAbsAbsWorkout_1.30.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2025/SixPackAbsAbsWorkout_1.30.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+        },
+        {
             "name": "Komoot",
             "type": 1,
             "bundleID": "de.komoot.berlinbikeapp",
