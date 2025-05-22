@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "DuelLinks",
+            "type": 2,
+            "bundleID": "jp.konami.yugiohmobile",
+            "bundleIdentifier": "jp.konami.yugiohmobile",
+            "version": "9.8.0",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522160511",
+            "size": 78176599,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/DuelLinks_9.8.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/DuelLinks_9.8.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.konami.yugiohmobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.konami.yugiohmobile.png"
+        },
+        {
+            "name": "ZombieMiner",
+            "type": 2,
+            "bundleID": "com.zombie.idleminertycoon",
+            "bundleIdentifier": "com.zombie.idleminertycoon",
+            "version": "2.221",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522160503",
+            "size": 221743585,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/ZombieMiner_2.221_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zombie.idleminertycoon.png"
+        },
+        {
             "name": "CHANI",
             "type": 1,
             "bundleID": "com.chaninicholas.chaniapp",
