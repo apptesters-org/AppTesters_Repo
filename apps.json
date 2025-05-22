@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MapleReadCX",
+            "type": 1,
+            "bundleID": "com.maplepop.bmcx",
+            "bundleIdentifier": "com.maplepop.bmcx",
+            "version": "5.9",
+            "versionDate": "2025-05-23",
+            "fullDate": "20250523022642",
+            "size": 20088218,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/MapleReadCX_5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/MapleReadCX_5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png"
+        },
+        {
             "name": "UpNote",
             "type": 1,
             "bundleID": "com.getupnote.ios",
