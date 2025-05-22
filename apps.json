@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BoxBox",
+            "type": 1,
+            "bundleID": "club.boxbox.widgets-ios",
+            "bundleIdentifier": "club.boxbox.widgets-ios",
+            "version": "5.2.0",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522214100",
+            "size": 87756222,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/BoxBox_5.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/BoxBox_5.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png"
+        },
+        {
             "name": "SpeakTranslate",
             "type": 1,
             "bundleID": "com.appicfun.translatorfree",
