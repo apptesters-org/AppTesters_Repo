@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SleepMonitor",
+            "type": 1,
+            "bundleID": "com.sleepmonitor.aio",
+            "bundleIdentifier": "com.sleepmonitor.aio",
+            "version": "2.5.4",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522103336",
+            "size": 243298555,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/SleepMonitor_2.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/SleepMonitor_2.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sleepmonitor.aio.png"
+        },
+        {
             "name": "Facelab",
             "type": 1,
             "bundleID": "com.lyrebirdstudio.facelab",
