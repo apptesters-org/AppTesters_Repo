@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "CHANI",
+            "type": 1,
+            "bundleID": "com.chaninicholas.chaniapp",
+            "bundleIdentifier": "com.chaninicholas.chaniapp",
+            "version": "2.4.2",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522155000",
+            "size": 22301658,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/CHANI_2.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/CHANI_2.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png"
+        },
+        {
+            "name": "Cheatsheet",
+            "type": 1,
+            "bundleID": "com.overdesigned.Cheatsheet",
+            "bundleIdentifier": "com.overdesigned.Cheatsheet",
+            "version": "5.2.2",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522154957",
+            "size": 48250151,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Cheatsheet_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Cheatsheet_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.overdesigned.Cheatsheet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.overdesigned.Cheatsheet.png"
+        },
+        {
             "name": "MealPrepPro",
             "type": 1,
             "bundleID": "com.nibbleapps.MealPrepPro",
