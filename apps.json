@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Swiftgram",
+            "type": 1,
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "11.11.2",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522235125",
+            "size": 94697674,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Swiftgram_11.11.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Swiftgram_11.11.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "1.125.1",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522235119",
+            "size": 139672510,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Locket_1.125.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Locket_1.125.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "LookUp",
             "type": 1,
             "bundleID": "in.muditbhargava.LookUp",
