@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Facelab",
+            "type": 1,
+            "bundleID": "com.lyrebirdstudio.facelab",
+            "bundleIdentifier": "com.lyrebirdstudio.facelab",
+            "version": "2.77",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522102823",
+            "size": 332429934,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Facelab_2.77_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Facelab_2.77_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png"
+        },
+        {
             "name": "TickTick",
             "type": 1,
             "bundleID": "com.TickTick.task",
