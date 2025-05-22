@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Supershift",
+            "type": 1,
+            "bundleID": "io.erna",
+            "bundleIdentifier": "io.erna",
+            "version": "2025.10",
+            "versionDate": "2025-05-22",
+            "fullDate": "20250522134941",
+            "size": 33167568,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Supershift_2025.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2025/Supershift_2025.10_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
