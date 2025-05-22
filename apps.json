@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "IPTVExpert",
+            "type": 1,
+            "bundleID": "com.iptv.player",
+            "bundleIdentifier": "com.iptv.player",
+            "version": "8.10.3",
+            "versionDate": "2025-05-23",
+            "fullDate": "20250523052211",
+            "size": 38198250,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/IPTVExpert_8.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/IPTVExpert_8.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
+        },
+        {
             "name": "Komoot",
             "type": 1,
             "bundleID": "de.komoot.berlinbikeapp",
