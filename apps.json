@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.11.4",
+            "versionDate": "2025-05-23",
+            "fullDate": "20250523011134",
+            "size": 55900196,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/UpNote_9.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/UpNote_9.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
             "name": "Swiftgram",
             "type": 1,
             "bundleID": "app.swiftgram.ios",
