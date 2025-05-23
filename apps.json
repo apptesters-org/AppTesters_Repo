@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CalculatorAir",
+            "type": 1,
+            "bundleID": "com.CalculatorForiPad.InternetRocks",
+            "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+            "version": "2025.5.8",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524002601",
+            "size": 111695240,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/CalculatorAir_2025.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/CalculatorAir_2025.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
+        },
+        {
             "name": "GALATEA",
             "type": 1,
             "bundleID": "org.reactjs.native.Inkitt.App.Colt",
