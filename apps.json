@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Pedometer",
+            "type": 1,
+            "bundleID": "com.crossforward.pedometer",
+            "bundleIdentifier": "com.crossforward.pedometer",
+            "version": "6.2.6",
+            "versionDate": "2025-05-23",
+            "fullDate": "20250523053738",
+            "size": 78860902,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/Pedometer_6.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/Pedometer_6.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.pedometer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.pedometer.png"
+        },
+        {
+            "name": "Dazz",
+            "type": 1,
+            "bundleID": "dazz.camera.vintagecamera",
+            "bundleIdentifier": "dazz.camera.vintagecamera",
+            "version": "2.9.8",
+            "versionDate": "2025-05-23",
+            "fullDate": "20250523053733",
+            "size": 98045612,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/Dazz_2.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2025/Dazz_2.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dazz.camera.vintagecamera.png"
+        },
+        {
             "name": "BeautyPlus",
             "type": 1,
             "bundleID": "com.commsource.BeautyPlus",
