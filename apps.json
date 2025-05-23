@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CodeSnackIDE",
+            "type": 1,
+            "bundleID": "com.cloud-compiler",
+            "bundleIdentifier": "com.cloud-compiler",
+            "version": "5.8.3",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524005609",
+            "size": 17620312,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/CodeSnackIDE_5.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/CodeSnackIDE_5.8.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
+        },
+        {
             "name": "CalculatorAir",
             "type": 1,
             "bundleID": "com.CalculatorForiPad.InternetRocks",
