@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MySwimPro",
+            "type": 1,
+            "bundleID": "com.myswimpro.apps.MySwimPro",
+            "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+            "version": "8.28.4",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524165741",
+            "size": 53160484,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/MySwimPro_8.28.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/MySwimPro_8.28.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png"
+        },
+        {
             "name": "PeakVisor",
             "type": 1,
             "bundleID": "ru.routes.peakvisor",
