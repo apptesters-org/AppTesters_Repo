@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Zooba",
+            "type": 2,
+            "bundleID": "com.fungames.battleroyale",
+            "bundleIdentifier": "com.fungames.battleroyale",
+            "version": "5.11.0",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524181248",
+            "size": 204962998,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Zooba_5.11.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Zooba_5.11.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png"
+        },
+        {
             "name": "MySwimPro",
             "type": 1,
             "bundleID": "com.myswimpro.apps.MySwimPro",
