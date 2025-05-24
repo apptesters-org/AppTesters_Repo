@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "425.0.0",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524222407",
+            "size": 146305635,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/VSCO_425.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/VSCO_425.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "KnightLancer",
             "type": 2,
             "bundleID": "com.ToweringTower.KnightLancer",
