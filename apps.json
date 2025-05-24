@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KnightLancer",
+            "type": 2,
+            "bundleID": "com.ToweringTower.KnightLancer",
+            "bundleIdentifier": "com.ToweringTower.KnightLancer",
+            "version": "1.52",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524183851",
+            "size": 107111121,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/KnightLancer_1.52_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/KnightLancer_1.52_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png"
+        },
+        {
             "name": "Zooba",
             "type": 2,
             "bundleID": "com.fungames.battleroyale",
