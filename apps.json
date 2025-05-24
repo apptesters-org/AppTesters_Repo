@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Minutes",
+            "type": 1,
+            "bundleID": "ventures.slam.minutes",
+            "bundleIdentifier": "ventures.slam.minutes",
+            "version": "1.7.0",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524064655",
+            "size": 9555944,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Minutes_1.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Minutes_1.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+        },
+        {
             "name": "Calory",
             "type": 1,
             "bundleID": "com.funnmedia.calory",
