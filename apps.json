@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calory",
+            "type": 1,
+            "bundleID": "com.funnmedia.calory",
+            "bundleIdentifier": "com.funnmedia.calory",
+            "version": "4.2.3",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524055144",
+            "size": 224068014,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Calory_4.2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/Calory_4.2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png"
+        },
+        {
             "name": "AdobeScan",
             "type": 1,
             "bundleID": "com.adobe.scan.ios",
