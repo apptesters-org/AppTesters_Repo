@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PrettyProgress",
+            "type": 1,
+            "bundleID": "com.keinois.PrettyProgressApp",
+            "bundleIdentifier": "com.keinois.PrettyProgressApp",
+            "version": "1.19.16",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524160730",
+            "size": 73276490,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/PrettyProgress_1.19.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/PrettyProgress_1.19.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.keinois.PrettyProgressApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.keinois.PrettyProgressApp.png"
+        },
+        {
+            "name": "TideGuide",
+            "type": 1,
+            "bundleID": "com.condor.digital.Tide-Over",
+            "bundleIdentifier": "com.condor.digital.Tide-Over",
+            "version": "6.36",
+            "versionDate": "2025-05-24",
+            "fullDate": "20250524160725",
+            "size": 115984391,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/TideGuide_6.36_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-05-2025/TideGuide_6.36_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
