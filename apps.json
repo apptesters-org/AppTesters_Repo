@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Scoreboard",
+            "type": 1,
+            "bundleID": "com.edwinchan.Scoreboard",
+            "bundleIdentifier": "com.edwinchan.Scoreboard",
+            "version": "1.7.3",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526031659",
+            "size": 11881689,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Scoreboard_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Scoreboard_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png"
+        },
+        {
             "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
