@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "moneycontrol",
+            "type": 1,
+            "bundleID": "com.moneycontrol.mc",
+            "bundleIdentifier": "com.moneycontrol.mc",
+            "version": "10.0.7",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526052214",
+            "size": 90123798,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/moneycontrol_10.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/moneycontrol_10.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png"
+        },
+        {
             "name": "InShot",
             "type": 1,
             "bundleID": "com.camerasideas.InstaShot",
