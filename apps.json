@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "ColoringBookforMe",
+            "type": 1,
+            "bundleID": "com.apalonapps.clrbook",
+            "bundleIdentifier": "com.apalonapps.clrbook",
+            "version": "4.50.21",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526125512",
+            "size": 135426250,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/ColoringBookforMe_4.50.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/ColoringBookforMe_4.50.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png"
+        },
+        {
+            "name": "Temply",
+            "type": 1,
+            "bundleID": "com.templyvideo.Temply",
+            "bundleIdentifier": "com.templyvideo.Temply",
+            "version": "7.3",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526125508",
+            "size": 83092792,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Temply_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Temply_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png"
+        },
+        {
             "name": "SleepCycle",
             "type": 1,
             "bundleID": "com.lexwarelabs.goodmorning",
