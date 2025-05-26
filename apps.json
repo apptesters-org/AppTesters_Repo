@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DeviceMonitor",
+            "type": 1,
+            "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
+            "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+            "version": "10.4.0",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527010920",
+            "size": 21691209,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/DeviceMonitor_10.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/DeviceMonitor_10.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png"
+        },
+        {
             "name": "FitnessOnline",
             "type": 1,
             "bundleID": "com.aiti.FitnessOnline",
