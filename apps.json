@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "RelaxMeditation",
+            "type": 1,
+            "bundleID": "com.ilbsoft.irelaxipad",
+            "bundleIdentifier": "com.ilbsoft.irelaxipad",
+            "version": "7.2.2",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526171743",
+            "size": 218886084,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/RelaxMeditation_7.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/RelaxMeditation_7.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilbsoft.irelaxipad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilbsoft.irelaxipad.png"
+        },
+        {
+            "name": "DRIVE",
+            "type": 2,
+            "bundleID": "com.pixelperfectdude.htdrive",
+            "bundleIdentifier": "com.pixelperfectdude.htdrive",
+            "version": "3.1.344",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526171734",
+            "size": 255577925,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/DRIVE_3.1.344_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/DRIVE_3.1.344_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelperfectdude.htdrive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixelperfectdude.htdrive.png"
+        },
+        {
             "name": "GrandSummoners",
             "type": 2,
             "bundleID": "jp.goodsmile.grandsummonersglobal",
