@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MoneyCoach",
+            "type": 1,
+            "bundleID": "com.duuro.moneyCoach",
+            "bundleIdentifier": "com.duuro.moneyCoach",
+            "version": "10.4.6",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526193327",
+            "size": 110694023,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/MoneyCoach_10.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/MoneyCoach_10.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png"
+        },
+        {
+            "name": "Stndrd",
+            "type": 1,
+            "bundleID": "uni.cbum",
+            "bundleIdentifier": "uni.cbum",
+            "version": "4.0.54",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526193324",
+            "size": 53836204,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Stndrd_4.0.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Stndrd_4.0.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
+        },
+        {
             "name": "Truecaller",
             "type": 1,
             "bundleID": "com.truesoftware.TrueCallerOther",
