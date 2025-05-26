@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MediaConvert",
+            "type": 1,
+            "bundleID": "com.verycoolapp.mediaconvert",
+            "bundleIdentifier": "com.verycoolapp.mediaconvert",
+            "version": "3.35",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526072224",
+            "size": 54797059,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/MediaConvert_3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/MediaConvert_3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
+        },
+        {
             "name": "moneycontrol",
             "type": 1,
             "bundleID": "com.moneycontrol.mc",
