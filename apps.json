@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Flipd",
+            "type": 1,
+            "bundleID": "com.flipdapp.flipd",
+            "bundleIdentifier": "com.flipdapp.flipd",
+            "version": "5.0.1",
+            "versionDate": "2025-05-26",
+            "fullDate": "20250526160652",
+            "size": 49331974,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Flipd_5.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2025/Flipd_5.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipdapp.flipd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flipdapp.flipd.png"
+        },
+        {
             "name": "Reframe",
             "type": 1,
             "bundleID": "com.glucobit.cravingBuster.CravingBuster",
