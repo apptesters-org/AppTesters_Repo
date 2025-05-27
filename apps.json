@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SwiftyCompiler",
+            "type": 1,
+            "bundleID": "com.hassantaleb.SwiftCompiler",
+            "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+            "version": "9.13",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528034729",
+            "size": 25025337,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/SwiftyCompiler_9.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/SwiftyCompiler_9.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+        },
+        {
             "name": "MyFitnessPal",
             "type": 1,
             "bundleID": "com.myfitnesspal.mfp",
