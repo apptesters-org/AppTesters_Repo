@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Collart",
+            "type": 1,
+            "bundleID": "com.SpringTech.NewSC",
+            "bundleIdentifier": "com.SpringTech.NewSC",
+            "version": "5.5.2",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527144247",
+            "size": 235037626,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Collart_5.5.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Collart_5.5.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SpringTech.NewSC.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.SpringTech.NewSC.png"
+        },
+        {
+            "name": "AthanPro",
+            "type": 1,
+            "bundleID": "Quanticapps.Athan",
+            "bundleIdentifier": "Quanticapps.Athan",
+            "version": "8.4.10",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527144245",
+            "size": 56669078,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/AthanPro_8.4.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Quanticapps.Athan.png"
+        },
+        {
             "name": "Survivorio",
             "type": 2,
             "bundleID": "com.dxx.firenow",
