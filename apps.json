@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ShutEye",
+            "type": 1,
+            "bundleID": "health.sleep.sounds.tracker.alarm.calm",
+            "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
+            "version": "3.0.10",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527213635",
+            "size": 312436530,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ShutEye_3.0.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/ShutEye_3.0.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png"
+        },
+        {
             "name": "WolframAlpha",
             "type": 1,
             "bundleID": "com.wolframalpha.wolframalphaviewer",
