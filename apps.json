@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Survivorio",
+            "type": 2,
+            "bundleID": "com.dxx.firenow",
+            "bundleIdentifier": "com.dxx.firenow",
+            "version": "3.9.4",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527142721",
+            "size": 593481960,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Survivorio_3.9.4_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dxx.firenow.png"
+        },
+        {
             "name": "MargonemAdventures",
             "type": 2,
             "bundleID": "pl.Garmory.MargonemAdventures",
