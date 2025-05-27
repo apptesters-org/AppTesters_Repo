@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SubwaySurf",
+            "type": 2,
+            "bundleID": "com.kiloo.subwaysurfers",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.46.10",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527150412",
+            "size": 164358151,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/SubwaySurf_3.46.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/SubwaySurf_3.46.10_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png"
+        },
+        {
             "name": "RFS",
             "type": 2,
             "bundleID": "it.rortos.realflightsimulator",
