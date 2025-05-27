@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CombatMaster",
+            "type": 2,
+            "bundleID": "com.AlfaBravo.CombatMaster",
+            "bundleIdentifier": "com.AlfaBravo.CombatMaster",
+            "version": "0.25.27",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527152955",
+            "size": 1407197686,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/CombatMaster_0.25.27_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AlfaBravo.CombatMaster.png"
+        },
+        {
             "name": "ATHENABloodTwins",
             "type": 2,
             "bundleID": "com.eu.eud3",
