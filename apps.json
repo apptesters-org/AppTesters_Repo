@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MargonemAdventures",
+            "type": 2,
+            "bundleID": "pl.Garmory.MargonemAdventures",
+            "bundleIdentifier": "pl.Garmory.MargonemAdventures",
+            "version": "1.16.0",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527142211",
+            "size": 184263106,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MargonemAdventures_1.16.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pl.Garmory.MargonemAdventures.png"
+        },
+        {
+            "name": "NFLRB25",
+            "type": 2,
+            "bundleID": "com.newstarresearch.retrobowlpro",
+            "bundleIdentifier": "com.newstarresearch.retrobowlpro",
+            "version": "1.0.72",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527142208",
+            "size": 49732701,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/NFLRB25_1.0.72_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.newstarresearch.retrobowlpro.png"
+        },
+        {
             "name": "Eatventure",
             "type": 2,
             "bundleID": "com.hwqgrhhjfd.idlefastfood",
