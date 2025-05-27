@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MacroFactor",
+            "type": 1,
+            "bundleID": "com.sbs.diet",
+            "bundleIdentifier": "com.sbs.diet",
+            "version": "5.1.4",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527075634",
+            "size": 75913695,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MacroFactor_5.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/MacroFactor_5.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
+        },
+        {
+            "name": "Balance",
+            "type": 1,
+            "bundleID": "com.elevateapp.kamino.kamino",
+            "bundleIdentifier": "com.elevateapp.kamino.kamino",
+            "version": "1.173.0",
+            "versionDate": "2025-05-27",
+            "fullDate": "20250527075631",
+            "size": 95081260,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Balance_1.173.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2025/Balance_1.173.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+        },
+        {
             "name": "Trace",
             "type": 1,
             "bundleID": "com.morpholioapps.trace",
