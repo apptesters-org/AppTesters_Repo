@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TheSevenDeadlySinsIdleAdventuretgipavip",
+            "type": 2,
+            "bundleID": "com.netmarble.nanarise",
+            "bundleIdentifier": "com.netmarble.nanarise",
+            "version": "1.15.0",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528174907",
+            "size": 1058832019,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TheSevenDeadlySinsIdleAdventuretgipavip_1.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/TheSevenDeadlySinsIdleAdventuretgipavip_1.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.nanarise.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.nanarise.png"
+        },
+        {
             "name": "Episodetgipavip",
             "type": 2,
             "bundleID": "com.neonfun.catalog",
