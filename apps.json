@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CandyCrushSodatgipavip",
+            "type": 2,
+            "bundleID": "com.midasplayer.apps.candycrushsodasaga",
+            "bundleIdentifier": "com.midasplayer.apps.candycrushsodasaga",
+            "version": "1.293.4",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528170733",
+            "size": 141694650,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSodatgipavip_1.293.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/CandyCrushSodatgipavip_1.293.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.midasplayer.apps.candycrushsodasaga.png"
+        },
+        {
             "name": "UpNote",
             "type": 1,
             "bundleID": "com.getupnote.ios",
