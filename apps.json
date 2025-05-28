@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LoveIslandtgipavip",
+            "type": 2,
+            "bundleID": "com.fuseboxgames.loveisland2",
+            "bundleIdentifier": "com.fuseboxgames.loveisland2",
+            "version": "1.6.0",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528155554",
+            "size": 83366417,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LoveIslandtgipavip_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/LoveIslandtgipavip_1.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fuseboxgames.loveisland2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fuseboxgames.loveisland2.png"
+        },
+        {
             "name": "DeviceMonitor",
             "type": 1,
             "bundleID": "org.fastdevsproject.altervista.Device-Monitor",
