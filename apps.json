@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Episodetgipavip",
+            "type": 2,
+            "bundleID": "com.neonfun.catalog",
+            "bundleIdentifier": "com.neonfun.catalog",
+            "version": "26.10",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528174359",
+            "size": 177363459,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Episodetgipavip_26.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Episodetgipavip_26.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neonfun.catalog.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neonfun.catalog.png"
+        },
+        {
             "name": "GemsofWartgipavip",
             "type": 2,
             "bundleID": "com.505games.gemsofwar",
