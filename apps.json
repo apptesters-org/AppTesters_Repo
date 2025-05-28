@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseofMonsterstgipavip",
+            "type": 2,
+            "bundleID": "com.onemt.ios.rom",
+            "bundleIdentifier": "com.onemt.ios.rom",
+            "version": "18",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528162638",
+            "size": 815033443,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofMonsterstgipavip_18_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/RiseofMonsterstgipavip_18_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.onemt.ios.rom.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.onemt.ios.rom.png"
+        },
+        {
             "name": "LuckyOffencetgipavip",
             "type": 2,
             "bundleID": "com.percent.ios.luckyrolling",
