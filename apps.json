@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SocialStats",
+            "type": 1,
+            "bundleID": "com.innovativedigitaltechnologies.FollowersWidget",
+            "bundleIdentifier": "com.innovativedigitaltechnologies.FollowersWidget",
+            "version": "3.4.0",
+            "versionDate": "2025-05-28",
+            "fullDate": "20250528205946",
+            "size": 21639172,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/SocialStats_3.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/SocialStats_3.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.innovativedigitaltechnologies.FollowersWidget.png"
+        },
+        {
             "name": "Bazaart",
             "type": 1,
             "bundleID": "co.bazaart.app",
