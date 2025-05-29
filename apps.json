@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Thenx",
+            "type": 1,
+            "bundleID": "com.calisthenics.thenx",
+            "bundleIdentifier": "com.calisthenics.thenx",
+            "version": "6.3.0",
+            "versionDate": "2025-05-29",
+            "fullDate": "20250529191751",
+            "size": 119169606,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/Thenx_6.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/Thenx_6.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+        },
+        {
+            "name": "SoundLab",
+            "type": 1,
+            "bundleID": "com.castpeer.audioroom.ios",
+            "bundleIdentifier": "com.castpeer.audioroom.ios",
+            "version": "2.9.2",
+            "versionDate": "2025-05-29",
+            "fullDate": "20250529191747",
+            "size": 129709686,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/SoundLab_2.9.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/SoundLab_2.9.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
+        },
+        {
             "name": "AllTrails",
             "type": 1,
             "bundleID": "com.alltrails.AllTrails",
