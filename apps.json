@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FindDiamonds",
+            "type": 2,
+            "bundleID": "me.eladga.finddiamonds",
+            "bundleIdentifier": "me.eladga.finddiamonds",
+            "version": "1.2.17",
+            "versionDate": "2025-05-29",
+            "fullDate": "20250529060544",
+            "size": 49267429,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/FindDiamonds_1.2.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2025/FindDiamonds_1.2.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.eladga.finddiamonds.png"
+        },
+        {
             "name": "Mockview",
             "type": 1,
             "bundleID": "com.kavsoft.MockviewApp",
