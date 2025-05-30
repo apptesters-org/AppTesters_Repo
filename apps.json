@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerAir",
+            "type": 1,
+            "bundleID": "co.airapps.scannerapp",
+            "bundleIdentifier": "co.airapps.scannerapp",
+            "version": "2025.5.4",
+            "versionDate": "2025-05-31",
+            "fullDate": "20250531011835",
+            "size": 80827282,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/ScannerAir_2025.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/ScannerAir_2025.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
