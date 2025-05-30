@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.56",
+            "versionDate": "2025-05-30",
+            "fullDate": "20250530221800",
+            "size": 110708098,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/PeakVisor_5.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/PeakVisor_5.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
+            "name": "GALATEA",
+            "type": 1,
+            "bundleID": "org.reactjs.native.Inkitt.App.Colt",
+            "bundleIdentifier": "org.reactjs.native.Inkitt.App.Colt",
+            "version": "12.19.1",
+            "versionDate": "2025-05-30",
+            "fullDate": "20250530221757",
+            "size": 69855508,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/GALATEA_12.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/GALATEA_12.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png"
+        },
+        {
             "name": "AdobeExpress",
             "type": 1,
             "bundleID": "com.adobe.post",
