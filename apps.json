@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.21",
+            "versionDate": "2025-05-31",
+            "fullDate": "20250531002826",
+            "size": 116477122,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/AlightMotion_6.2.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/AlightMotion_6.2.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
