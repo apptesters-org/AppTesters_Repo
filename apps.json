@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mockview",
+            "type": 1,
+            "bundleID": "com.kavsoft.MockviewApp",
+            "bundleIdentifier": "com.kavsoft.MockviewApp",
+            "version": "4.0.1",
+            "versionDate": "2025-05-30",
+            "fullDate": "20250530155045",
+            "size": 73792294,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Mockview_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Mockview_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png"
+        },
+        {
             "name": "Pixomatic",
             "type": 1,
             "bundleID": "us.pixomaticpro.PixomaticPro",
