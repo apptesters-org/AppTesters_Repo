@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pixomatic",
+            "type": 1,
+            "bundleID": "us.pixomaticpro.PixomaticPro",
+            "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+            "version": "2.55.32",
+            "versionDate": "2025-05-30",
+            "fullDate": "20250530153037",
+            "size": 175285793,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Pixomatic_2.55.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2025/Pixomatic_2.55.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png"
+        },
+        {
             "name": "Homeworkouts",
             "type": 1,
             "bundleID": "com.abishkking.maleworkout",
