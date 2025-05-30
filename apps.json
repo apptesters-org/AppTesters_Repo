@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tripsy",
+            "type": 1,
+            "bundleID": "app.tripsy.ios",
+            "bundleIdentifier": "app.tripsy.ios",
+            "version": "3.4.6",
+            "versionDate": "2025-05-31",
+            "fullDate": "20250531023901",
+            "size": 173866578,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Tripsy_3.4.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Tripsy_3.4.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.madarsoft.fitness",
