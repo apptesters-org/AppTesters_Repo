@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "12.20.0",
+            "versionDate": "2025-05-31",
+            "fullDate": "20250531053441",
+            "size": 370169320,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Captions_12.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/Captions_12.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
+            "name": "YouTubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "8.21.4",
+            "versionDate": "2025-05-31",
+            "fullDate": "20250531053436",
+            "size": 94952231,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/YouTubeMusic_8.21.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2025/YouTubeMusic_8.21.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Evertag",
             "type": 1,
             "bundleID": "com.leshko.tagseditor",
