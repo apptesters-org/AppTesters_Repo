@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "QrCode",
+            "type": 1,
+            "bundleID": "com.internet-rocks.codescanner",
+            "bundleIdentifier": "com.internet-rocks.codescanner",
+            "version": "2025.5.1",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602033601",
+            "size": 67539743,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/QrCode_2025.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/QrCode_2025.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
+        },
+        {
             "name": "HardcoreLevelingWarrior",
             "type": 2,
             "bundleID": "com.superplanet.lucid3.global",
