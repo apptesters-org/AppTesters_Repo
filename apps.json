@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Warship",
+            "type": 2,
+            "bundleID": "com.jsbak.Warship",
+            "bundleIdentifier": "com.jsbak.Warship",
+            "version": "2.2.4",
+            "versionDate": "2025-06-01",
+            "fullDate": "20250601235031",
+            "size": 64016669,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2025/Warship_2.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2025/Warship_2.2.4_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Unlocked All Functions",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jsbak.Warship.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jsbak.Warship.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
