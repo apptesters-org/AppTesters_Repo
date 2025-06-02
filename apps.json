@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "UnifiedDictionary",
+            "type": 1,
+            "bundleID": "com.bravolol.bravoLang.chineseDictionary",
+            "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+            "version": "34.3",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602101154",
+            "size": 21822684,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/UnifiedDictionary_34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/UnifiedDictionary_34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
