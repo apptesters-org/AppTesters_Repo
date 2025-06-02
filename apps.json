@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Truecaller",
+            "type": 1,
+            "bundleID": "com.truesoftware.TrueCallerOther",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "version": "14.19.6",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602170902",
+            "size": 74647070,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Truecaller_14.19.6_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Truecaller_14.19.6_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png"
+        },
+        {
+            "name": "FRAG.tg_@ipavip.-.v4.9.0",
+            "type": 2,
+            "bundleID": "com.ohbibi.fps",
+            "bundleIdentifier": "com.ohbibi.fps",
+            "version": "Unknown",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602170721",
+            "size": 196685682,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FRAG.tg_%40ipavip.-.v4.9.0.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/FRAG.tg_%40ipavip.-.v4.9.0.ipa",
+            "developerName": "",
+            "localizedDescription": null,
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ohbibi.fps.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ohbibi.fps.png"
+        },
+        {
             "name": "MonsterSuperLeague",
             "type": 2,
             "bundleID": "com.ftt.msleague",
