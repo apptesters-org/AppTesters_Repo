@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Agario",
+            "type": 2,
+            "bundleID": "com.miniclip.agar.io",
+            "bundleIdentifier": "com.miniclip.agar.io",
+            "version": "2.30.0",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602172416",
+            "size": 70464219,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Agario_2.30.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/Agario_2.30.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Unlocked All Functions",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.agar.io.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.agar.io.png"
+        },
+        {
             "name": "STARSEED",
             "type": 2,
             "bundleID": "com.com2us.starseedgl.ios.apple.global.normal",
@@ -28,18 +44,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.com2us.starseedgl.ios.apple.global.normal.png"
         },
         {
-            "name": "Polygun.Arena.tg_@ipavip.-.v0.9701",
+            "name": "PolygunArena",
             "type": 2,
             "bundleID": "com.polygon.arena",
             "bundleIdentifier": "com.polygon.arena",
-            "version": "Unknown",
+            "version": "v0.9701",
             "versionDate": "2025-06-02",
             "fullDate": "20250602171139",
             "size": 437409268,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Polygun.Arena.tg_%40ipavip.-.v0.9701.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Polygun.Arena.tg_%40ipavip.-.v0.9701.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PolygunArena_v0.9701_UnlimitedAmmo_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/PolygunArena_v0.9701_UnlimitedAmmo_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with UnlimitedAmmo",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygon.arena.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygon.arena.png"
         },
