@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WolframAlpha",
+            "type": 1,
+            "bundleID": "com.wolframalpha.wolframalphaviewer",
+            "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
+            "version": "2.5.5",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602191546",
+            "size": 176445854,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/WolframAlpha_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/WolframAlpha_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png"
+        },
+        {
             "name": "FortressSaga",
             "type": 2,
             "bundleID": "com.cookapps.bm.fortresssaga",
