@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FortressSaga",
+            "type": 2,
+            "bundleID": "com.cookapps.bm.fortresssaga",
+            "bundleIdentifier": "com.cookapps.bm.fortresssaga",
+            "version": "1.8.04",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602175536",
+            "size": 149334114,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/FortressSaga_1.8.04_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/FortressSaga_1.8.04_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cookapps.bm.fortresssaga.png"
+        },
+        {
             "name": "LegendofSurvivors",
             "type": 2,
             "bundleID": "com.abi.legendofsurvivors",
@@ -28,18 +44,18 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.legendofsurvivors.png"
         },
         {
-            "name": "KUBOOM.tg_@ipavip.-.v7.55.4",
+            "name": "KUBOOM",
             "type": 2,
             "bundleID": "com.Nobodyshot.kuboom",
             "bundleIdentifier": "com.Nobodyshot.kuboom",
-            "version": "Unknown",
+            "version": "v7.55.4",
             "versionDate": "2025-06-02",
             "fullDate": "20250602174754",
             "size": 87986592,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/KUBOOM.tg_%40ipavip.-.v7.55.4.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/KUBOOM.tg_%40ipavip.-.v7.55.4.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/KUBOOM_v7.55.4_Aimbot_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/KUBOOM_v7.55.4_Aimbot_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
-            "localizedDescription": null,
+            "localizedDescription": "Injected with Aimbot",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Nobodyshot.kuboom.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Nobodyshot.kuboom.png"
         },
@@ -2266,22 +2282,6 @@
             "localizedDescription": "Injected with AlwaysPerfect",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spaceapegames.beatstar.png"
-        },
-        {
-            "name": "HelloKittyMyDreamStore",
-            "type": 2,
-            "bundleID": "com.actgames.HelloKittyMDS",
-            "bundleIdentifier": "com.actgames.HelloKittyMDS",
-            "version": "1.0.18",
-            "versionDate": "2025-05-28",
-            "fullDate": "20250528165116",
-            "size": 216305422,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/HelloKittyMyDreamStore_1.0.18_UnlimitedGold_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/HelloKittyMyDreamStore_1.0.18_UnlimitedGold_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with UnlimitedGold",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actgames.HelloKittyMDS.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actgames.HelloKittyMDS.png"
         },
         {
             "name": "MergeCooking",
