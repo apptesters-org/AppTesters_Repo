@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "LongleafValley",
+            "type": 2,
+            "bundleID": "com.treespleasegames.merge1",
+            "bundleIdentifier": "com.treespleasegames.merge1",
+            "version": "1.35.26",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602165753",
+            "size": 241102400,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LongleafValley_1.35.26_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/LongleafValley_1.35.26_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Unlocked All Functions",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.treespleasegames.merge1.png"
+        },
+        {
+            "name": "TravelTown",
+            "type": 2,
+            "bundleID": "io.randomco.travel",
+            "bundleIdentifier": "io.randomco.travel",
+            "version": "2.12.1081",
+            "versionDate": "2025-06-02",
+            "fullDate": "20250602165747",
+            "size": 158627631,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/TravelTown_2.12.1081_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2025/TravelTown_2.12.1081_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png"
+        },
+        {
             "name": "Mimo",
             "type": 1,
             "bundleID": "com.getmimo.mimo",
@@ -362,22 +394,6 @@
             "localizedDescription": "Injected with ESP",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.battleroyale.png"
-        },
-        {
-            "name": "Hempire",
-            "type": 2,
-            "bundleID": "ca.lbcstudios.hempire",
-            "bundleIdentifier": "ca.lbcstudios.hempire",
-            "version": "v2.41.0",
-            "versionDate": "2025-05-31",
-            "fullDate": "20250531162516",
-            "size": 73789938,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_v2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2025/Hempire_v2.41.0_UnlimitedCurrency_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with UnlimitedCurrency",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ca.lbcstudios.hempire.png"
         },
         {
             "name": "GrimSoul",
