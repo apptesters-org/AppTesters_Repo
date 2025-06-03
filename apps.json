@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "WaterMinder",
+            "type": 1,
+            "bundleID": "com.waterminder.waterminder",
+            "bundleIdentifier": "com.waterminder.waterminder",
+            "version": "6.10.1",
+            "versionDate": "2025-06-03",
+            "fullDate": "20250603230938",
+            "size": 193692513,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/WaterMinder_6.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/WaterMinder_6.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png"
+        },
+        {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "332.5",
+            "versionDate": "2025-06-03",
+            "fullDate": "20250603230930",
+            "size": 210536105,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/Headway_332.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2025/Headway_332.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
