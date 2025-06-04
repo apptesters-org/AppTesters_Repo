@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.22",
+            "versionDate": "2025-06-04",
+            "fullDate": "20250604141944",
+            "size": 116714978,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/AlightMotion_6.2.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/AlightMotion_6.2.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
+            "name": "GOWOD",
+            "type": 1,
+            "bundleID": "eu.gowod",
+            "bundleIdentifier": "eu.gowod",
+            "version": "5.1.3",
+            "versionDate": "2025-06-04",
+            "fullDate": "20250604141942",
+            "size": 46266123,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/GOWOD_5.1.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-06-2025/GOWOD_5.1.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png"
+        },
+        {
             "name": "DeadTarget",
             "type": 2,
             "bundleID": "com.vng.g6.a.zombie",
