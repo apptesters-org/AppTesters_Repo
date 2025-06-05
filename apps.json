@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Coconote",
+            "type": 1,
+            "bundleID": "com.bbauman.Scripty",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "version": "1.94",
+            "versionDate": "2025-06-05",
+            "fullDate": "20250605141510",
+            "size": 31346609,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/Coconote_1.94_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2025/Coconote_1.94_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
+        },
+        {
             "name": "iTranslate",
             "type": 1,
             "bundleID": "com.outerspaceapps.itranslate",
