@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.23",
+            "versionDate": "2025-06-06",
+            "fullDate": "20250606130246",
+            "size": 116755613,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/AlightMotion_6.2.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/AlightMotion_6.2.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
             "name": "iLovePDF",
             "type": 1,
             "bundleID": "com.ilovepdf.www",
