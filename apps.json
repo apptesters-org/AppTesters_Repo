@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TinyDecisions",
+            "type": 1,
+            "bundleID": "com.nixwang.decision",
+            "bundleIdentifier": "com.nixwang.decision",
+            "version": "2.40.1",
+            "versionDate": "2025-06-06",
+            "fullDate": "20250606115714",
+            "size": 41905508,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/TinyDecisions_2.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/TinyDecisions_2.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png"
+        },
+        {
             "name": "ScannerAir",
             "type": 1,
             "bundleID": "co.airapps.scannerapp",
