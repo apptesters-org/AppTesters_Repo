@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.48",
+            "versionDate": "2025-06-06",
+            "fullDate": "20250606122222",
+            "size": 162827086,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/CLIME_5.13.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/CLIME_5.13.48_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "TinyDecisions",
             "type": 1,
             "bundleID": "com.nixwang.decision",
