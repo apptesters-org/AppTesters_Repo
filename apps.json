@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unfold",
+            "type": 1,
+            "bundleID": "com.moonlab.unfoldstories",
+            "bundleIdentifier": "com.moonlab.unfoldstories",
+            "version": "8.138.1",
+            "versionDate": "2025-06-06",
+            "fullDate": "20250606132255",
+            "size": 163636337,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/Unfold_8.138.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-06-2025/Unfold_8.138.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
