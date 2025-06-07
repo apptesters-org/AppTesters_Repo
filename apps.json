@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Ramble",
+            "type": 1,
+            "bundleID": "com.bowery-digital.ramble",
+            "bundleIdentifier": "com.bowery-digital.ramble",
+            "version": "1.1.1",
+            "versionDate": "2025-06-07",
+            "fullDate": "20250607174234",
+            "size": 43239984,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Ramble_1.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Ramble_1.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.ramble.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.ramble.png"
+        },
+        {
             "name": "Tiimo",
             "type": 1,
             "bundleID": "com.tiimo.app",
