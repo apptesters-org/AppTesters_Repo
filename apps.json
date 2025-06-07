@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Ereasy",
+            "type": 1,
+            "bundleID": "background.remover.bg.eraser",
+            "bundleIdentifier": "background.remover.bg.eraser",
+            "version": "2.5.1",
+            "versionDate": "2025-06-07",
+            "fullDate": "20250607162200",
+            "size": 34458633,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Ereasy_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Ereasy_2.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/background.remover.bg.eraser.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/background.remover.bg.eraser.png"
+        },
+        {
             "name": "MyVocab",
             "type": 1,
             "bundleID": "vladchechura.VocabularyEN",
