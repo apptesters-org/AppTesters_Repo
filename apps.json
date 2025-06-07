@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tiimo",
+            "type": 1,
+            "bundleID": "com.tiimo.app",
+            "bundleIdentifier": "com.tiimo.app",
+            "version": "3.14.1",
+            "versionDate": "2025-06-07",
+            "fullDate": "20250607171223",
+            "size": 116542080,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Tiimo_3.14.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/Tiimo_3.14.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png"
+        },
+        {
             "name": "WedslyPlanning",
             "type": 1,
             "bundleID": "com.wedbox.planning",
