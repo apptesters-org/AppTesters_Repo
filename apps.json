@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ParallelLive",
+            "type": 1,
+            "bundleID": "com.bigbrains.parallel",
+            "bundleIdentifier": "com.bigbrains.parallel",
+            "version": "2.3.08",
+            "versionDate": "2025-06-07",
+            "fullDate": "20250607164207",
+            "size": 197960963,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/ParallelLive_2.3.08_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-06-2025/ParallelLive_2.3.08_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigbrains.parallel.png"
+        },
+        {
             "name": "Ereasy",
             "type": 1,
             "bundleID": "background.remover.bg.eraser",
