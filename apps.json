@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Encode",
+            "type": 1,
+            "bundleID": "com.upskew.encode.ios",
+            "bundleIdentifier": "com.upskew.encode.ios",
+            "version": "6.5.0",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609042612",
+            "size": 46301238,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Encode_6.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Encode_6.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
+        },
+        {
             "name": "Supershift",
             "type": 1,
             "bundleID": "io.erna",
