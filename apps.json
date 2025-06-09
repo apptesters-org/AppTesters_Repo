@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "427.0.0",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609220345",
+            "size": 152402934,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/VSCO_427.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/VSCO_427.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
+            "name": "Infuse",
+            "type": 1,
+            "bundleID": "com.firecore.infuse",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "8.1.8",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609220342",
+            "size": 72255434,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Infuse_8.1.8_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Infuse_8.1.8_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
