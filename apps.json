@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoMusic",
+            "type": 1,
+            "bundleID": "com.flyingnayeem.nmVideoMergerJune",
+            "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
+            "version": "3.7.21",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609124355",
+            "size": 45987200,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/VideoMusic_3.7.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/VideoMusic_3.7.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.flyingnayeem.nmVideoMergerJune.png"
+        },
+        {
             "name": "CodeSnackIDE",
             "type": 1,
             "bundleID": "com.cloud-compiler",
