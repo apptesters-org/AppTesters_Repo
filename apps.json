@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Soundscape",
+            "type": 1,
+            "bundleID": "com.soundscape.music",
+            "bundleIdentifier": "com.soundscape.music",
+            "version": "4.9",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609205743",
+            "size": 163687638,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Soundscape_4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Soundscape_4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png"
+        },
+        {
+            "name": "IAmSober",
+            "type": 1,
+            "bundleID": "com.thehungrywasp.iamsober",
+            "bundleIdentifier": "com.thehungrywasp.iamsober",
+            "version": "8.3.3",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609205740",
+            "size": 33636931,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/IAmSober_8.3.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thehungrywasp.iamsober.png"
+        },
+        {
             "name": "Opal",
             "type": 1,
             "bundleID": "com.withopal.opal",
