@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "BlockBlast",
+            "type": 2,
+            "bundleID": "com.blockpuzzle.us.ios",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "version": "5.7.8",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609200633",
+            "size": 114491628,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/BlockBlast_5.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/BlockBlast_5.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+        },
+        {
+            "name": "FocusKeeper",
+            "type": 1,
+            "bundleID": "com.limepresso.pomodorofree",
+            "bundleIdentifier": "com.limepresso.pomodorofree",
+            "version": "3.4.1",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609200626",
+            "size": 171054153,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/FocusKeeper_3.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/FocusKeeper_3.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png"
+        },
+        {
             "name": "MyVocab",
             "type": 1,
             "bundleID": "vladchechura.VocabularyEN",
