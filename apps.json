@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Life",
+            "type": 1,
+            "bundleID": "co.lovetap.Female-by-Design",
+            "bundleIdentifier": "co.lovetap.Female-by-Design",
+            "version": "6.0.5",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609212315",
+            "size": 28651227,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Life_6.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/Life_6.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png"
+        },
+        {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.10.15",
+            "versionDate": "2025-06-09",
+            "fullDate": "20250609212310",
+            "size": 140736150,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/SimplyPiano_9.10.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2025/SimplyPiano_9.10.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "SnappierIPTV",
             "type": 1,
             "bundleID": "uk.co.snappy-code.snappierIPTV",
