@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantSnap",
+            "type": 1,
+            "bundleID": "net.plantsnap.freemium",
+            "bundleIdentifier": "net.plantsnap.freemium",
+            "version": "7.2.0",
+            "versionDate": "2025-06-10",
+            "fullDate": "20250610152037",
+            "size": 54929313,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/PlantSnap_7.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/PlantSnap_7.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png"
+        },
+        {
             "name": "TuneInRadio",
             "type": 1,
             "bundleID": "com.alexanderben.RadioIn",
