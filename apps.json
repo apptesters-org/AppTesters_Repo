@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ForeFlight",
+            "type": 1,
+            "bundleID": "com.foreflight.ForeFlightMobile",
+            "bundleIdentifier": "com.foreflight.ForeFlightMobile",
+            "version": "17.5.2",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611050332",
+            "size": 170558169,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/ForeFlight_17.5.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/ForeFlight_17.5.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
