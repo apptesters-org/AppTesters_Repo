@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WaterMinder",
+            "type": 1,
+            "bundleID": "com.waterminder.waterminder",
+            "bundleIdentifier": "com.waterminder.waterminder",
+            "version": "6.10.2",
+            "versionDate": "2025-06-10",
+            "fullDate": "20250610120423",
+            "size": 193688624,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/WaterMinder_6.10.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2025/WaterMinder_6.10.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png"
+        },
+        {
             "name": "VivaCut",
             "type": 1,
             "bundleID": "com.vivacut.videoeditor",
