@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "duet",
+            "type": 1,
+            "bundleID": "com.kairos.duet",
+            "bundleIdentifier": "com.kairos.duet",
+            "version": "3.0.0",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611000715",
+            "size": 43437373,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/duet_3.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/duet_3.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
+        },
+        {
             "name": "Balance",
             "type": 1,
             "bundleID": "com.elevateapp.kamino.kamino",
