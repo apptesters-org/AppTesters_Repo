@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.49",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611185239",
+            "size": 159425705,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/CLIME_5.13.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/CLIME_5.13.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "Focos",
             "type": 1,
             "bundleID": "com.focos",
