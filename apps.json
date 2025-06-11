@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "10.7.2",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611085039",
+            "size": 78201351,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/Bazaart_10.7.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/Bazaart_10.7.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+        },
+        {
             "name": "ForeFlight",
             "type": 1,
             "bundleID": "com.foreflight.ForeFlightMobile",
