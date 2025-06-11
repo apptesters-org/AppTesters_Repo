@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "CrosswordMaster",
+            "type": 2,
+            "bundleID": "com.easybrain.crossword.puzzles",
+            "bundleIdentifier": "com.easybrain.crossword.puzzles",
+            "version": "1.9.0",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611145354",
+            "size": 67977235,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/CrosswordMaster_1.9.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/CrosswordMaster_1.9.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.easybrain.crossword.puzzles.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.easybrain.crossword.puzzles.png"
+        },
+        {
+            "name": "BlockBlast",
+            "type": 2,
+            "bundleID": "com.blockpuzzle.us.ios",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "version": "5.8.0",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611145327",
+            "size": 113197673,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/BlockBlast_5.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/BlockBlast_5.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+        },
+        {
             "name": "GoingBalls",
             "type": 2,
             "bundleID": "com.pronetis.ironballride2",
