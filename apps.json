@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Busuu",
+            "type": 1,
+            "bundleID": "com.busuu.english.app",
+            "bundleIdentifier": "com.busuu.english.app",
+            "version": "29.6.0",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611161017",
+            "size": 174502442,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/Busuu_29.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/Busuu_29.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+        },
+        {
             "name": "Soundscape",
             "type": 1,
             "bundleID": "com.soundscape.music",
