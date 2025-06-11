@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PlantApp",
+            "type": 1,
+            "bundleID": "com.scaleup.plantid",
+            "bundleIdentifier": "com.scaleup.plantid",
+            "version": "3.0.8",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611141300",
+            "size": 80147904,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/PlantApp_3.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/PlantApp_3.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+        },
+        {
+            "name": "GOWOD",
+            "type": 1,
+            "bundleID": "eu.gowod",
+            "bundleIdentifier": "eu.gowod",
+            "version": "5.1.4",
+            "versionDate": "2025-06-11",
+            "fullDate": "20250611141258",
+            "size": 46262891,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/GOWOD_5.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-06-2025/GOWOD_5.1.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
