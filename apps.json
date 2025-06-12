@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MealPrepPro",
+            "type": 1,
+            "bundleID": "com.nibbleapps.MealPrepPro",
+            "bundleIdentifier": "com.nibbleapps.MealPrepPro",
+            "version": "3.117",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612154517",
+            "size": 141679720,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/MealPrepPro_3.117_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/MealPrepPro_3.117_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nibbleapps.MealPrepPro.png"
+        },
+        {
+            "name": "Soundscape",
+            "type": 1,
+            "bundleID": "com.soundscape.music",
+            "bundleIdentifier": "com.soundscape.music",
+            "version": "4.93",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612154510",
+            "size": 163617883,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Soundscape_4.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Soundscape_4.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png"
+        },
+        {
             "name": "LensAI",
             "type": 1,
             "bundleID": "com.lens.ai.app",
