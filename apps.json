@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Shapr3D",
+            "type": 1,
+            "bundleID": "com.shapr3d.shapr",
+            "bundleIdentifier": "com.shapr3d.shapr",
+            "version": "5.880.0",
+            "versionDate": "2025-06-13",
+            "fullDate": "20250613011521",
+            "size": 1313270591,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Shapr3D_5.880.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Shapr3D_5.880.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
+        },
+        {
             "name": "Facebook",
             "type": 1,
             "bundleID": "com.facebook.Facebook",
