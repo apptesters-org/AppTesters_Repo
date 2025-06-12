@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Combyne",
+            "type": 1,
+            "bundleID": "com.pungme.combyne",
+            "bundleIdentifier": "com.pungme.combyne",
+            "version": "8.6.1",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612152936",
+            "size": 55484489,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Combyne_8.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Combyne_8.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pungme.combyne.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pungme.combyne.png"
+        },
+        {
+            "name": "Huckleberry",
+            "type": 1,
+            "bundleID": "com.huckleberry-labs.app",
+            "bundleIdentifier": "com.huckleberry-labs.app",
+            "version": "0.9.266",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612152933",
+            "size": 52910126,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Huckleberry_0.9.266_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/Huckleberry_0.9.266_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png"
+        },
+        {
             "name": "Tappy",
             "type": 2,
             "bundleID": "cameronnazemi.Tappy",
