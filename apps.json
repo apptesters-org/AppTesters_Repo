@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.504",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612205800",
+            "size": 103135450,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/RiseSleep_0.1.504_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/RiseSleep_0.1.504_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "UniDream",
             "type": 1,
             "bundleID": "com.thirteenleafclover.art.generator",
