@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "WordPal",
+            "type": 2,
+            "bundleID": "com.dynamicapps.Vocab-Builder",
+            "bundleIdentifier": "com.dynamicapps.Vocab-Builder",
+            "version": "4.5.26",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612150901",
+            "size": 78309417,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/WordPal_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/WordPal_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dynamicapps.Vocab-Builder.png"
+        },
+        {
+            "name": "ColorWidgets",
+            "type": 1,
+            "bundleID": "com.MMApps.WidgetsApp",
+            "bundleIdentifier": "com.MMApps.WidgetsApp",
+            "version": "7.0.0",
+            "versionDate": "2025-06-12",
+            "fullDate": "20250612150857",
+            "size": 65146994,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/ColorWidgets_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2025/ColorWidgets_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.MMApps.WidgetsApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.MMApps.WidgetsApp.png"
+        },
+        {
             "name": "Bazaart",
             "type": 1,
             "bundleID": "co.bazaart.app",
