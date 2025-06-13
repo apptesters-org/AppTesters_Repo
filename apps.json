@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Moonly",
+            "type": 1,
+            "bundleID": "com.moonly.Moonly",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "version": "2.3.0",
+            "versionDate": "2025-06-13",
+            "fullDate": "20250613161125",
+            "size": 159068952,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Moonly_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/Moonly_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+        },
+        {
             "name": "VlogNow",
             "type": 1,
             "bundleID": "com.frontrow.vlog",
