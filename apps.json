@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoLite",
+            "type": 1,
+            "bundleID": "com.videobrowser.ios",
+            "bundleIdentifier": "com.videobrowser.ios",
+            "version": "612150",
+            "versionDate": "2025-06-13",
+            "fullDate": "20250613114958",
+            "size": 30778914,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/VideoLite_612150_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-06-2025/VideoLite_612150_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
+        },
+        {
             "name": "FitnessOnline",
             "type": 1,
             "bundleID": "com.aiti.FitnessOnline",
