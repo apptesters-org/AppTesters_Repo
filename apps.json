@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ShutEye",
+            "type": 1,
+            "bundleID": "health.sleep.sounds.tracker.alarm.calm",
+            "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
+            "version": "3.1.1",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614081705",
+            "size": 312816933,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/ShutEye_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/ShutEye_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png"
+        },
+        {
             "name": "UpNote",
             "type": 1,
             "bundleID": "com.getupnote.ios",
