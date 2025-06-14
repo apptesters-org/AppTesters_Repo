@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerAir",
+            "type": 1,
+            "bundleID": "co.airapps.scannerapp",
+            "bundleIdentifier": "co.airapps.scannerapp",
+            "version": "2025.6.1",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614223404",
+            "size": 80650748,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/ScannerAir_2025.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/ScannerAir_2025.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+        },
+        {
             "name": "DokkanBattle",
             "type": 2,
             "bundleID": "jp.co.bandainamcogames.BNGI0221",
