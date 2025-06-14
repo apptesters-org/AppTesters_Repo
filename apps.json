@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GrandSummoners",
+            "type": 2,
+            "bundleID": "jp.goodsmile.grandsummonersglobal",
+            "bundleIdentifier": "jp.goodsmile.grandsummonersglobal",
+            "version": "3.50.2",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614182023",
+            "size": 59722217,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/GrandSummoners_3.50.2_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.goodsmile.grandsummonersglobal.png"
+        },
+        {
             "name": "FishingClash",
             "type": 2,
             "bundleID": "com.tensquaregames.letsfish2",
