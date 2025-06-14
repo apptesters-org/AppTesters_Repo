@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RaftSurvival",
+            "type": 2,
+            "bundleID": "com.raftsurvival.raft",
+            "bundleIdentifier": "com.raftsurvival.raft",
+            "version": "2.4.0",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614180948",
+            "size": 166431232,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/RaftSurvival_2.4.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/RaftSurvival_2.4.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raftsurvival.raft.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.raftsurvival.raft.png"
+        },
+        {
             "name": "Soundscape",
             "type": 1,
             "bundleID": "com.soundscape.music",
