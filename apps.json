@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CalculatorAir",
+            "type": 1,
+            "bundleID": "com.CalculatorForiPad.InternetRocks",
+            "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+            "version": "2025.6.1",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614133327",
+            "size": 112388974,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/CalculatorAir_2025.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/CalculatorAir_2025.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
+        },
+        {
             "name": "Supershift",
             "type": 1,
             "bundleID": "io.erna",
