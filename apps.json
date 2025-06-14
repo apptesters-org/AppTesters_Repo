@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ChessMovePro",
+            "type": 2,
+            "bundleID": "com.sethsetse.ChessMovePro",
+            "bundleIdentifier": "com.sethsetse.ChessMovePro",
+            "version": "3.2.9",
+            "versionDate": "2025-06-15",
+            "fullDate": "20250615001931",
+            "size": 14715511,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/ChessMovePro_3.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/ChessMovePro_3.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sethsetse.ChessMovePro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sethsetse.ChessMovePro.png"
+        },
+        {
             "name": "ScannerAir",
             "type": 1,
             "bundleID": "co.airapps.scannerapp",
