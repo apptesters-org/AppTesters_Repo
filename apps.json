@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Soundscape",
+            "type": 1,
+            "bundleID": "com.soundscape.music",
+            "bundleIdentifier": "com.soundscape.music",
+            "version": "4.95",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614163923",
+            "size": 164247740,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Soundscape_4.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/Soundscape_4.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png"
+        },
+        {
+            "name": "FocusKeeper",
+            "type": 1,
+            "bundleID": "com.limepresso.pomodorofree",
+            "bundleIdentifier": "com.limepresso.pomodorofree",
+            "version": "3.4.2",
+            "versionDate": "2025-06-14",
+            "fullDate": "20250614163915",
+            "size": 171634784,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FocusKeeper_3.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-06-2025/FocusKeeper_3.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png"
+        },
+        {
             "name": "Gratitude",
             "type": 1,
             "bundleID": "com.northstar.gratitude",
