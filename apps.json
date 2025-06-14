@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Clarity",
+            "type": 1,
+            "bundleID": "com.moodtools.thoughtdiary",
+            "bundleIdentifier": "com.moodtools.thoughtdiary",
+            "version": "5.4.95",
+            "versionDate": "2025-06-15",
+            "fullDate": "20250615010455",
+            "size": 206043921,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/Clarity_5.4.95_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/Clarity_5.4.95_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
