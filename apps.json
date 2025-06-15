@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SNOW",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "14.2.15",
+            "versionDate": "2025-06-15",
+            "fullDate": "20250615204950",
+            "size": 129605838,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/SNOW_14.2.15_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2025/SNOW_14.2.15_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
             "name": "Wordscapes",
             "type": 2,
             "bundleID": "com.peoplefun.wordcross",
