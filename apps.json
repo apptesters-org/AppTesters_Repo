@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "VidCap",
+            "type": 1,
+            "bundleID": "io.fadel.VidCap",
+            "bundleIdentifier": "io.fadel.VidCap",
+            "version": "1.0.215",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616163735",
+            "size": 32487665,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/VidCap_1.0.215_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.VidCap.png"
+        },
+        {
+            "name": "Bunpo",
+            "type": 1,
+            "bundleID": "com.N2BunpouApp.yuki",
+            "bundleIdentifier": "com.N2BunpouApp.yuki",
+            "version": "2.25.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616163728",
+            "size": 147448246,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Bunpo_2.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Bunpo_2.25.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png"
+        },
+        {
             "name": "Teleprompter",
             "type": 1,
             "bundleID": "io.fadel.TeleprompterX",
