@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Summarify",
+            "type": 1,
+            "bundleID": "nz.digitaltools.Tube-GPT",
+            "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+            "version": "3.8.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616151133",
+            "size": 24864108,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Summarify_3.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Summarify_3.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
+        },
+        {
             "name": "Busuu",
             "type": 1,
             "bundleID": "com.busuu.english.app",
