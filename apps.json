@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "type": 1,
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "11.4",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616184618",
+            "size": 167885665,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/X_11.4_BHX_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/X_11.4_BHX_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with BHX",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "Mojo",
             "type": 1,
             "bundleID": "archery.storify",
