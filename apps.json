@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Yogger",
+            "type": 1,
+            "bundleID": "io.yogger.Yogger",
+            "bundleIdentifier": "io.yogger.Yogger",
+            "version": "4.0.1",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616181007",
+            "size": 68926680,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Yogger_4.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Yogger_4.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png"
+        },
+        {
+            "name": "Zing",
+            "type": 1,
+            "bundleID": "com.coach.zing",
+            "bundleIdentifier": "com.coach.zing",
+            "version": "1.108.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616180957",
+            "size": 249014686,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Zing_1.108.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Zing_1.108.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png"
+        },
+        {
             "name": "Homeworkouts",
             "type": 1,
             "bundleID": "com.abishkking.maleworkout",
