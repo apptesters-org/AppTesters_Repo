@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Noteshelf3",
+            "type": 1,
+            "bundleID": "com.fluidtouch.noteshelf3",
+            "bundleIdentifier": "com.fluidtouch.noteshelf3",
+            "version": "4.1",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616213237",
+            "size": 164183211,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Noteshelf3_4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Noteshelf3_4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fluidtouch.noteshelf3.png"
+        },
+        {
+            "name": "DrawIt",
+            "type": 2,
+            "bundleID": "com.kwalee.drawit",
+            "bundleIdentifier": "com.kwalee.drawit",
+            "version": "2.0.4",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616213233",
+            "size": 111993152,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/DrawIt_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/DrawIt_2.0.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kwalee.drawit.png"
+        },
+        {
             "name": "Aloha",
             "type": 1,
             "bundleID": "com.alohabrowser.alohabrowser",
