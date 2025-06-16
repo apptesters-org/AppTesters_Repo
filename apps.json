@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SixPackAbsAbsWorkout",
+            "type": 1,
+            "bundleID": "com.abishkking.sixpack",
+            "bundleIdentifier": "com.abishkking.sixpack",
+            "version": "1.32.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616183042",
+            "size": 371738118,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/SixPackAbsAbsWorkout_1.32.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/SixPackAbsAbsWorkout_1.32.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+        },
+        {
             "name": "SnappierIPTV",
             "type": 1,
             "bundleID": "uk.co.snappy-code.snappierIPTV",
