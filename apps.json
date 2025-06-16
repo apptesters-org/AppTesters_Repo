@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "TickTick",
+            "type": 1,
+            "bundleID": "com.TickTick.task",
+            "bundleIdentifier": "com.TickTick.task",
+            "version": "7.6.30",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616182028",
+            "size": 92302202,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/TickTick_7.6.30_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/TickTick_7.6.30_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png"
+        },
+        {
+            "name": "BeautyPlus",
+            "type": 1,
+            "bundleID": "com.commsource.BeautyPlus",
+            "bundleIdentifier": "com.commsource.BeautyPlus",
+            "version": "7.13.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616182016",
+            "size": 318403176,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/BeautyPlus_7.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/BeautyPlus_7.13.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png"
+        },
+        {
             "name": "MonokaiToolkitPro",
             "type": 1,
             "bundleID": "com.monokaitoolkit.pro",
