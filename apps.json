@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "FELFishEyeLens",
+            "type": 1,
+            "bundleID": "com.phantom.fantengmu",
+            "bundleIdentifier": "com.phantom.fantengmu",
+            "version": "2.0.15",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616183602",
+            "size": 74621101,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/FELFishEyeLens_2.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/FELFishEyeLens_2.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png"
+        },
+        {
+            "name": "StickmanParty",
+            "type": 2,
+            "bundleID": "com.Impera.stickmanparty",
+            "bundleIdentifier": "com.Impera.stickmanparty",
+            "version": "2.4.9",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616183558",
+            "size": 85467128,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/StickmanParty_2.4.9_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Impera.stickmanparty.png"
+        },
+        {
             "name": "SixPackAbsAbsWorkout",
             "type": 1,
             "bundleID": "com.abishkking.sixpack",
