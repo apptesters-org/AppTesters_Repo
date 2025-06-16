@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stippl",
+            "type": 1,
+            "bundleID": "com.stippl.stippl",
+            "bundleIdentifier": "com.stippl.stippl",
+            "version": "2.0.77",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616170323",
+            "size": 74624459,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Stippl_2.0.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Stippl_2.0.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png"
+        },
+        {
             "name": "GeniusScan",
             "type": 1,
             "bundleID": "com.geniussoftware.GeniusScan",
