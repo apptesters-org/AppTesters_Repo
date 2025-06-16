@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "30DayFitness",
+            "type": 1,
+            "bundleID": "com.vigorapps.30DayFitness",
+            "bundleIdentifier": "com.vigorapps.30DayFitness",
+            "version": "6.29.15",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616143613",
+            "size": 116142722,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/30DayFitness_6.29.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/30DayFitness_6.29.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png"
+        },
+        {
+            "name": "CodeSnackIDE",
+            "type": 1,
+            "bundleID": "com.cloud-compiler",
+            "bundleIdentifier": "com.cloud-compiler",
+            "version": "5.9.4",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616143611",
+            "size": 15955330,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/CodeSnackIDE_5.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/CodeSnackIDE_5.9.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
+        },
+        {
             "name": "HabitKit",
             "type": 1,
             "bundleID": "com.roehl.habitkit",
