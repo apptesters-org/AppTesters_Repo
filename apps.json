@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Nebo",
+            "type": 1,
+            "bundleID": "com.myscript.nebo",
+            "bundleIdentifier": "com.myscript.nebo",
+            "version": "6.8.0",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617014406",
+            "size": 146356218,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Nebo_6.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Nebo_6.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
