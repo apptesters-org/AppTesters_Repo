@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.231.0",
+            "versionDate": "2025-06-16",
+            "fullDate": "20250616184108",
+            "size": 200127222,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Mojo_1.231.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-06-2025/Mojo_1.231.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "FELFishEyeLens",
             "type": 1,
             "bundleID": "com.phantom.fantengmu",
