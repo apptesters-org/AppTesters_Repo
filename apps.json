@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.506",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618003717",
+            "size": 102966732,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/RiseSleep_0.1.506_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/RiseSleep_0.1.506_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "Flo",
             "type": 1,
             "bundleID": "org.iggymedia.periodtracker",
