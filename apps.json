@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AgeofMagic",
+            "type": 2,
+            "bundleID": "com.playkot.ageofmagic",
+            "bundleIdentifier": "com.playkot.ageofmagic",
+            "version": "2.34.1",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617171741",
+            "size": 201366063,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/AgeofMagic_2.34.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/AgeofMagic_2.34.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playkot.ageofmagic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playkot.ageofmagic.png"
+        },
+        {
             "name": "BASEBALL9",
             "type": 2,
             "bundleID": "us.kr.baseballnine",
