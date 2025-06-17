@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Roblox",
+            "type": 1,
+            "bundleID": "com.gloop.deltamobile",
+            "bundleIdentifier": "com.gloop.deltamobile",
+            "version": "2.673.712",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617180020",
+            "size": 166332033,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Roblox_2.673.712_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Roblox_2.673.712_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png"
+        },
+        {
             "name": "SubwaySurf",
             "type": 2,
             "bundleID": "com.kiloo.subwaysurfers",
