@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pestle",
+            "type": 1,
+            "bundleID": "com.willbishop.Simmer",
+            "bundleIdentifier": "com.willbishop.Simmer",
+            "version": "2.1.7",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617150131",
+            "size": 37094996,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Pestle_2.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/Pestle_2.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.willbishop.Simmer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.willbishop.Simmer.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
