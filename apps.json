@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Hevy",
+            "type": 1,
+            "bundleID": "com.hevyapp.hevy",
+            "bundleIdentifier": "com.hevyapp.hevy",
+            "version": "2.3.2",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618001159",
+            "size": 73107065,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Hevy_2.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Hevy_2.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png"
+        },
+        {
             "name": "GALATEA",
             "type": 1,
             "bundleID": "org.reactjs.native.Inkitt.App.Colt",
