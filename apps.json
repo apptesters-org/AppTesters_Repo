@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SleepCycle",
+            "type": 1,
+            "bundleID": "com.lexwarelabs.goodmorning",
+            "bundleIdentifier": "com.lexwarelabs.goodmorning",
+            "version": "6.25.23",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617132420",
+            "size": 294875999,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/SleepCycle_6.25.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/SleepCycle_6.25.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+        },
+        {
+            "name": "PicsArt",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "27.6.4",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617132414",
+            "size": 104691575,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/PicsArt_27.6.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/PicsArt_27.6.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "Balance",
             "type": 1,
             "bundleID": "com.elevateapp.kamino.kamino",
