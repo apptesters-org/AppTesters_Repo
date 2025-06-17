@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GETERNAL",
+            "type": 2,
+            "bundleID": "jp.co.bandainamcoent.BNEI0405",
+            "bundleIdentifier": "jp.co.bandainamcoent.BNEI0405",
+            "version": "1.2.0",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617172250",
+            "size": 498276321,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/GETERNAL_1.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/GETERNAL_1.2.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0405.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0405.png"
+        },
+        {
             "name": "AgeofMagic",
             "type": 2,
             "bundleID": "com.playkot.ageofmagic",
