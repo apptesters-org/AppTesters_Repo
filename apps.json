@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PSExpress",
+            "type": 1,
+            "bundleID": "com.adobe.PSMobile",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "25.24.0",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617135104",
+            "size": 154676314,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/PSExpress_25.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/PSExpress_25.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png"
+        },
+        {
             "name": "Truecaller",
             "type": 1,
             "bundleID": "com.truesoftware.TrueCallerOther",
