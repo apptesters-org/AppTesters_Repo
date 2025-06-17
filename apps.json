@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ahead",
+            "type": 1,
+            "bundleID": "com.aheadsolutions.aHead",
+            "bundleIdentifier": "com.aheadsolutions.aHead",
+            "version": "1.59.0",
+            "versionDate": "2025-06-17",
+            "fullDate": "20250617153642",
+            "size": 182529301,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/ahead_1.59.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-06-2025/ahead_1.59.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aheadsolutions.aHead.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aheadsolutions.aHead.png"
+        },
+        {
             "name": "Pestle",
             "type": 1,
             "bundleID": "com.willbishop.Simmer",
