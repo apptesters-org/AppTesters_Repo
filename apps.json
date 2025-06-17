@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AdobeScan",
+            "type": 1,
+            "bundleID": "com.adobe.scan.ios",
+            "bundleIdentifier": "com.adobe.scan.ios",
+            "version": "25.06.17",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618042912",
+            "size": 168484468,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AdobeScan_25.06.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AdobeScan_25.06.17_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.scan.ios.png"
+        },
+        {
             "name": "VEEDCaptions",
             "type": 1,
             "bundleID": "io.veed.appstore",
