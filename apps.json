@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.26",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618125636",
+            "size": 116743097,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AlightMotion_6.2.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/AlightMotion_6.2.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
+            "name": "Splice",
+            "type": 1,
+            "bundleID": "com.path36.SpliceFree",
+            "bundleIdentifier": "com.path36.SpliceFree",
+            "version": "4.28.40",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618125631",
+            "size": 110726770,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Splice_4.28.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Splice_4.28.40_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png"
+        },
+        {
             "name": "VideoLite",
             "type": 1,
             "bundleID": "com.videobrowser.ios",
