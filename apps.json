@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PdfEdit",
+            "type": 1,
+            "bundleID": "com.apalonapps.pdfeditor",
+            "bundleIdentifier": "com.apalonapps.pdfeditor",
+            "version": "2.14.20",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618211140",
+            "size": 378886881,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PdfEdit_2.14.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PdfEdit_2.14.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png"
+        },
+        {
             "name": "Converse",
             "type": 1,
             "bundleID": "com.itranslate.itranslateone",
