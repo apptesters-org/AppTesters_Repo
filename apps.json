@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FocusKeeper",
+            "type": 1,
+            "bundleID": "com.limepresso.pomodorofree",
+            "bundleIdentifier": "com.limepresso.pomodorofree",
+            "version": "3.4.3",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618191406",
+            "size": 210589721,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/FocusKeeper_3.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/FocusKeeper_3.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png"
+        },
+        {
             "name": "Reframe",
             "type": 1,
             "bundleID": "com.glucobit.cravingBuster.CravingBuster",
