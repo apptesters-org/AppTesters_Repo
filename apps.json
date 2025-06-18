@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnapCalc",
+            "type": 1,
+            "bundleID": "com.apalonapps.cameracalculator",
+            "bundleIdentifier": "com.apalonapps.cameracalculator",
+            "version": "1.47.13",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618211655",
+            "size": 50583098,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SnapCalc_1.47.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.cameracalculator.png"
+        },
+        {
             "name": "PdfEdit",
             "type": 1,
             "bundleID": "com.apalonapps.pdfeditor",
