@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Stepz",
+            "type": 1,
+            "bundleID": "com.visualhype.pedometer",
+            "bundleIdentifier": "com.visualhype.pedometer",
+            "version": "4.10.23",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618202028",
+            "size": 26023009,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Stepz_4.10.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Stepz_4.10.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png"
+        },
+        {
+            "name": "SlideShow",
+            "type": 1,
+            "bundleID": "com.spacegab.slideshow",
+            "bundleIdentifier": "com.spacegab.slideshow",
+            "version": "5.6.35",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618202023",
+            "size": 119701869,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SlideShow_5.6.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/SlideShow_5.6.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
+        },
+        {
             "name": "Photoroom",
             "type": 1,
             "bundleID": "com.dr1ven.eraser",
