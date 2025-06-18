@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PicsArt",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "27.7.2",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618060445",
+            "size": 104708300,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PicsArt_27.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/PicsArt_27.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "YPT",
             "type": 1,
             "bundleID": "com.pallo.passionTimerScoped",
