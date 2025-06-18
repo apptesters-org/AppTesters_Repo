@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HabitKit",
+            "type": 1,
+            "bundleID": "com.roehl.habitkit",
+            "bundleIdentifier": "com.roehl.habitkit",
+            "version": "1.13.1",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618133652",
+            "size": 45482802,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/HabitKit_1.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/HabitKit_1.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
