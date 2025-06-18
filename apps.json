@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Sleepzy",
+            "type": 1,
+            "bundleID": "com.apalonapps.smartalarmfree",
+            "bundleIdentifier": "com.apalonapps.smartalarmfree",
+            "version": "3.46.13",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618203037",
+            "size": 134793153,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Sleepzy_3.46.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Sleepzy_3.46.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.smartalarmfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.smartalarmfree.png"
+        },
+        {
+            "name": "Lampa",
+            "type": 1,
+            "bundleID": "com.lampa.photo",
+            "bundleIdentifier": "com.lampa.photo",
+            "version": "1.5.7",
+            "versionDate": "2025-06-18",
+            "fullDate": "20250618203033",
+            "size": 61215820,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Lampa_1.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2025/Lampa_1.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png"
+        },
+        {
             "name": "Stepz",
             "type": 1,
             "bundleID": "com.visualhype.pedometer",
