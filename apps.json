@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MyFitnessPal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "25.24.1",
+            "versionDate": "2025-06-19",
+            "fullDate": "20250619142345",
+            "size": 113326232,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2025/MyFitnessPal_25.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2025/MyFitnessPal_25.24.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.50",
+            "versionDate": "2025-06-19",
+            "fullDate": "20250619142338",
+            "size": 159394519,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2025/CLIME_5.13.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-06-2025/CLIME_5.13.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
