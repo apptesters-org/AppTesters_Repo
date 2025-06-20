@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SwiftyCompiler",
+            "type": 1,
+            "bundleID": "com.hassantaleb.SwiftCompiler",
+            "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+            "version": "9.14",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620174936",
+            "size": 26527286,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/SwiftyCompiler_9.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/SwiftyCompiler_9.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png"
+        },
+        {
             "name": "PlantSnap",
             "type": 1,
             "bundleID": "net.plantsnap.freemium",
