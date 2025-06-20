@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "335.1",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620225552",
+            "size": 220742185,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Headway_335.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Headway_335.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
             "name": "Swiftgram",
             "type": 1,
             "bundleID": "app.swiftgram.ios",
