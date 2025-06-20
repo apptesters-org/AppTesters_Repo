@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Grit",
+            "type": 1,
+            "bundleID": "stoope.Grit",
+            "bundleIdentifier": "stoope.Grit",
+            "version": "4.3.1",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620155236",
+            "size": 34255618,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Grit_4.3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/Grit_4.3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/stoope.Grit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/stoope.Grit.png"
+        },
+        {
+            "name": "FortGuardian",
+            "type": 2,
+            "bundleID": "com.xiaomo.bag",
+            "bundleIdentifier": "com.xiaomo.bag",
+            "version": "0.7.1",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620155232",
+            "size": 96128407,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/FortGuardian_0.7.1_noads_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/FortGuardian_0.7.1_noads_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with noads",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.xiaomo.bag.png"
+        },
+        {
             "name": "stoic",
             "type": 1,
             "bundleID": "com.mlobodzinski.Stoic",
