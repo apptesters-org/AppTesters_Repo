@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerPro",
+            "type": 1,
+            "bundleID": "com.readdle.Scanner",
+            "bundleIdentifier": "com.readdle.Scanner",
+            "version": "8.27.2",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620154208",
+            "size": 189217522,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ScannerPro_8.27.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/ScannerPro_8.27.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png"
+        },
+        {
             "name": "Boostcamp",
             "type": 1,
             "bundleID": "com.bpmhealth.boostfitness",
