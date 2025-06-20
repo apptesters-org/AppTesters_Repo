@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HappyScale",
+            "type": 1,
+            "bundleID": "com.frontpocketsoftware.happyscale",
+            "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+            "version": "2025.12",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620232105",
+            "size": 37425554,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/HappyScale_2025.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/HappyScale_2025.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png"
+        },
+        {
             "name": "Headway",
             "type": 1,
             "bundleID": "com.headway.books",
