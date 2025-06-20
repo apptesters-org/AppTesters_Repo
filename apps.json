@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantSnap",
+            "type": 1,
+            "bundleID": "net.plantsnap.freemium",
+            "bundleIdentifier": "net.plantsnap.freemium",
+            "version": "7.2.1",
+            "versionDate": "2025-06-20",
+            "fullDate": "20250620162913",
+            "size": 55508201,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/PlantSnap_7.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-06-2025/PlantSnap_7.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png"
+        },
+        {
             "name": "Photoroom",
             "type": 1,
             "bundleID": "com.dr1ven.eraser",
