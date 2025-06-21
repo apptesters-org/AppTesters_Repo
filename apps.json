@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "TimeSquared",
+            "type": 1,
+            "bundleID": "co.timesquared.hourstimetracker.ios",
+            "bundleIdentifier": "co.timesquared.hourstimetracker.ios",
+            "version": "3.3.1408",
+            "versionDate": "2025-06-21",
+            "fullDate": "20250621163025",
+            "size": 24558231,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/TimeSquared_3.3.1408_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/TimeSquared_3.3.1408_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.timesquared.hourstimetracker.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.timesquared.hourstimetracker.ios.png"
+        },
+        {
+            "name": "SunriseFast",
+            "type": 1,
+            "bundleID": "io.arborapps.Fasting",
+            "bundleIdentifier": "io.arborapps.Fasting",
+            "version": "2025.8",
+            "versionDate": "2025-06-21",
+            "fullDate": "20250621163023",
+            "size": 22437003,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SunriseFast_2025.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SunriseFast_2025.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.arborapps.Fasting.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.arborapps.Fasting.png"
+        },
+        {
             "name": "Grit",
             "type": 1,
             "bundleID": "stoope.Grit",
