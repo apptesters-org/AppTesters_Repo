@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SoundLab",
+            "type": 1,
+            "bundleID": "com.castpeer.audioroom.ios",
+            "bundleIdentifier": "com.castpeer.audioroom.ios",
+            "version": "2.9.3",
+            "versionDate": "2025-06-21",
+            "fullDate": "20250621201720",
+            "size": 130823061,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SoundLab_2.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-06-2025/SoundLab_2.9.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png"
+        },
+        {
             "name": "Transcender",
             "type": 2,
             "bundleID": "com.playgames.transcender",
