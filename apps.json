@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.59",
+            "versionDate": "2025-06-22",
+            "fullDate": "20250622005943",
+            "size": 110894389,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2025/PeakVisor_5.59_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2025/PeakVisor_5.59_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.madarsoft.fitness",
