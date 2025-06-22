@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Surge",
+            "type": 1,
+            "bundleID": "com.nssurge.inc.surge-ios",
+            "bundleIdentifier": "com.nssurge.inc.surge-ios",
+            "version": "5.8.3",
+            "versionDate": "2025-06-22",
+            "fullDate": "20250622221939",
+            "size": 34363883,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2025/Surge_5.8.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2025/Surge_5.8.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nssurge.inc.surge-ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nssurge.inc.surge-ios.png"
+        },
+        {
             "name": "Photoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Editor",
