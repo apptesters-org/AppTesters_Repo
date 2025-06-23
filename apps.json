@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Flightradar24",
+            "type": 1,
+            "bundleID": "se.resenatverket.FlightRadar24-Free",
+            "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+            "version": "10.12.0",
+            "versionDate": "2025-06-23",
+            "fullDate": "20250623145010",
+            "size": 190043853,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Flightradar24_10.12.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Flightradar24_10.12.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png"
+        },
+        {
             "name": "Busuu",
             "type": 1,
             "bundleID": "com.busuu.english.app",
