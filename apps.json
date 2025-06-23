@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SHRED",
+            "type": 1,
+            "bundleID": "com.shred.shredlabs",
+            "bundleIdentifier": "com.shred.shredlabs",
+            "version": "5.0.6",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624011511",
+            "size": 156388412,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SHRED_5.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SHRED_5.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+        },
+        {
             "name": "Dazz",
             "type": 1,
             "bundleID": "dazz.camera.vintagecamera",
