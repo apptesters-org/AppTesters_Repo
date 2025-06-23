@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MediaConvert",
+            "type": 1,
+            "bundleID": "com.verycoolapp.mediaconvert",
+            "bundleIdentifier": "com.verycoolapp.mediaconvert",
+            "version": "3.38",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624022037",
+            "size": 56104123,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/MediaConvert_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/MediaConvert_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
