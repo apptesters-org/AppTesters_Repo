@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Focos",
+            "type": 1,
+            "bundleID": "com.focos",
+            "bundleIdentifier": "com.focos",
+            "version": "2.11.28",
+            "versionDate": "2025-06-23",
+            "fullDate": "20250623131829",
+            "size": 325573692,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Focos_2.11.28_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Focos_2.11.28_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png"
+        },
+        {
             "name": "Mimo",
             "type": 1,
             "bundleID": "com.getmimo.mimo",
