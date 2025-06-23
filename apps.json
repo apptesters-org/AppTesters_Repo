@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Documents",
+            "type": 1,
+            "bundleID": "com.readdle.ReaddleDocsIPad",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "version": "8.17.1",
+            "versionDate": "2025-06-23",
+            "fullDate": "20250623160131",
+            "size": 229023586,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Documents_8.17.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/Documents_8.17.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+        },
+        {
             "name": "IdleMiner",
             "type": 2,
             "bundleID": "com.fluffyfairygames.idleminertycoon",
