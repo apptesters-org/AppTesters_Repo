@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "WestlandSurvival",
+            "type": 2,
+            "bundleID": "com.heliogames.a1",
+            "bundleIdentifier": "com.heliogames.a1",
+            "version": "9.4.0",
+            "versionDate": "2025-06-23",
+            "fullDate": "20250623173243",
+            "size": 574365843,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/WestlandSurvival_9.4.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2025/WestlandSurvival_9.4.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Mods",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heliogames.a1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heliogames.a1.png"
+        },
+        {
             "name": "Truecaller",
             "type": 1,
             "bundleID": "com.truesoftware.TrueCallerOther",
