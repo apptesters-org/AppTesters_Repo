@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pigment",
+            "type": 1,
+            "bundleID": "com.pixite.pigment",
+            "bundleIdentifier": "com.pixite.pigment",
+            "version": "3.5",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624035152",
+            "size": 133512471,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Pigment_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Pigment_3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
+        },
+        {
             "name": "Balance",
             "type": 1,
             "bundleID": "com.elevateapp.kamino.kamino",
