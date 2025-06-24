@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LiveWallpapersFree",
+            "type": 1,
+            "bundleID": "com.apalonapps.livewallpapersfree",
+            "bundleIdentifier": "com.apalonapps.livewallpapersfree",
+            "version": "2.42.29",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624203403",
+            "size": 144323041,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/LiveWallpapersFree_2.42.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/LiveWallpapersFree_2.42.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.livewallpapersfree.png"
+        },
+        {
             "name": "Scanner",
             "type": 1,
             "bundleID": "com.apalonapps.pdffree",
