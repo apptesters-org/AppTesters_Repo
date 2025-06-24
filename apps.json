@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Gratitude",
+            "type": 1,
+            "bundleID": "com.northstar.gratitude",
+            "bundleIdentifier": "com.northstar.gratitude",
+            "version": "4.0.32",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624181133",
+            "size": 35906472,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Gratitude_4.0.32_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Gratitude_4.0.32_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.northstar.gratitude.png"
+        },
+        {
             "name": "BlockBlast",
             "type": 2,
             "bundleID": "com.blockpuzzle.us.ios",
