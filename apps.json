@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Facetune",
+            "type": 1,
+            "bundleID": "com.lightricks.Facetune2",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.91",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624201834",
+            "size": 347477771,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Facetune_3.91_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Facetune_3.91_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "PlanesLiveFree",
             "type": 1,
             "bundleID": "com.apalonapps.planesfree",
