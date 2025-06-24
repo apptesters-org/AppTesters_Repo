@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.232.1",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624230955",
+            "size": 190999840,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Mojo_1.232.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Mojo_1.232.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
