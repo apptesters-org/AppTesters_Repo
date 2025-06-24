@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SummaryAI",
+            "type": 1,
+            "bundleID": "io.labhouse.audioapp",
+            "bundleIdentifier": "io.labhouse.audioapp",
+            "version": "2.1.1",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624173104",
+            "size": 84110310,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SummaryAI_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/SummaryAI_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png"
+        },
+        {
+            "name": "Sunlitt",
+            "type": 1,
+            "bundleID": "eu.sun.litt",
+            "bundleIdentifier": "eu.sun.litt",
+            "version": "4.8",
+            "versionDate": "2025-06-24",
+            "fullDate": "20250624173100",
+            "size": 96998530,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sunlitt_4.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2025/Sunlitt_4.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png"
+        },
+        {
             "name": "Lightroom",
             "type": 1,
             "bundleID": "com.adobe.lrmobilephone",
