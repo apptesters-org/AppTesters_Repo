@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "YPT",
+            "type": 1,
+            "bundleID": "com.pallo.passionTimerScoped",
+            "bundleIdentifier": "com.pallo.passionTimerScoped",
+            "version": "706.3.0",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625061038",
+            "size": 93605244,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/YPT_706.3.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/YPT_706.3.0_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png"
+        },
+        {
+            "name": "Wordscapes",
+            "type": 2,
+            "bundleID": "com.peoplefun.wordcross",
+            "bundleIdentifier": "com.peoplefun.wordcross",
+            "version": "3.2.12",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625061027",
+            "size": 190439875,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Wordscapes_3.2.12_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Wordscapes_3.2.12_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png"
+        },
+        {
             "name": "LumaFusion",
             "type": 1,
             "bundleID": "com.luma-touch.LumaFusion",
