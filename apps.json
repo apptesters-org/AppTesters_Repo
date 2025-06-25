@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Paired",
+            "type": 1,
+            "bundleID": "io.betterhalf.app",
+            "bundleIdentifier": "io.betterhalf.app",
+            "version": "2.40.0",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625205657",
+            "size": 33581617,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Paired_2.40.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Paired_2.40.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.betterhalf.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.betterhalf.app.png"
+        },
+        {
             "name": "CLIME",
             "type": 1,
             "bundleID": "com.apalonapps.radarfree",
