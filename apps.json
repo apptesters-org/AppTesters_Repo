@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "12.24.0",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625211726",
+            "size": 373335088,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Captions_12.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/Captions_12.24.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.509",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625211721",
+            "size": 105126685,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/RiseSleep_0.1.509_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/RiseSleep_0.1.509_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "Mondly",
             "type": 1,
             "bundleID": "com.atistudios.MondlyLanguages",
