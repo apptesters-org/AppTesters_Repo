@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BlockBlast",
+            "type": 2,
+            "bundleID": "com.blockpuzzle.us.ios",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "version": "5.8.7",
+            "versionDate": "2025-06-25",
+            "fullDate": "20250625181103",
+            "size": 112977542,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/BlockBlast_5.8.7_noads_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2025/BlockBlast_5.8.7_noads_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with noads",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+        },
+        {
             "name": "Wikiloc",
             "type": 1,
             "bundleID": "com.wikiloc.wikiloc",
