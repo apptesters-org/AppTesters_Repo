@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "HabitKit",
+            "type": 1,
+            "bundleID": "com.roehl.habitkit",
+            "bundleIdentifier": "com.roehl.habitkit",
+            "version": "1.13.2",
+            "versionDate": "2025-06-26",
+            "fullDate": "20250626230041",
+            "size": 45513996,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/HabitKit_1.13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/HabitKit_1.13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+        },
+        {
+            "name": "VideoStudio",
+            "type": 1,
+            "bundleID": "videoeditor.app",
+            "bundleIdentifier": "videoeditor.app",
+            "version": "3.20.0",
+            "versionDate": "2025-06-26",
+            "fullDate": "20250626230033",
+            "size": 208144510,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2025/VideoStudio_3.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png"
+        },
+        {
             "name": "Blossom",
             "type": 1,
             "bundleID": "com.apalonapps.plants",
