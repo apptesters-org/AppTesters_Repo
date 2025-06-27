@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitnessOnline",
+            "type": 1,
+            "bundleID": "com.aiti.FitnessOnline",
+            "bundleIdentifier": "com.aiti.FitnessOnline",
+            "version": "1.9.7",
+            "versionDate": "2025-06-27",
+            "fullDate": "20250627210649",
+            "size": 96603577,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2025/FitnessOnline_1.9.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2025/FitnessOnline_1.9.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
+        },
+        {
             "name": "PlantApp",
             "type": 1,
             "bundleID": "com.scaleup.plantid",
