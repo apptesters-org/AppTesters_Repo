@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantApp",
+            "type": 1,
+            "bundleID": "com.scaleup.plantid",
+            "bundleIdentifier": "com.scaleup.plantid",
+            "version": "3.1.0",
+            "versionDate": "2025-06-27",
+            "fullDate": "20250627163045",
+            "size": 81041071,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2025/PlantApp_3.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2025/PlantApp_3.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+        },
+        {
             "name": "ScannerforMe",
             "type": 1,
             "bundleID": "com.apalonapps.pdffree",
