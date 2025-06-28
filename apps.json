@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ImagineArt",
+            "type": 1,
+            "bundleID": "com.vyro.Imagine",
+            "bundleIdentifier": "com.vyro.Imagine",
+            "version": "2.5.2",
+            "versionDate": "2025-06-29",
+            "fullDate": "20250629035728",
+            "size": 85659110,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/ImagineArt_2.5.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/ImagineArt_2.5.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vyro.Imagine.png"
+        },
+        {
             "name": "RenovateAI",
             "type": 1,
             "bundleID": "app.renovateai",
