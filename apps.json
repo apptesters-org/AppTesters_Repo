@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Structured",
+            "type": 1,
+            "bundleID": "com.leomehlig.today",
+            "bundleIdentifier": "com.leomehlig.today",
+            "version": "4.2.2",
+            "versionDate": "2025-06-28",
+            "fullDate": "20250628154753",
+            "size": 156748410,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Structured_4.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Structured_4.2.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leomehlig.today.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leomehlig.today.png"
+        },
+        {
+            "name": "Timetable",
+            "type": 1,
+            "bundleID": "fr.adriencarvalot.Timetable",
+            "bundleIdentifier": "fr.adriencarvalot.Timetable",
+            "version": "2.7.0",
+            "versionDate": "2025-06-28",
+            "fullDate": "20250628154745",
+            "size": 204310074,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Timetable_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/Timetable_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png"
+        },
+        {
             "name": "memorizebyheart",
             "type": 1,
             "bundleID": "com.goodturn.memorize",
