@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoLite",
+            "type": 1,
+            "bundleID": "com.videobrowser.ios",
+            "bundleIdentifier": "com.videobrowser.ios",
+            "version": "613100",
+            "versionDate": "2025-06-28",
+            "fullDate": "20250628181933",
+            "size": 31902153,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/VideoLite_613100_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2025/VideoLite_613100_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
+        },
+        {
             "name": "Gradient",
             "type": 1,
             "bundleID": "com.tickettothemoon.gradient",
