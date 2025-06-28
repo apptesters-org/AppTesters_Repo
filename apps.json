@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RenovateAI",
+            "type": 1,
+            "bundleID": "app.renovateai",
+            "bundleIdentifier": "app.renovateai",
+            "version": "4.4.52",
+            "versionDate": "2025-06-29",
+            "fullDate": "20250629033720",
+            "size": 54117768,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/RenovateAI_4.4.52_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/RenovateAI_4.4.52_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png"
+        },
+        {
             "name": "SixPackAbsAbsWorkout",
             "type": 1,
             "bundleID": "com.abishkking.sixpack",
