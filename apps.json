@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Euforia",
+            "type": 1,
+            "bundleID": "digital.euforia",
+            "bundleIdentifier": "digital.euforia",
+            "version": "1.2.11",
+            "versionDate": "2025-06-29",
+            "fullDate": "20250629181550",
+            "size": 49232351,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Euforia_1.2.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/digital.euforia.png"
+        },
+        {
+            "name": "Shapy",
+            "type": 1,
+            "bundleID": "com.blake.femalefitness",
+            "bundleIdentifier": "com.blake.femalefitness",
+            "version": "10.3.5",
+            "versionDate": "2025-06-29",
+            "fullDate": "20250629181548",
+            "size": 37191814,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Shapy_10.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/Shapy_10.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blake.femalefitness.png"
+        },
+        {
             "name": "Remini",
             "type": 1,
             "bundleID": "com.bigwinepot.nwdn.international",
