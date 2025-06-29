@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnoreLab",
+            "type": 1,
+            "bundleID": "com.revivasoftworks.Snore-Lab",
+            "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+            "version": "5.7.8",
+            "versionDate": "2025-06-29",
+            "fullDate": "20250629225707",
+            "size": 137344632,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/SnoreLab_5.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-06-2025/SnoreLab_5.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+        },
+        {
             "name": "HeyJapan",
             "type": 1,
             "bundleID": "com.eup.heyjapan",
