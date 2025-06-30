@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Thenx",
+            "type": 1,
+            "bundleID": "com.calisthenics.thenx",
+            "bundleIdentifier": "com.calisthenics.thenx",
+            "version": "6.4.0",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701020736",
+            "size": 119684679,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Thenx_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Thenx_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
