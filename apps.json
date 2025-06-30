@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Headway",
+            "type": 1,
+            "bundleID": "com.headway.books",
+            "bundleIdentifier": "com.headway.books",
+            "version": "336.1",
+            "versionDate": "2025-06-30",
+            "fullDate": "20250630131603",
+            "size": 222700310,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Headway_336.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Headway_336.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png"
+        },
+        {
+            "name": "Mimo",
+            "type": 1,
+            "bundleID": "com.getmimo.mimo",
+            "bundleIdentifier": "com.getmimo.mimo",
+            "version": "9.16.0",
+            "versionDate": "2025-06-30",
+            "fullDate": "20250630131600",
+            "size": 77579422,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Mimo_9.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Mimo_9.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
