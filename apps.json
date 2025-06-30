@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "10.7.5",
+            "versionDate": "2025-06-30",
+            "fullDate": "20250630144156",
+            "size": 79467138,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Bazaart_10.7.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/Bazaart_10.7.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+        },
+        {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.52",
+            "versionDate": "2025-06-30",
+            "fullDate": "20250630144150",
+            "size": 161856935,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/CLIME_5.13.52_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2025/CLIME_5.13.52_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
