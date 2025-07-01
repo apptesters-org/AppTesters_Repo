@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "VivaCut",
+            "type": 1,
+            "bundleID": "com.vivacut.videoeditor",
+            "bundleIdentifier": "com.vivacut.videoeditor",
+            "version": "4.3.6",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701131214",
+            "size": 210522987,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/VivaCut_4.3.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/VivaCut_4.3.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
+        },
+        {
+            "name": "Suret",
+            "type": 1,
+            "bundleID": "com.idevtal.Wallpapers",
+            "bundleIdentifier": "com.idevtal.Wallpapers",
+            "version": "5.77",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701131207",
+            "size": 170099596,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Suret_5.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Suret_5.77_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
