@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Slopes",
+            "type": 1,
+            "bundleID": "com.consumedbycode.slopes",
+            "bundleIdentifier": "com.consumedbycode.slopes",
+            "version": "2025.9",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701190041",
+            "size": 90872626,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Slopes_2025.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Slopes_2025.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.consumedbycode.slopes.png"
+        },
+        {
             "name": "Focos",
             "type": 1,
             "bundleID": "com.focos",
