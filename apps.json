@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AIChatbot",
+            "type": 1,
+            "bundleID": "com.aichatbot.assistant",
+            "bundleIdentifier": "com.aichatbot.assistant",
+            "version": "2.29",
+            "versionDate": "2025-07-02",
+            "fullDate": "20250702042945",
+            "size": 105158243,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/AIChatbot_2.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/AIChatbot_2.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
