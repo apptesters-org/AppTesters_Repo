@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GentlerStreak",
+            "type": 1,
+            "bundleID": "app.gentler.activity",
+            "bundleIdentifier": "app.gentler.activity",
+            "version": "5.6.1",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701072527",
+            "size": 96616464,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/GentlerStreak_5.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/GentlerStreak_5.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png"
+        },
+        {
             "name": "Hevy",
             "type": 1,
             "bundleID": "com.hevyapp.hevy",
