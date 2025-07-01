@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Focos",
+            "type": 1,
+            "bundleID": "com.focos",
+            "bundleIdentifier": "com.focos",
+            "version": "2.11.29",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701182008",
+            "size": 323189035,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Focos_2.11.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Focos_2.11.29_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png"
+        },
+        {
             "name": "Huckleberry",
             "type": 1,
             "bundleID": "com.huckleberry-labs.app",
