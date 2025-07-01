@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PDFExpert",
+            "type": 1,
+            "bundleID": "com.readdle.PDFExpert5",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "version": "7.23.3",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701214200",
+            "size": 158681063,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/PDFExpert_7.23.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/PDFExpert_7.23.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
+        },
+        {
             "name": "TranslateNow",
             "type": 1,
             "bundleID": "solutions.wzp.translator",
