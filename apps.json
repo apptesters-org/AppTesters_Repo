@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GALATEA",
+            "type": 1,
+            "bundleID": "org.reactjs.native.Inkitt.App.Colt",
+            "bundleIdentifier": "org.reactjs.native.Inkitt.App.Colt",
+            "version": "13.3.0",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701061002",
+            "size": 78386051,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/GALATEA_13.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/GALATEA_13.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png"
+        },
+        {
             "name": "Speedtest",
             "type": 1,
             "bundleID": "com.ookla.speedtest",
