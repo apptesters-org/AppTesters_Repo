@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Osmosis",
+            "type": 1,
+            "bundleID": "com.osmose-it.osmosis",
+            "bundleIdentifier": "com.osmose-it.osmosis",
+            "version": "5.6.8",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701135744",
+            "size": 22365173,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Osmosis_5.6.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Osmosis_5.6.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png"
+        },
+        {
             "name": "SlideShow",
             "type": 1,
             "bundleID": "com.spacegab.slideshow",
