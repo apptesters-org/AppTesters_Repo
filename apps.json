@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Rest",
+            "type": 1,
+            "bundleID": "com.evolve.helm",
+            "bundleIdentifier": "com.evolve.helm",
+            "version": "3.140.1",
+            "versionDate": "2025-07-02",
+            "fullDate": "20250702025919",
+            "size": 123137216,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/Rest_3.140.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2025/Rest_3.140.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+        },
+        {
             "name": "Captions",
             "type": 1,
             "bundleID": "boomer.Smart-Video",
