@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "ShiftDays",
+            "type": 1,
+            "bundleID": "com.limepresso.shiftworkcalendar",
+            "bundleIdentifier": "com.limepresso.shiftworkcalendar",
+            "version": "1.97.1",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701195111",
+            "size": 38545334,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/ShiftDays_1.97.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/ShiftDays_1.97.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.shiftworkcalendar.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.shiftworkcalendar.png"
+        },
+        {
+            "name": "Paraphrase",
+            "type": 1,
+            "bundleID": "com.tr.paraphrasingtool.rewritertool.textrewriter",
+            "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
+            "version": "1.4.4",
+            "versionDate": "2025-07-01",
+            "fullDate": "20250701195108",
+            "size": 21993775,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Paraphrase_1.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2025/Paraphrase_1.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png"
+        },
+        {
             "name": "Widgetsmith",
             "type": 1,
             "bundleID": "com.crossforward.WidgetSmith",
