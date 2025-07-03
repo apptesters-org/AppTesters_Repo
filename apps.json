@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerAir",
+            "type": 1,
+            "bundleID": "co.airapps.scannerapp",
+            "bundleIdentifier": "co.airapps.scannerapp",
+            "version": "2025.6.5",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703221327",
+            "size": 81281507,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ScannerAir_2025.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/ScannerAir_2025.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+        },
+        {
             "name": "SimplySing",
             "type": 1,
             "bundleID": "com.joytunes.Sing",
