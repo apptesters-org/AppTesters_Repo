@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "EPIK",
+            "type": 1,
+            "bundleID": "com.snowcorp.epik",
+            "bundleIdentifier": "com.snowcorp.epik",
+            "version": "6.1.11",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703180130",
+            "size": 158244725,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/EPIK_6.1.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/EPIK_6.1.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
+        },
+        {
             "name": "YouTubeOLED",
             "type": 1,
             "bundleID": "com.google.ios.youtube",
