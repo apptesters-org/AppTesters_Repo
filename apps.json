@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Shapr3D",
+            "type": 1,
+            "bundleID": "com.shapr3d.shapr",
+            "bundleIdentifier": "com.shapr3d.shapr",
+            "version": "5.890.0",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703173035",
+            "size": 1152380267,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Shapr3D_5.890.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Shapr3D_5.890.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
+        },
+        {
+            "name": "Vids",
+            "type": 1,
+            "bundleID": "viral.vision.vids",
+            "bundleIdentifier": "viral.vision.vids",
+            "version": "1.107.0",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703173029",
+            "size": 162676661,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Vids_1.107.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/Vids_1.107.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png"
+        },
+        {
             "name": "Letterboxd",
             "type": 1,
             "bundleID": "com.letterboxd.LetterboxdApp",
