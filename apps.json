@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.53",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703135414",
+            "size": 161883502,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/CLIME_5.13.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/CLIME_5.13.53_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
