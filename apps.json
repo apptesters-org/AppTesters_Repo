@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeOLED",
+            "type": 1,
+            "bundleID": "com.google.ios.youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "20.15.1",
+            "versionDate": "2025-07-03",
+            "fullDate": "20250703174620",
+            "size": 119338460,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/YouTubeOLED_20.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-07-2025/YouTubeOLED_20.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png"
+        },
+        {
             "name": "Shapr3D",
             "type": 1,
             "bundleID": "com.shapr3d.shapr",
