@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FCMobile",
+            "type": 2,
+            "bundleID": "com.ea.ios.fifamobile",
+            "bundleIdentifier": "com.ea.ios.fifamobile",
+            "version": "25.0.03",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704182942",
+            "size": 123481450,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/FCMobile_25.0.03_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/FCMobile_25.0.03_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.ios.fifamobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.ios.fifamobile.png"
+        },
+        {
             "name": "Supershift",
             "type": 1,
             "bundleID": "io.erna",
