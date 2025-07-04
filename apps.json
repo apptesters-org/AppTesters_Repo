@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Supershift",
+            "type": 1,
+            "bundleID": "io.erna",
+            "bundleIdentifier": "io.erna",
+            "version": "2025.19",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704181438",
+            "size": 33013222,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Supershift_2025.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/Supershift_2025.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png"
+        },
+        {
+            "name": "BitLifeGO",
+            "type": 1,
+            "bundleID": "com.goodgamestudios.bitlife.go.lifesimulation",
+            "bundleIdentifier": "com.goodgamestudios.bitlife.go.lifesimulation",
+            "version": "1.0.79",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704181433",
+            "size": 154274060,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/BitLifeGO_1.0.79_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/BitLifeGO_1.0.79_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.goodgamestudios.bitlife.go.lifesimulation.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.goodgamestudios.bitlife.go.lifesimulation.png"
+        },
+        {
             "name": "Aloha",
             "type": 1,
             "bundleID": "com.alohabrowser.alohabrowser",
@@ -300,7 +332,7 @@
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png"
         },
         {
-            "name": "",
+            "name": "CamScanner",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
             "bundleIdentifier": "com.intsig.CamScannerLite",
@@ -308,8 +340,8 @@
             "versionDate": "2025-07-04",
             "fullDate": "20250704082624",
             "size": 176231919,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/CamScanner_6.91.1_VIP_%40thisismanpreets_apptesters.org.ipa",
             "developerName": "",
             "localizedDescription": "Injected with VIP",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
