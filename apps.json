@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SubwaySurf",
+            "type": 2,
+            "bundleID": "com.kiloo.subwaysurfers",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.48.10",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704183948",
+            "size": 143885795,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SubwaySurf_3.48.10_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/SubwaySurf_3.48.10_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png"
+        },
+        {
             "name": "FCMobile",
             "type": 2,
             "bundleID": "com.ea.ios.fifamobile",
