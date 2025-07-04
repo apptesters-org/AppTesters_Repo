@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PictureThis",
+            "type": 1,
+            "bundleID": "cn.danatech.xingseus",
+            "bundleIdentifier": "cn.danatech.xingseus",
+            "version": "5.20.0",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704090139",
+            "size": 136388830,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/PictureThis_5.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/PictureThis_5.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
