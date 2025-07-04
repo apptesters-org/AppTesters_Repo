@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Polarr",
+            "type": 1,
+            "bundleID": "co.polarr.ppe",
+            "bundleIdentifier": "co.polarr.ppe",
+            "version": "6.11.5",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705000610",
+            "size": 194811378,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/Polarr_6.11.5_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/Polarr_6.11.5_Satella_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Satella",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png"
+        },
+        {
             "name": "SpongeBobAdventures",
             "type": 2,
             "bundleID": "com.tiltingpoint.sbadventures",
