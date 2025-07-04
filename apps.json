@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RaidShadowLegend",
+            "type": 2,
+            "bundleID": "com.plarium.raidlegends",
+            "bundleIdentifier": "com.plarium.raidlegends",
+            "version": "10.55.0",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704165411",
+            "size": 136238578,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/RaidShadowLegend_10.55.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/RaidShadowLegend_10.55.0_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Unlocked All Functions",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plarium.raidlegends.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plarium.raidlegends.png"
+        },
+        {
             "name": "Alpenglow",
             "type": 1,
             "bundleID": "com.andydev.alpenglow",
