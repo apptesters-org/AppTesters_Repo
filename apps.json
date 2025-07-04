@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TowerOfGodNewWorld",
+            "type": 2,
+            "bundleID": "com.netmarble.tog",
+            "bundleIdentifier": "com.netmarble.tog",
+            "version": "2.12.00",
+            "versionDate": "2025-07-04",
+            "fullDate": "20250704185455",
+            "size": 114551113,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/TowerOfGodNewWorld_2.12.00_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-07-2025/TowerOfGodNewWorld_2.12.00_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.tog.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.netmarble.tog.png"
+        },
+        {
             "name": "SubwaySurf",
             "type": 2,
             "bundleID": "com.kiloo.subwaysurfers",
