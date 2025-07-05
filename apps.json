@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "8.26.5",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705174240",
+            "size": 93981714,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/YouTubeMusic_8.26.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/YouTubeMusic_8.26.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Things",
             "type": 1,
             "bundleID": "com.culturedcode.ThingsiPad",
