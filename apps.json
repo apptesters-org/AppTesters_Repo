@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KineMaster",
+            "type": 1,
+            "bundleID": "com.kinemaster.kios",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "7.7.3",
+            "versionDate": "2025-07-06",
+            "fullDate": "20250706031853",
+            "size": 111131307,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/KineMaster_7.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/KineMaster_7.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
