@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DoCast",
+            "type": 1,
+            "bundleID": "us.electronic.docast",
+            "bundleIdentifier": "us.electronic.docast",
+            "version": "5.3",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705202825",
+            "size": 22517950,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/DoCast_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/DoCast_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png"
+        },
+        {
             "name": "BandLab",
             "type": 1,
             "bundleID": "com.bandlab.bandlab.iphone",
