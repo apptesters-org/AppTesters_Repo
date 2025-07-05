@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MergeCooking",
+            "type": 2,
+            "bundleID": "com.merge.cooking.theme.restaurant.food",
+            "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+            "version": "1.1.98",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705145411",
+            "size": 273527188,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.98_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.98_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
+        },
+        {
+            "name": "TuneTown",
+            "type": 2,
+            "bundleID": "com.nanobitsoftware.merginmusic",
+            "bundleIdentifier": "com.nanobitsoftware.merginmusic",
+            "version": "0.8.2",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705145351",
+            "size": 510602219,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TuneTown_0.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/TuneTown_0.8.2_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nanobitsoftware.merginmusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nanobitsoftware.merginmusic.png"
+        },
+        {
             "name": "TravelTown",
             "type": 2,
             "bundleID": "io.randomco.travel",
