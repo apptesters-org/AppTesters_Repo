@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BHTikTokPlus",
+            "type": 1,
+            "bundleID": "com.zhiliaoapp.musically",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "40.6.0",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705170220",
+            "size": 455684738,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/BHTikTokPlus_40.6.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/BHTikTokPlus_40.6.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
             "name": "Wordscapes",
             "type": 2,
             "bundleID": "com.peoplefun.wordcross",
