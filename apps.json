@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "ACRebellion",
+            "type": 2,
+            "bundleID": "com.ubisoft.accovenant",
+            "bundleIdentifier": "com.ubisoft.accovenant",
+            "version": "3.6.1",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705152035",
+            "size": 866607657,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/ACRebellion_3.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ubisoft.accovenant.png"
+        },
+        {
+            "name": "MergeCooking",
+            "type": 2,
+            "bundleID": "com.merge.cooking.theme.restaurant.food",
+            "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+            "version": "1.1.96",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705152025",
+            "size": 277865504,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.96_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/MergeCooking_1.1.96_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png"
+        },
+        {
             "name": "TravelTown",
             "type": 2,
             "bundleID": "io.randomco.travel",
