@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HarryPotter",
+            "type": 2,
+            "bundleID": "com.tinyco.potter",
+            "bundleIdentifier": "com.tinyco.potter",
+            "version": "6.6.1",
+            "versionDate": "2025-07-05",
+            "fullDate": "20250705142801",
+            "size": 146349853,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/HarryPotter_6.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2025/HarryPotter_6.6.1_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tinyco.potter.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tinyco.potter.png"
+        },
+        {
             "name": "RoyalKingdom",
             "type": 2,
             "bundleID": "com.dreamgames.royalkingdom",
