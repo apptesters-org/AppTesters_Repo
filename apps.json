@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CityOfSurvivors",
+            "type": 2,
+            "bundleID": "com.gatherfun.cityofsurvivors",
+            "bundleIdentifier": "com.gatherfun.cityofsurvivors",
+            "version": "0.0.19",
+            "versionDate": "2025-07-06",
+            "fullDate": "20250706162549",
+            "size": 347856247,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/CityOfSurvivors_0.0.19_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2025/CityOfSurvivors_0.0.19_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gatherfun.cityofsurvivors.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gatherfun.cityofsurvivors.png"
+        },
+        {
             "name": "GalaxyDefense",
             "type": 2,
             "bundleID": "com.cyberjoy.galaxydefense",
