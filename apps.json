@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Fonts",
+            "type": 1,
+            "bundleID": "fontskeyboard.fonts",
+            "bundleIdentifier": "fontskeyboard.fonts",
+            "version": "8.4.35",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707143933",
+            "size": 54997136,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Fonts_8.4.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Fonts_8.4.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png"
+        },
+        {
             "name": "CLIME",
             "type": 1,
             "bundleID": "com.apalonapps.radarfree",
