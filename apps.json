@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CLIME",
+            "type": 1,
+            "bundleID": "com.apalonapps.radarfree",
+            "bundleIdentifier": "com.apalonapps.radarfree",
+            "version": "5.13.54",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707142927",
+            "size": 162146761,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/CLIME_5.13.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/CLIME_5.13.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
