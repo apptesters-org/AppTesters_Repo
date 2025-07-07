@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.234.0",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707154456",
+            "size": 189291245,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Mojo_1.234.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Mojo_1.234.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
+            "name": "SleepCycle",
+            "type": 1,
+            "bundleID": "com.lexwarelabs.goodmorning",
+            "bundleIdentifier": "com.lexwarelabs.goodmorning",
+            "version": "6.25.26",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707154446",
+            "size": 294569780,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/SleepCycle_6.25.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/SleepCycle_6.25.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+        },
+        {
             "name": "Unfold",
             "type": 1,
             "bundleID": "com.moonlab.unfoldstories",
