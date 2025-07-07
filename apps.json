@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Windyapp",
+            "type": 1,
+            "bundleID": "co.windyapp.Windy",
+            "bundleIdentifier": "co.windyapp.Windy",
+            "version": "15.1.8",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708003225",
+            "size": 237142083,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Windyapp_15.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Windyapp_15.1.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png"
+        },
+        {
+            "name": "SNOW",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "14.3.0",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708003219",
+            "size": 128268622,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/SNOW_14.3.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/SNOW_14.3.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
             "name": "Threads",
             "type": 1,
             "bundleID": "com.burbn.barcelona",
