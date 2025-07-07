@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Facetune",
+            "type": 1,
+            "bundleID": "com.lightricks.Facetune2",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.93",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707141912",
+            "size": 340502861,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Facetune_3.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/Facetune_3.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "SlideShow",
             "type": 1,
             "bundleID": "com.spacegab.slideshow",
