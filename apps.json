@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MiniFootball",
+            "type": 2,
+            "bundleID": "com.miniclip.minifootball",
+            "bundleIdentifier": "com.miniclip.minifootball",
+            "version": "3.13.0",
+            "versionDate": "2025-07-07",
+            "fullDate": "20250707194125",
+            "size": 444108367,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/MiniFootball_3.13.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2025/MiniFootball_3.13.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.minifootball.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.minifootball.png"
+        },
+        {
             "name": "IdleMoonRabbitAFKRPG",
             "type": 2,
             "bundleID": "com.TheAbleGames.DalToKi",
