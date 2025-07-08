@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calisteniapp",
+            "type": 1,
+            "bundleID": "com.inakitajes.Calisthenial",
+            "bundleIdentifier": "com.inakitajes.Calisthenial",
+            "version": "25.7.1",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708141749",
+            "size": 29414553,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Calisteniapp_25.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Calisteniapp_25.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png"
+        },
+        {
             "name": "Wikiloc",
             "type": 1,
             "bundleID": "com.wikiloc.wikiloc",
