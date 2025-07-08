@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Photoroom",
+            "type": 1,
+            "bundleID": "com.dr1ven.eraser",
+            "bundleIdentifier": "com.dr1ven.eraser",
+            "version": "2025.27.01",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709052544",
+            "size": 119183516,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Photoroom_2025.27.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Photoroom_2025.27.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
