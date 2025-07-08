@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "YAZIO",
+            "type": 1,
+            "bundleID": "com.yazio.ios.YAZIO",
+            "bundleIdentifier": "com.yazio.ios.YAZIO",
+            "version": "12.40.1",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708173806",
+            "size": 77574890,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/YAZIO_12.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/YAZIO_12.40.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png"
+        },
+        {
+            "name": "Fitia",
+            "type": 1,
+            "bundleID": "com.ulisesolave.Fitia",
+            "bundleIdentifier": "com.ulisesolave.Fitia",
+            "version": "19.4.2",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708173802",
+            "size": 88916151,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Fitia_19.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Fitia_19.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
+        },
+        {
             "name": "Calisteniapp",
             "type": 1,
             "bundleID": "com.inakitajes.Calisthenial",
