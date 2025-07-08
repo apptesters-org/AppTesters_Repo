@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Balance",
+            "type": 1,
+            "bundleID": "com.elevateapp.kamino.kamino",
+            "bundleIdentifier": "com.elevateapp.kamino.kamino",
+            "version": "1.179.0",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708120726",
+            "size": 108900964,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Balance_1.179.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Balance_1.179.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+        },
+        {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.8.18",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708120723",
+            "size": 60777932,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/SCRL_9.8.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/SCRL_9.8.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "Letterboxd",
             "type": 1,
             "bundleID": "com.letterboxd.LetterboxdApp",
