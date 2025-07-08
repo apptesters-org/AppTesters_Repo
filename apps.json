@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyFitnessPal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "25.27.0",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709003949",
+            "size": 112934052,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/MyFitnessPal_25.27.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/MyFitnessPal_25.27.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.madarsoft.fitness",
