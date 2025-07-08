@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Summarify",
+            "type": 1,
+            "bundleID": "nz.digitaltools.Tube-GPT",
+            "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+            "version": "3.8.1",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708072702",
+            "size": 25513436,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Summarify_3.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Summarify_3.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png"
+        },
+        {
+            "name": "MacroFactor",
+            "type": 1,
+            "bundleID": "com.sbs.diet",
+            "bundleIdentifier": "com.sbs.diet",
+            "version": "5.1.10",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708072659",
+            "size": 78282986,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/MacroFactor_5.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/MacroFactor_5.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
+        },
+        {
             "name": "Encode",
             "type": 1,
             "bundleID": "com.upskew.encode.ios",
