@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Letterboxd",
+            "type": 1,
+            "bundleID": "com.letterboxd.LetterboxdApp",
+            "bundleIdentifier": "com.letterboxd.LetterboxdApp",
+            "version": "4.6.0",
+            "versionDate": "2025-07-08",
+            "fullDate": "20250708092211",
+            "size": 44660685,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Letterboxd_4.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-07-2025/Letterboxd_4.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png"
+        },
+        {
             "name": "Summarify",
             "type": 1,
             "bundleID": "nz.digitaltools.Tube-GPT",
