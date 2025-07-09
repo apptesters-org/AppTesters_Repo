@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Facetune",
+            "type": 1,
+            "bundleID": "com.lightricks.Facetune2",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.93.1",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709171333",
+            "size": 340502350,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Facetune_3.93.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Facetune_3.93.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png"
+        },
+        {
             "name": "AlightMotion",
             "type": 1,
             "bundleID": "com.alightcreative.motion",
