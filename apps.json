@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BeautyPlus",
+            "type": 1,
+            "bundleID": "com.commsource.BeautyPlus",
+            "bundleIdentifier": "com.commsource.BeautyPlus",
+            "version": "7.14.0",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709053550",
+            "size": 325069744,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/BeautyPlus_7.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/BeautyPlus_7.14.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png"
+        },
+        {
             "name": "Photoroom",
             "type": 1,
             "bundleID": "com.dr1ven.eraser",
