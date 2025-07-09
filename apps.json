@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HabitKit",
+            "type": 1,
+            "bundleID": "com.roehl.habitkit",
+            "bundleIdentifier": "com.roehl.habitkit",
+            "version": "1.13.3",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709191908",
+            "size": 45507879,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/HabitKit_1.13.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/HabitKit_1.13.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+        },
+        {
             "name": "Facebook",
             "type": 1,
             "bundleID": "com.facebook.Facebook",
