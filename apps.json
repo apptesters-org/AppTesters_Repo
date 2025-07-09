@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PolyGit",
+            "type": 1,
+            "bundleID": "com.polygitapp.polygit",
+            "bundleIdentifier": "com.polygitapp.polygit",
+            "version": "53.0",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710000534",
+            "size": 10483870,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PolyGit_53.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PolyGit_53.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygitapp.polygit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polygitapp.polygit.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
