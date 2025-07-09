@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Monet",
+            "type": 1,
+            "bundleID": "co.appnation.artgenerator",
+            "bundleIdentifier": "co.appnation.artgenerator",
+            "version": "3.5.5",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709131200",
+            "size": 64554190,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Monet_3.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Monet_3.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.artgenerator.png"
+        },
+        {
             "name": "PDFExpert",
             "type": 1,
             "bundleID": "com.readdle.PDFExpert5",
