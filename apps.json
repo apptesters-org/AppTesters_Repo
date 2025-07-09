@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AITattoo",
+            "type": 1,
+            "bundleID": "com.ai.tattoo.generator.app",
+            "bundleIdentifier": "com.ai.tattoo.generator.app",
+            "version": "1.5",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710001036",
+            "size": 132629984,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/AITattoo_1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/AITattoo_1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ai.tattoo.generator.app.png"
+        },
+        {
             "name": "PolyGit",
             "type": 1,
             "bundleID": "com.polygitapp.polygit",
