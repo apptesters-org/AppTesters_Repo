@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BrickOut",
+            "type": 2,
+            "bundleID": "com.puzzle1studio.ap.brickoutshoottheball",
+            "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+            "version": "25.0709.00",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710043102",
+            "size": 88077262,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/BrickOut_25.0709.00_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/BrickOut_25.0709.00_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png"
+        },
+        {
             "name": "Fitbod",
             "type": 1,
             "bundleID": "com.fitbod",
