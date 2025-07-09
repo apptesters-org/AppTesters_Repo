@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.29",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709165827",
+            "size": 119745254,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/AlightMotion_6.2.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/AlightMotion_6.2.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
+            "name": "Coconote",
+            "type": 1,
+            "bundleID": "com.bbauman.Scripty",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "version": "2.02",
+            "versionDate": "2025-07-09",
+            "fullDate": "20250709165825",
+            "size": 32401682,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Coconote_2.02_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2025/Coconote_2.02_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
+        },
+        {
             "name": "Noteshelf3",
             "type": 1,
             "bundleID": "com.fluidtouch.noteshelf3",
