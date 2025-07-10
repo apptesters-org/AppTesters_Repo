@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PictureThis",
+            "type": 1,
+            "bundleID": "cn.danatech.xingseus",
+            "bundleIdentifier": "cn.danatech.xingseus",
+            "version": "5.21.0",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710095154",
+            "size": 126396286,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PictureThis_5.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/PictureThis_5.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png"
+        },
+        {
+            "name": "Buddy",
+            "type": 1,
+            "bundleID": "com.iPwners.Plonkan",
+            "bundleIdentifier": "com.iPwners.Plonkan",
+            "version": "12.62",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710095151",
+            "size": 68165724,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Buddy_12.62_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Buddy_12.62_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
+        },
+        {
             "name": "BXNG",
             "type": 1,
             "bundleID": "com.app.BXNGApp",
