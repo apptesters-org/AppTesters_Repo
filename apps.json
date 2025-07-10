@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SHRED",
+            "type": 1,
+            "bundleID": "com.shred.shredlabs",
+            "bundleIdentifier": "com.shred.shredlabs",
+            "version": "5.0.7",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710090139",
+            "size": 157713516,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/SHRED_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/SHRED_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png"
+        },
+        {
             "name": "Captions",
             "type": 1,
             "bundleID": "boomer.Smart-Video",
