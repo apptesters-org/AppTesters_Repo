@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SigStick",
+            "type": 1,
+            "bundleID": "com.ooeric.SignStick1",
+            "bundleIdentifier": "com.ooeric.SignStick1",
+            "version": "5.28.0",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710164309",
+            "size": 55759430,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/SigStick_5.28.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/SigStick_5.28.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png"
+        },
+        {
             "name": "BandLab",
             "type": 1,
             "bundleID": "com.bandlab.bandlab.iphone",
