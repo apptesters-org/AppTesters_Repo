@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CarScanner",
+            "type": 1,
+            "bundleID": "ovz.Car-Scanner",
+            "bundleIdentifier": "ovz.Car-Scanner",
+            "version": "1.120.0",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710205415",
+            "size": 63144478,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/CarScanner_1.120.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/CarScanner_1.120.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
+        },
+        {
             "name": "FarmVille2",
             "type": 2,
             "bundleID": "com.zynga.FarmVille2CountryEscape",
