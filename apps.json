@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FLTR",
+            "type": 1,
+            "bundleID": "com.feelty",
+            "bundleIdentifier": "com.feelty",
+            "version": "4.18.13",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710175847",
+            "size": 90993022,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FLTR_4.18.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png"
+        },
+        {
             "name": "OldRoll",
             "type": 1,
             "bundleID": "com.zijayrate.analogcam",
