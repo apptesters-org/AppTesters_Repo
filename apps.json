@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FarmVille2",
+            "type": 2,
+            "bundleID": "com.zynga.FarmVille2CountryEscape",
+            "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+            "version": "27.9",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710181852",
+            "size": 293689639,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FarmVille2_27.9_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/FarmVille2_27.9_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png"
+        },
+        {
             "name": "FLTR",
             "type": 1,
             "bundleID": "com.feelty",
