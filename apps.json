@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Stemz",
+            "type": 1,
+            "bundleID": "com.mwm.stems",
+            "bundleIdentifier": "com.mwm.stems",
+            "version": "4.02.02",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710165329",
+            "size": 149239454,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Stemz_4.02.02_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Stemz_4.02.02_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
+        },
+        {
+            "name": "Acrobat",
+            "type": 1,
+            "bundleID": "com.adobe.Adobe-Reader",
+            "bundleIdentifier": "com.adobe.Adobe-Reader",
+            "version": "25.06.05",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710165321",
+            "size": 203870762,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/Acrobat_25.06.05_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.Adobe-Reader.png"
+        },
+        {
             "name": "Mondly",
             "type": 1,
             "bundleID": "com.atistudios.MondlyLanguages",
