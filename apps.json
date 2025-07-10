@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GrowIt",
+            "type": 1,
+            "bundleID": "com.grow.my.food",
+            "bundleIdentifier": "com.grow.my.food",
+            "version": "1.29",
+            "versionDate": "2025-07-10",
+            "fullDate": "20250710095659",
+            "size": 105478940,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/GrowIt_1.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2025/GrowIt_1.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
+        },
+        {
             "name": "PictureThis",
             "type": 1,
             "bundleID": "cn.danatech.xingseus",
