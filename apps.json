@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Rest",
+            "type": 1,
+            "bundleID": "com.evolve.helm",
+            "bundleIdentifier": "com.evolve.helm",
+            "version": "3.141.1",
+            "versionDate": "2025-07-11",
+            "fullDate": "20250711053051",
+            "size": 123165935,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/Rest_3.141.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/Rest_3.141.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
