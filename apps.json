@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AudioEditor",
+            "type": 1,
+            "bundleID": "com.hemin.mp3editor",
+            "bundleIdentifier": "com.hemin.mp3editor",
+            "version": "5.66",
+            "versionDate": "2025-07-11",
+            "fullDate": "20250711222805",
+            "size": 107807751,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/AudioEditor_5.66_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/AudioEditor_5.66_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png"
+        },
+        {
             "name": "TuneInRadio",
             "type": 1,
             "bundleID": "com.alexanderben.RadioIn",
