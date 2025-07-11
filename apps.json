@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TuneInRadio",
+            "type": 1,
+            "bundleID": "com.alexanderben.RadioIn",
+            "bundleIdentifier": "com.alexanderben.RadioIn",
+            "version": "33.1.1",
+            "versionDate": "2025-07-11",
+            "fullDate": "20250711180247",
+            "size": 61749809,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/TuneInRadio_33.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/TuneInRadio_33.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
+        },
+        {
             "name": "AniClient",
             "type": 1,
             "bundleID": "com.picspacehd.anilistclient",
