@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "MagicTiles3",
+            "type": 2,
+            "bundleID": "com.amanotes.magictiles",
+            "bundleIdentifier": "com.amanotes.magictiles",
+            "version": "12.071.006",
+            "versionDate": "2025-07-11",
+            "fullDate": "20250711150722",
+            "size": 208643941,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/MagicTiles3_12.071.006_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/MagicTiles3_12.071.006_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.amanotes.magictiles.png"
+        },
+        {
+            "name": "Vids",
+            "type": 1,
+            "bundleID": "viral.vision.vids",
+            "bundleIdentifier": "viral.vision.vids",
+            "version": "1.108.0",
+            "versionDate": "2025-07-11",
+            "fullDate": "20250711150715",
+            "size": 169495233,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/Vids_1.108.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2025/Vids_1.108.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png"
+        },
+        {
             "name": "QrCode",
             "type": 1,
             "bundleID": "com.internet-rocks.codescanner",
