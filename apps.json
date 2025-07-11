@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Radarbot",
+            "type": 1,
+            "bundleID": "com.iteration-mobile.radarbot-free-ww",
+            "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+            "version": "9.27",
+            "versionDate": "2025-07-12",
+            "fullDate": "20250712012821",
+            "size": 257134377,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/Radarbot_9.27_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/Radarbot_9.27_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+        },
+        {
             "name": "AudioEditor",
             "type": 1,
             "bundleID": "com.hemin.mp3editor",
