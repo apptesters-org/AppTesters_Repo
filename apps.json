@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitbittoAppleHealth",
+            "type": 1,
+            "bundleID": "com.bickster.myFitnessSync",
+            "bundleIdentifier": "com.bickster.myFitnessSync",
+            "version": "3.0.9",
+            "versionDate": "2025-07-12",
+            "fullDate": "20250712052510",
+            "size": 41011526,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/FitbittoAppleHealth_3.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-07-2025/FitbittoAppleHealth_3.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png"
+        },
+        {
             "name": "ShutEye",
             "type": 1,
             "bundleID": "health.sleep.sounds.tracker.alarm.calm",
