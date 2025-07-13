@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LookUp",
+            "type": 1,
+            "bundleID": "in.muditbhargava.LookUp",
+            "bundleIdentifier": "in.muditbhargava.LookUp",
+            "version": "11.1.4",
+            "versionDate": "2025-07-13",
+            "fullDate": "20250713053819",
+            "size": 190319647,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2025/LookUp_11.1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2025/LookUp_11.1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
+        },
+        {
             "name": "PeakVisor",
             "type": 1,
             "bundleID": "ru.routes.peakvisor",
