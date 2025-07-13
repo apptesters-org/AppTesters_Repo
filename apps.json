@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Life",
+            "type": 1,
+            "bundleID": "co.lovetap.Female-by-Design",
+            "bundleIdentifier": "co.lovetap.Female-by-Design",
+            "version": "6.2.0",
+            "versionDate": "2025-07-13",
+            "fullDate": "20250713222425",
+            "size": 29580912,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2025/Life_6.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-07-2025/Life_6.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.lovetap.Female-by-Design.png"
+        },
+        {
             "name": "SimplySing",
             "type": 1,
             "bundleID": "com.joytunes.Sing",
