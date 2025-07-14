@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Coconote",
+            "type": 1,
+            "bundleID": "com.bbauman.Scripty",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "version": "2.03",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714221500",
+            "size": 32506546,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Coconote_2.03_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Coconote_2.03_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
+        },
+        {
             "name": "Suret",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
