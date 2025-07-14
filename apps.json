@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Flightradar24",
+            "type": 1,
+            "bundleID": "se.resenatverket.FlightRadar24-Free",
+            "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+            "version": "10.13.0",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714200436",
+            "size": 196364351,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Flightradar24_10.13.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Flightradar24_10.13.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png"
+        },
+        {
+            "name": "Endel",
+            "type": 1,
+            "bundleID": "com.endel.endel",
+            "bundleIdentifier": "com.endel.endel",
+            "version": "4.48.235",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714200428",
+            "size": 192901659,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Endel_4.48.235_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Endel_4.48.235_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
+        },
+        {
             "name": "audiomack",
             "type": 1,
             "bundleID": "com.audiomack.iphone",
