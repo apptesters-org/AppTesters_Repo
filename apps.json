@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VivaCut",
+            "type": 1,
+            "bundleID": "com.vivacut.videoeditor",
+            "bundleIdentifier": "com.vivacut.videoeditor",
+            "version": "4.3.8",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714094059",
+            "size": 210573915,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/VivaCut_4.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/VivaCut_4.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
