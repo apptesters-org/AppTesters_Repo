@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BlockBlast",
+            "type": 2,
+            "bundleID": "com.blockpuzzle.us.ios",
+            "bundleIdentifier": "com.blockpuzzle.us.ios",
+            "version": "5.9.5",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714151308",
+            "size": 112481713,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/BlockBlast_5.9.5_noads_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/BlockBlast_5.9.5_noads_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with noads",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png"
+        },
+        {
             "name": "TickTick",
             "type": 1,
             "bundleID": "com.TickTick.task",
