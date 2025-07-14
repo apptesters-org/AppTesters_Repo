@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Boostcamp",
+            "type": 1,
+            "bundleID": "com.bpmhealth.boostfitness",
+            "bundleIdentifier": "com.bpmhealth.boostfitness",
+            "version": "244",
+            "versionDate": "2025-07-14",
+            "fullDate": "20250714115617",
+            "size": 76246456,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Boostcamp_244_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2025/Boostcamp_244_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
