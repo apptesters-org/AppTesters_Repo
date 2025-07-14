@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "8.28.2",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715010713",
+            "size": 95032909,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/YouTubeMusic_8.28.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/YouTubeMusic_8.28.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Fitbod",
             "type": 1,
             "bundleID": "com.fitbod",
