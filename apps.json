@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Hiii",
+            "type": 1,
+            "bundleID": "com.abighead.Widgets",
+            "bundleIdentifier": "com.abighead.Widgets",
+            "version": "2.0.3",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715152005",
+            "size": 128860432,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/Hiii_2.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/Hiii_2.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.Widgets.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.Widgets.png"
+        },
+        {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.12.0",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715152001",
+            "size": 56070433,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/UpNote_9.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/UpNote_9.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
