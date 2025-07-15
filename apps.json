@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplySing",
+            "type": 1,
+            "bundleID": "com.joytunes.Sing",
+            "bundleIdentifier": "com.joytunes.Sing",
+            "version": "2.5.11",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715184540",
+            "size": 131827889,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/SimplySing_2.5.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/SimplySing_2.5.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
+        },
+        {
             "name": "Amie",
             "type": 1,
             "bundleID": "so.amie.ios-app",
