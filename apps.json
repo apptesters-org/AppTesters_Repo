@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unfold",
+            "type": 1,
+            "bundleID": "com.moonlab.unfoldstories",
+            "bundleIdentifier": "com.moonlab.unfoldstories",
+            "version": "8.141.0",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715161525",
+            "size": 163771426,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/Unfold_8.141.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/Unfold_8.141.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+        },
+        {
             "name": "Mojo",
             "type": 1,
             "bundleID": "archery.storify",
