@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "NeoServer",
+            "type": 1,
+            "bundleID": "com.neo.NeoMan",
+            "bundleIdentifier": "com.neo.NeoMan",
+            "version": "7.8.4",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715200050",
+            "size": 22561657,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/NeoServer_7.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/NeoServer_7.8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
+        },
+        {
             "name": "SimplySing",
             "type": 1,
             "bundleID": "com.joytunes.Sing",
