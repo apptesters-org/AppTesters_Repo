@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HiWidget",
+            "type": 1,
+            "bundleID": "com.zerone.hidesktop",
+            "bundleIdentifier": "com.zerone.hidesktop",
+            "version": "4.2.70",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715201554",
+            "size": 358340973,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/HiWidget_4.2.70_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/HiWidget_4.2.70_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+        },
+        {
             "name": "NeoServer",
             "type": 1,
             "bundleID": "com.neo.NeoMan",
