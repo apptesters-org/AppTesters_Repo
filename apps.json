@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoStar",
+            "type": 1,
+            "bundleID": "com.frontierdesign.videostar",
+            "bundleIdentifier": "com.frontierdesign.videostar",
+            "version": "14.2.4",
+            "versionDate": "2025-07-15",
+            "fullDate": "20250715183420",
+            "size": 293288484,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/VideoStar_14.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2025/VideoStar_14.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png"
+        },
+        {
             "name": "Unfold",
             "type": 1,
             "bundleID": "com.moonlab.unfoldstories",
