@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Impulse",
+            "type": 1,
+            "bundleID": "gen.tech.impulse",
+            "bundleIdentifier": "gen.tech.impulse",
+            "version": "1.33.6",
+            "versionDate": "2025-07-16",
+            "fullDate": "20250716161557",
+            "size": 85294288,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Impulse_1.33.6_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Impulse_1.33.6_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png"
+        },
+        {
             "name": "Mockup",
             "type": 1,
             "bundleID": "com.hasankassem.mockup",
