@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Hiii",
+            "type": 1,
+            "bundleID": "com.abighead.Widgets",
+            "bundleIdentifier": "com.abighead.Widgets",
+            "version": "2.0.4",
+            "versionDate": "2025-07-16",
+            "fullDate": "20250716132458",
+            "size": 128860438,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Hiii_2.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Hiii_2.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.Widgets.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abighead.Widgets.png"
+        },
+        {
+            "name": "Videoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Video",
+            "bundleIdentifier": "com.lightricks.Enlight-Video",
+            "version": "2.73",
+            "versionDate": "2025-07-16",
+            "fullDate": "20250716132441",
+            "size": 417013076,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Videoleap_2.73_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Videoleap_2.73_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.madarsoft.fitness",
