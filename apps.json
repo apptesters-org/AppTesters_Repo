@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mockup",
+            "type": 1,
+            "bundleID": "com.hasankassem.mockup",
+            "bundleIdentifier": "com.hasankassem.mockup",
+            "version": "3.15.2",
+            "versionDate": "2025-07-16",
+            "fullDate": "20250716154053",
+            "size": 27047258,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Mockup_3.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2025/Mockup_3.15.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
+        },
+        {
             "name": "Windyapp",
             "type": 1,
             "bundleID": "co.windyapp.Windy",
