@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Quizlet",
+            "type": 1,
+            "bundleID": "com.quizlet.quizlet",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "9.40",
+            "versionDate": "2025-07-17",
+            "fullDate": "20250717023754",
+            "size": 59992546,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Quizlet_9.40_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Quizlet_9.40_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
