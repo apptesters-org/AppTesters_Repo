@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "EPIK",
+            "type": 1,
+            "bundleID": "com.snowcorp.epik",
+            "bundleIdentifier": "com.snowcorp.epik",
+            "version": "6.1.20",
+            "versionDate": "2025-07-17",
+            "fullDate": "20250717015737",
+            "size": 158835269,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/EPIK_6.1.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/EPIK_6.1.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
