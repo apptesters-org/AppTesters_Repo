@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mercury",
+            "type": 1,
+            "bundleID": "com.tripleglazedstudios.Weather",
+            "bundleIdentifier": "com.tripleglazedstudios.Weather",
+            "version": "2.11.4",
+            "versionDate": "2025-07-17",
+            "fullDate": "20250717035308",
+            "size": 48532526,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Mercury_2.11.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Mercury_2.11.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png"
+        },
+        {
             "name": "Textastic",
             "type": 1,
             "bundleID": "com.textasticapp.textastic-universal",
