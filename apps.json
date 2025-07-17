@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tarteel",
+            "type": 1,
+            "bundleID": "com.iqraapp.Iqra",
+            "bundleIdentifier": "com.iqraapp.Iqra",
+            "version": "5.64.0",
+            "versionDate": "2025-07-18",
+            "fullDate": "20250718022740",
+            "size": 109003752,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Tarteel_5.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Tarteel_5.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png"
+        },
+        {
             "name": "Trace",
             "type": 1,
             "bundleID": "com.morpholioapps.trace",
