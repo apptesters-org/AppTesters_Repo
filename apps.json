@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "12.27.1",
+            "versionDate": "2025-07-17",
+            "fullDate": "20250717230056",
+            "size": 380722096,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Captions_12.27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Captions_12.27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
             "name": "AdGuard",
             "type": 1,
             "bundleID": "com.adguard.AdguardExtension",
