@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Fitia",
+            "type": 1,
+            "bundleID": "com.ulisesolave.Fitia",
+            "bundleIdentifier": "com.ulisesolave.Fitia",
+            "version": "19.4.6",
+            "versionDate": "2025-07-17",
+            "fullDate": "20250717161944",
+            "size": 88949782,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Fitia_19.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2025/Fitia_19.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png"
+        },
+        {
             "name": "CollaNote",
             "type": 1,
             "bundleID": "net.quochuywdm.collanote496",
