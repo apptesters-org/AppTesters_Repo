@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calory",
+            "type": 1,
+            "bundleID": "com.funnmedia.calory",
+            "bundleIdentifier": "com.funnmedia.calory",
+            "version": "4.3.5",
+            "versionDate": "2025-07-18",
+            "fullDate": "20250718030748",
+            "size": 224490468,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Calory_4.3.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Calory_4.3.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png"
+        },
+        {
             "name": "Tarteel",
             "type": 1,
             "bundleID": "com.iqraapp.Iqra",
