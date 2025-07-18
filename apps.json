@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FindAir",
+            "type": 1,
+            "bundleID": "co.airapps.finderbot",
+            "bundleIdentifier": "co.airapps.finderbot",
+            "version": "2025.7.3",
+            "versionDate": "2025-07-18",
+            "fullDate": "20250718184610",
+            "size": 73918515,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/FindAir_2025.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/FindAir_2025.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.finderbot.png"
+        },
+        {
             "name": "CalculatorAir",
             "type": 1,
             "bundleID": "com.CalculatorForiPad.InternetRocks",
