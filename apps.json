@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "10.7.7",
+            "versionDate": "2025-07-18",
+            "fullDate": "20250718131001",
+            "size": 76549110,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Bazaart_10.7.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/Bazaart_10.7.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+        },
+        {
             "name": "BandLab",
             "type": 1,
             "bundleID": "com.bandlab.bandlab.iphone",
