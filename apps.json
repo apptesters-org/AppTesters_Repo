@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CalculatorAir",
+            "type": 1,
+            "bundleID": "com.CalculatorForiPad.InternetRocks",
+            "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+            "version": "2025.7.1",
+            "versionDate": "2025-07-18",
+            "fullDate": "20250718183105",
+            "size": 113341200,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/CalculatorAir_2025.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2025/CalculatorAir_2025.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
+        },
+        {
             "name": "Bearable",
             "type": 1,
             "bundleID": "co.codeleap.bearable",
