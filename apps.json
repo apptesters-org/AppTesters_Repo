@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Trace",
+            "type": 1,
+            "bundleID": "com.morpholioapps.trace",
+            "bundleIdentifier": "com.morpholioapps.trace",
+            "version": "6.62",
+            "versionDate": "2025-07-19",
+            "fullDate": "20250719200544",
+            "size": 384970139,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Trace_6.62_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/Trace_6.62_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png"
+        },
+        {
             "name": "MuslimPro",
             "type": 1,
             "bundleID": "com.bitsmedia.muslimpro",
