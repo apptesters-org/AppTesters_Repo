@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TuneInRadio",
+            "type": 1,
+            "bundleID": "com.alexanderben.RadioIn",
+            "bundleIdentifier": "com.alexanderben.RadioIn",
+            "version": "33.5.0",
+            "versionDate": "2025-07-19",
+            "fullDate": "20250719194509",
+            "size": 59371817,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/TuneInRadio_33.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/TuneInRadio_33.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png"
+        },
+        {
             "name": "AlphaProgr",
             "type": 1,
             "bundleID": "com.alphaprogression.alphaprogression",
