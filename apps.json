@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.63",
+            "versionDate": "2025-07-19",
+            "fullDate": "20250719211602",
+            "size": 110937969,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/PeakVisor_5.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/PeakVisor_5.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
             "name": "Trace",
             "type": 1,
             "bundleID": "com.morpholioapps.trace",
