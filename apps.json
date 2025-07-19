@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AlphaProgr",
+            "type": 1,
+            "bundleID": "com.alphaprogression.alphaprogression",
+            "bundleIdentifier": "com.alphaprogression.alphaprogression",
+            "version": "6.0",
+            "versionDate": "2025-07-19",
+            "fullDate": "20250719193503",
+            "size": 141497298,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/AlphaProgr_6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2025/AlphaProgr_6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
