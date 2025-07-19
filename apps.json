@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AdobeExpress",
+            "type": 1,
+            "bundleID": "com.adobe.post",
+            "bundleIdentifier": "com.adobe.post",
+            "version": "28.2.1",
+            "versionDate": "2025-07-20",
+            "fullDate": "20250720020631",
+            "size": 176002537,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/AdobeExpress_28.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/AdobeExpress_28.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png"
+        },
+        {
             "name": "Tripsy",
             "type": 1,
             "bundleID": "app.tripsy.ios",
