@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitbittoAppleHealth",
+            "type": 1,
+            "bundleID": "com.bickster.myFitnessSync",
+            "bundleIdentifier": "com.bickster.myFitnessSync",
+            "version": "3.1.0",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721043003",
+            "size": 44079753,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/FitbittoAppleHealth_3.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/FitbittoAppleHealth_3.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png"
+        },
+        {
             "name": "PrettyUp",
             "type": 1,
             "bundleID": "com.floatcamellia.prettyup",
