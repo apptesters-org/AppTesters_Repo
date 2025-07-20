@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Photoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Editor",
+            "bundleIdentifier": "com.lightricks.Enlight-Editor",
+            "version": "2.115",
+            "versionDate": "2025-07-20",
+            "fullDate": "20250720204343",
+            "size": 399752585,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/Photoleap_2.115_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/Photoleap_2.115_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png"
+        },
+        {
             "name": "VlogNow",
             "type": 1,
             "bundleID": "com.frontrow.vlog",
