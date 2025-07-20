@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "OrNETBrowser",
+            "type": 1,
+            "bundleID": "ch.b-eng.tor",
+            "bundleIdentifier": "ch.b-eng.tor",
+            "version": "3.8.2",
+            "versionDate": "2025-07-20",
+            "fullDate": "20250720182253",
+            "size": 82717654,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/OrNETBrowser_3.8.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2025/OrNETBrowser_3.8.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png"
+        },
+        {
             "name": "SimplyPiano",
             "type": 1,
             "bundleID": "com.joytunes.asla",
