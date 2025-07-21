@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Heartify",
+            "type": 1,
+            "bundleID": "com.heartify",
+            "bundleIdentifier": "com.heartify",
+            "version": "2.4.5",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721164206",
+            "size": 203494093,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Heartify_2.4.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Heartify_2.4.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png"
+        },
+        {
             "name": "CoinSnap",
             "type": 1,
             "bundleID": "com.coinidentifier.identifycoins",
