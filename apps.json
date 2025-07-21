@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Threads",
+            "type": 1,
+            "bundleID": "com.burbn.barcelona",
+            "bundleIdentifier": "com.burbn.barcelona",
+            "version": "390.0.0",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721234933",
+            "size": 55293482,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Threads_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Threads_390.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
