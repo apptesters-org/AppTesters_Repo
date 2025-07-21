@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MediaConvert",
+            "type": 1,
+            "bundleID": "com.verycoolapp.mediaconvert",
+            "bundleIdentifier": "com.verycoolapp.mediaconvert",
+            "version": "4.8",
+            "versionDate": "2025-07-22",
+            "fullDate": "20250722015500",
+            "size": 59993472,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/MediaConvert_4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/MediaConvert_4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
+        },
+        {
             "name": "Instagram",
             "type": 1,
             "bundleID": "com.burbn.instagram",
