@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Endel",
+            "type": 1,
+            "bundleID": "com.endel.endel",
+            "bundleIdentifier": "com.endel.endel",
+            "version": "4.48.255",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721230326",
+            "size": 192368883,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Endel_4.48.255_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Endel_4.48.255_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png"
+        },
+        {
+            "name": "Moonly",
+            "type": 1,
+            "bundleID": "com.moonly.Moonly",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "version": "2.3.6",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721230318",
+            "size": 192715772,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Moonly_2.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Moonly_2.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
