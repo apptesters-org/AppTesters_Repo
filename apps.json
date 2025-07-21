@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.8.22",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721135131",
+            "size": 62690691,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/SCRL_9.8.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/SCRL_9.8.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
+            "name": "Scanner",
+            "type": 1,
+            "bundleID": "com.apalonapps.pdffree",
+            "bundleIdentifier": "com.apalonapps.pdffree",
+            "version": "2.10.5",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721135128",
+            "size": 38171697,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Scanner_2.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/Scanner_2.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png"
+        },
+        {
             "name": "ScannerforMe",
             "type": 1,
             "bundleID": "com.apalonapps.pdffree",
