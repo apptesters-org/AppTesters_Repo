@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "IPTVExpert",
+            "type": 1,
+            "bundleID": "com.iptv.player",
+            "bundleIdentifier": "com.iptv.player",
+            "version": "8.13.1",
+            "versionDate": "2025-07-21",
+            "fullDate": "20250721180229",
+            "size": 37153022,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/IPTVExpert_8.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2025/IPTVExpert_8.13.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png"
+        },
+        {
             "name": "Lightroom",
             "type": 1,
             "bundleID": "com.adobe.lrmobilephone",
