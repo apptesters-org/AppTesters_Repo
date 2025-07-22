@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pixly",
+            "type": 1,
+            "bundleID": "co.comapps.live.photo",
+            "bundleIdentifier": "co.comapps.live.photo",
+            "version": "1.24",
+            "versionDate": "2025-07-22",
+            "fullDate": "20250722053018",
+            "size": 103806754,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Pixly_1.24_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Pixly_1.24_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.comapps.live.photo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.comapps.live.photo.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
