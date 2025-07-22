@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "14.12.7",
+            "versionDate": "2025-07-22",
+            "fullDate": "20250722142634",
+            "size": 217998948,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Notability_14.12.7_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/Notability_14.12.7_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
+            "name": "LingoDeer",
+            "type": 1,
+            "bundleID": "com.lingodeer",
+            "bundleIdentifier": "com.lingodeer",
+            "version": "3.0.2",
+            "versionDate": "2025-07-22",
+            "fullDate": "20250722142628",
+            "size": 132720241,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/LingoDeer_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2025/LingoDeer_3.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png"
+        },
+        {
             "name": "VideoStar",
             "type": 1,
             "bundleID": "com.frontierdesign.videostar",
