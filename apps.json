@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Quizlet",
+            "type": 1,
+            "bundleID": "com.quizlet.quizlet",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "9.41",
+            "versionDate": "2025-07-23",
+            "fullDate": "20250723033941",
+            "size": 60961940,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Quizlet_9.41_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Quizlet_9.41_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+        },
+        {
+            "name": "RenovateAI",
+            "type": 1,
+            "bundleID": "app.renovateai",
+            "bundleIdentifier": "app.renovateai",
+            "version": "4.4.53",
+            "versionDate": "2025-07-23",
+            "fullDate": "20250723033938",
+            "size": 55141704,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/RenovateAI_4.4.53_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/RenovateAI_4.4.53_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png"
+        },
+        {
             "name": "MyFitnessPal",
             "type": 1,
             "bundleID": "com.myfitnesspal.mfp",
