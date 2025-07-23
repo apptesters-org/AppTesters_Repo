@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "BlitzerdePRO",
+            "type": 1,
+            "bundleID": "com.eifrig.blitzerdepro",
+            "bundleIdentifier": "com.eifrig.blitzerdepro",
+            "version": "400.1.5",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724040452",
+            "size": 68059059,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/BlitzerdePRO_400.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/BlitzerdePRO_400.1.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
+        },
+        {
+            "name": "Mondly",
+            "type": 1,
+            "bundleID": "com.atistudios.MondlyLanguages",
+            "bundleIdentifier": "com.atistudios.MondlyLanguages",
+            "version": "10.55.0",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724040444",
+            "size": 173491402,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Mondly_10.55.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Mondly_10.55.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atistudios.MondlyLanguages.png"
+        },
+        {
             "name": "SimplyGuitar",
             "type": 1,
             "bundleID": "com.joytunes.SimplyGuitar",
