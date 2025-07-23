@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "InShot",
+            "type": 1,
+            "bundleID": "com.camerasideas.InstaShot",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.88.3",
+            "versionDate": "2025-07-23",
+            "fullDate": "20250723155142",
+            "size": 109299678,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/InShot_1.88.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/InShot_1.88.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png"
+        },
+        {
             "name": "LingoDeer",
             "type": 1,
             "bundleID": "com.lingodeer",
