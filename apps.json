@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Videoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Video",
+            "bundleIdentifier": "com.lightricks.Enlight-Video",
+            "version": "2.74.1",
+            "versionDate": "2025-07-23",
+            "fullDate": "20250723214340",
+            "size": 416939739,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Videoleap_2.74.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2025/Videoleap_2.74.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png"
+        },
+        {
             "name": "RiseSleep",
             "type": 1,
             "bundleID": "com.risesci.nyx",
