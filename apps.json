@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AutoCAD",
+            "type": 1,
+            "bundleID": "com.autodesk.autocadws",
+            "bundleIdentifier": "com.autodesk.autocadws",
+            "version": "6.18.0",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724042007",
+            "size": 208053533,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/AutoCAD_6.18.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/AutoCAD_6.18.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png"
+        },
+        {
             "name": "Letterboxd",
             "type": 1,
             "bundleID": "com.letterboxd.LetterboxdApp",
