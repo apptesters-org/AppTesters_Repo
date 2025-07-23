@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GALATEA",
+            "type": 1,
+            "bundleID": "org.reactjs.native.Inkitt.App.Colt",
+            "bundleIdentifier": "org.reactjs.native.Inkitt.App.Colt",
+            "version": "13.6.1",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724005913",
+            "size": 79218206,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/GALATEA_13.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/GALATEA_13.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png"
+        },
+        {
             "name": "Videoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Video",
