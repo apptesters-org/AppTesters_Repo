@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ProCCD",
+            "type": 1,
+            "bundleID": "com.yengshine.proccd",
+            "bundleIdentifier": "com.yengshine.proccd",
+            "version": "4.9.3",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725002336",
+            "size": 228156591,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/ProCCD_4.9.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/ProCCD_4.9.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+        },
+        {
             "name": "Hevy",
             "type": 1,
             "bundleID": "com.hevyapp.hevy",
