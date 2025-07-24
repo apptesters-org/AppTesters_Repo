@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TeraBox",
+            "type": 1,
+            "bundleID": "com.dubox.drive",
+            "bundleIdentifier": "com.dubox.drive",
+            "version": "4.3.0",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724170005",
+            "size": 141918164,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/TeraBox_4.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/TeraBox_4.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png"
+        },
+        {
             "name": "Flo",
             "type": 1,
             "bundleID": "org.iggymedia.periodtracker",
