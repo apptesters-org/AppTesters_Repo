@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PrettyUp",
+            "type": 1,
+            "bundleID": "com.floatcamellia.prettyup",
+            "bundleIdentifier": "com.floatcamellia.prettyup",
+            "version": "8.7.00",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725042405",
+            "size": 284350540,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/PrettyUp_8.7.00_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/PrettyUp_8.7.00_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.floatcamellia.prettyup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.floatcamellia.prettyup.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
