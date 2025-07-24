@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.519",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724213703",
+            "size": 108035510,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/RiseSleep_0.1.519_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/RiseSleep_0.1.519_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "CMProCalc",
             "type": 1,
             "bundleID": "com.calculated.laurene",
