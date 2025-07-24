@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "iTranslate",
+            "type": 1,
+            "bundleID": "com.outerspaceapps.itranslate",
+            "bundleIdentifier": "com.outerspaceapps.itranslate",
+            "version": "17.4.41",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724161949",
+            "size": 74682932,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/iTranslate_17.4.41_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/iTranslate_17.4.41_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
