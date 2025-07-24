@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PunchClock",
+            "type": 1,
+            "bundleID": "com.parallaxlabs.ShiftCalendar",
+            "bundleIdentifier": "com.parallaxlabs.ShiftCalendar",
+            "version": "1.5.1",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725043424",
+            "size": 4271377,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/PunchClock_1.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/PunchClock_1.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png"
+        },
+        {
             "name": "OldRoll",
             "type": 1,
             "bundleID": "com.zijayrate.analogcam",
