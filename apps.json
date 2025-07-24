@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Minutes",
+            "type": 1,
+            "bundleID": "ventures.slam.minutes",
+            "bundleIdentifier": "ventures.slam.minutes",
+            "version": "1.8.2",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725052003",
+            "size": 10076771,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/Minutes_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/Minutes_1.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
