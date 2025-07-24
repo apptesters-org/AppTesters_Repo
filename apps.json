@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Hevy",
+            "type": 1,
+            "bundleID": "com.hevyapp.hevy",
+            "bundleIdentifier": "com.hevyapp.hevy",
+            "version": "2.4.0",
+            "versionDate": "2025-07-24",
+            "fullDate": "20250724233830",
+            "size": 73650133,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Hevy_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2025/Hevy_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png"
+        },
+        {
             "name": "Videoleap",
             "type": 1,
             "bundleID": "com.lightricks.Enlight-Video",
