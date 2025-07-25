@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MacroFactor",
+            "type": 1,
+            "bundleID": "com.sbs.diet",
+            "bundleIdentifier": "com.sbs.diet",
+            "version": "5.2.2",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725225352",
+            "size": 79359150,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/MacroFactor_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/MacroFactor_5.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
+        },
+        {
             "name": "ProCCD",
             "type": 1,
             "bundleID": "com.yengshine.proccd",
