@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MobileScanner",
+            "type": 1,
+            "bundleID": "com.glority.everlens",
+            "bundleIdentifier": "com.glority.everlens",
+            "version": "2.16.0",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725082021",
+            "size": 69136982,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/MobileScanner_2.16.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/MobileScanner_2.16.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png"
+        },
+        {
             "name": "SHRED",
             "type": 1,
             "bundleID": "com.shred.shredlabs",
