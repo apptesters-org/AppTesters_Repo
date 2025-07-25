@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DictionaryAir",
+            "type": 1,
+            "bundleID": "co.airapps.dictionary",
+            "bundleIdentifier": "co.airapps.dictionary",
+            "version": "2025.7.2",
+            "versionDate": "2025-07-26",
+            "fullDate": "20250726010913",
+            "size": 42944516,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2025/DictionaryAir_2025.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2025/DictionaryAir_2025.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png"
+        },
+        {
             "name": "Minutes",
             "type": 1,
             "bundleID": "ventures.slam.minutes",
