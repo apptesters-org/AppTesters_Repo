@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KeyLifts",
+            "type": 1,
+            "bundleID": "org.borrowedcache.ultimate531",
+            "bundleIdentifier": "org.borrowedcache.ultimate531",
+            "version": "5.16.4",
+            "versionDate": "2025-07-25",
+            "fullDate": "20250725125601",
+            "size": 27831159,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/KeyLifts_5.16.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2025/KeyLifts_5.16.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png"
+        },
+        {
             "name": "MobileScanner",
             "type": 1,
             "bundleID": "com.glority.everlens",
