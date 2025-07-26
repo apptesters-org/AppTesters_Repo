@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.64",
+            "versionDate": "2025-07-26",
+            "fullDate": "20250726125036",
+            "size": 110948800,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2025/PeakVisor_5.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2025/PeakVisor_5.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
             "name": "VSCO",
             "type": 1,
             "bundleID": "co.visualsupply.cam",
