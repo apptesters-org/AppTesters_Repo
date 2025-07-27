@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LINECamera",
+            "type": 1,
+            "bundleID": "jp.naver.linecamera",
+            "bundleIdentifier": "jp.naver.linecamera",
+            "version": "17.4.1",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728003905",
+            "size": 134682234,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/LINECamera_17.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/LINECamera_17.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png"
+        },
+        {
             "name": "CalculatorAir",
             "type": 1,
             "bundleID": "com.CalculatorForiPad.InternetRocks",
