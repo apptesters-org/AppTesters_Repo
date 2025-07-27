@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Coconote",
+            "type": 1,
+            "bundleID": "com.bbauman.Scripty",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "version": "2.04",
+            "versionDate": "2025-07-27",
+            "fullDate": "20250727215348",
+            "size": 32911229,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2025/Coconote_2.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2025/Coconote_2.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
+        },
+        {
             "name": "PicsArt",
             "type": 1,
             "bundleID": "com.picsart.studio",
