@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MacroFactor",
+            "type": 1,
+            "bundleID": "com.sbs.diet",
+            "bundleIdentifier": "com.sbs.diet",
+            "version": "5.2.3",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729043334",
+            "size": 79749671,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/MacroFactor_5.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/MacroFactor_5.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png"
+        },
+        {
             "name": "AdobeScan",
             "type": 1,
             "bundleID": "com.adobe.scan.ios",
