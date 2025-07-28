@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "YouTubeMusic",
+            "type": 1,
+            "bundleID": "com.google.ios.youtubemusic",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "8.30.2",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729032307",
+            "size": 95784470,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/YouTubeMusic_8.30.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/YouTubeMusic_8.30.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png"
+        },
+        {
             "name": "Threads",
             "type": 1,
             "bundleID": "com.burbn.barcelona",
