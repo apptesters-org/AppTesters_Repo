@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyCalendar",
+            "type": 1,
+            "bundleID": "com.podfactor.pod",
+            "bundleIdentifier": "com.podfactor.pod",
+            "version": "2.105.0",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728214833",
+            "size": 21440752,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/MyCalendar_2.105.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/MyCalendar_2.105.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
