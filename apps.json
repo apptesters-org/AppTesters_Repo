@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyFitCoach",
+            "type": 1,
+            "bundleID": "de.my-fit-coach.myfitcoach-ios",
+            "bundleIdentifier": "de.my-fit-coach.myfitcoach-ios",
+            "version": "1.18",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728223338",
+            "size": 206131690,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/MyFitCoach_1.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/MyFitCoach_1.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png"
+        },
+        {
             "name": "MyCalendar",
             "type": 1,
             "bundleID": "com.podfactor.pod",
