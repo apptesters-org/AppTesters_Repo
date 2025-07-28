@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Moonly",
+            "type": 1,
+            "bundleID": "com.moonly.Moonly",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "version": "2.3.8",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728151126",
+            "size": 260842904,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/Moonly_2.3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/Moonly_2.3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+        },
+        {
+            "name": "QrCode",
+            "type": 1,
+            "bundleID": "com.internet-rocks.codescanner",
+            "bundleIdentifier": "com.internet-rocks.codescanner",
+            "version": "2025.7.2",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728151122",
+            "size": 97113299,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/QrCode_2025.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/QrCode_2025.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png"
+        },
+        {
             "name": "Stemz",
             "type": 1,
             "bundleID": "com.mwm.stems",
