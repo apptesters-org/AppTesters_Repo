@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Trace",
+            "type": 1,
+            "bundleID": "com.morpholioapps.trace",
+            "bundleIdentifier": "com.morpholioapps.trace",
+            "version": "6.64",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729010441",
+            "size": 384977819,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Trace_6.64_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Trace_6.64_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png"
+        },
+        {
             "name": "Balance",
             "type": 1,
             "bundleID": "com.elevateapp.kamino.kamino",
