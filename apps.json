@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.237.0",
+            "versionDate": "2025-07-28",
+            "fullDate": "20250728193306",
+            "size": 189797587,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/Mojo_1.237.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2025/Mojo_1.237.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "Persona",
             "type": 1,
             "bundleID": "com.tickettothemoon.video.persona",
