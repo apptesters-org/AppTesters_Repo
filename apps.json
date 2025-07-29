@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Photoroom",
+            "type": 1,
+            "bundleID": "com.dr1ven.eraser",
+            "bundleIdentifier": "com.dr1ven.eraser",
+            "version": "2025.30.01",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729171518",
+            "size": 119009339,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Photoroom_2025.30.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Photoroom_2025.30.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png"
+        },
+        {
+            "name": "SixPackAbsAbsWorkout",
+            "type": 1,
+            "bundleID": "com.abishkking.sixpack",
+            "bundleIdentifier": "com.abishkking.sixpack",
+            "version": "1.36.1",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729171503",
+            "size": 382829646,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/SixPackAbsAbsWorkout_1.36.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/SixPackAbsAbsWorkout_1.36.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png"
+        },
+        {
             "name": "TickTick",
             "type": 1,
             "bundleID": "com.TickTick.task",
