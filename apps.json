@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Bend",
+            "type": 1,
+            "bundleID": "com.bowery-digital.bend",
+            "bundleIdentifier": "com.bowery-digital.bend",
+            "version": "6.4.3",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729070353",
+            "size": 90331216,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Bend_6.4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/Bend_6.4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png"
+        },
+        {
             "name": "KineMaster",
             "type": 1,
             "bundleID": "com.kinemaster.kios",
