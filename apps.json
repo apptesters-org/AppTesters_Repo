@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VEEDCaptions",
+            "type": 1,
+            "bundleID": "io.veed.appstore",
+            "bundleIdentifier": "io.veed.appstore",
+            "version": "6.3.0",
+            "versionDate": "2025-07-29",
+            "fullDate": "20250729183605",
+            "size": 110418748,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/VEEDCaptions_6.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2025/VEEDCaptions_6.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
