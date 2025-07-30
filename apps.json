@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "BrainTest4",
+            "type": 2,
+            "bundleID": "com.unicostudio.braintest4",
+            "bundleIdentifier": "com.unicostudio.braintest4",
+            "version": "1.26.1",
+            "versionDate": "2025-07-30",
+            "fullDate": "20250730212826",
+            "size": 168622751,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/BrainTest4_1.26.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/BrainTest4_1.26.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest4.png"
+        },
+        {
+            "name": "Flo",
+            "type": 1,
+            "bundleID": "org.iggymedia.periodtracker",
+            "bundleIdentifier": "org.iggymedia.periodtracker",
+            "version": "9.84.0",
+            "versionDate": "2025-07-30",
+            "fullDate": "20250730212820",
+            "size": 117098096,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/Flo_9.84.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/Flo_9.84.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
