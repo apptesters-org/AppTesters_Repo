@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RenovateAI",
+            "type": 1,
+            "bundleID": "app.renovateai",
+            "bundleIdentifier": "app.renovateai",
+            "version": "4.4.54",
+            "versionDate": "2025-07-30",
+            "fullDate": "20250730152708",
+            "size": 54541701,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/RenovateAI_4.4.54_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/RenovateAI_4.4.54_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png"
+        },
+        {
             "name": "Stemz",
             "type": 1,
             "bundleID": "com.mwm.stems",
