@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GALATEA",
+            "type": 1,
+            "bundleID": "org.reactjs.native.Inkitt.App.Colt",
+            "bundleIdentifier": "org.reactjs.native.Inkitt.App.Colt",
+            "version": "13.7.0",
+            "versionDate": "2025-07-30",
+            "fullDate": "20250730180754",
+            "size": 79870987,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/GALATEA_13.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/GALATEA_13.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.reactjs.native.Inkitt.App.Colt.png"
+        },
+        {
             "name": "EPIK",
             "type": 1,
             "bundleID": "com.snowcorp.epik",
