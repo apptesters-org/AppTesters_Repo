@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "swipewipe",
+            "type": 1,
+            "bundleID": "com.aoklab.fewerphotos",
+            "bundleIdentifier": "com.aoklab.fewerphotos",
+            "version": "3.2.18",
+            "versionDate": "2025-07-30",
+            "fullDate": "20250730131617",
+            "size": 78728905,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/swipewipe_3.2.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2025/swipewipe_3.2.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png"
+        },
+        {
             "name": "KeyLifts",
             "type": 1,
             "bundleID": "org.borrowedcache.ultimate531",
