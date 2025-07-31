@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GrowIt",
+            "type": 1,
+            "bundleID": "com.grow.my.food",
+            "bundleIdentifier": "com.grow.my.food",
+            "version": "1.32",
+            "versionDate": "2025-07-31",
+            "fullDate": "20250731180910",
+            "size": 105789528,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/GrowIt_1.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/GrowIt_1.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
+        },
+        {
             "name": "Windyapp",
             "type": 1,
             "bundleID": "co.windyapp.Windy",
