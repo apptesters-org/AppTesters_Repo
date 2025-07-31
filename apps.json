@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Paired",
+            "type": 1,
+            "bundleID": "io.betterhalf.app",
+            "bundleIdentifier": "io.betterhalf.app",
+            "version": "2.45.0",
+            "versionDate": "2025-07-31",
+            "fullDate": "20250731174304",
+            "size": 31008044,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Paired_2.45.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Paired_2.45.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.betterhalf.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.betterhalf.app.png"
+        },
+        {
             "name": "Flow",
             "type": 1,
             "bundleID": "design.yugen.Flow",
