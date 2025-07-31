@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HeyJapan",
+            "type": 1,
+            "bundleID": "com.eup.heyjapan",
+            "bundleIdentifier": "com.eup.heyjapan",
+            "version": "2.1.3",
+            "versionDate": "2025-08-01",
+            "fullDate": "20250801040216",
+            "size": 127302549,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/HeyJapan_2.1.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/HeyJapan_2.1.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png"
+        },
+        {
             "name": "YAZIO",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
