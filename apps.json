@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Radarbot",
+            "type": 1,
+            "bundleID": "com.iteration-mobile.radarbot-free-ww",
+            "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+            "version": "9.28",
+            "versionDate": "2025-07-31",
+            "fullDate": "20250731225539",
+            "size": 260081653,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Radarbot_9.28_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/Radarbot_9.28_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png"
+        },
+        {
             "name": "Vids",
             "type": 1,
             "bundleID": "viral.vision.vids",
