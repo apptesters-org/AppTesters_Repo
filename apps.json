@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AllTrails",
+            "type": 1,
+            "bundleID": "com.alltrails.AllTrails",
+            "bundleIdentifier": "com.alltrails.AllTrails",
+            "version": "25.7.50",
+            "versionDate": "2025-07-31",
+            "fullDate": "20250731064001",
+            "size": 107308672,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/AllTrails_25.7.50_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2025/AllTrails_25.7.50_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
+        },
+        {
             "name": "WebSSH",
             "type": 1,
             "bundleID": "com.itimeteo.webssh",
