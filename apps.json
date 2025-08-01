@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "2.7.1",
+            "versionDate": "2025-08-01",
+            "fullDate": "20250801060738",
+            "size": 140418911,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Locket_2.7.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Locket_2.7.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "HeyJapan",
             "type": 1,
             "bundleID": "com.eup.heyjapan",
