@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Coconote",
+            "type": 1,
+            "bundleID": "com.bbauman.Scripty",
+            "bundleIdentifier": "com.bbauman.Scripty",
+            "version": "2.06",
+            "versionDate": "2025-08-01",
+            "fullDate": "20250801121350",
+            "size": 32974725,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Coconote_2.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Coconote_2.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bbauman.Scripty.png"
+        },
+        {
             "name": "AdobeExpress",
             "type": 1,
             "bundleID": "com.adobe.post",
