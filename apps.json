@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mockup",
+            "type": 1,
+            "bundleID": "com.hasankassem.mockup",
+            "bundleIdentifier": "com.hasankassem.mockup",
+            "version": "3.16",
+            "versionDate": "2025-08-01",
+            "fullDate": "20250801192006",
+            "size": 27941661,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Mockup_3.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Mockup_3.16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png"
+        },
+        {
             "name": "Evertag",
             "type": 1,
             "bundleID": "com.leshko.tagseditor",
