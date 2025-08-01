@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Soundmap",
+            "type": 2,
+            "bundleID": "app.mmap.mobile",
+            "bundleIdentifier": "app.mmap.mobile",
+            "version": "1.67.1",
+            "versionDate": "2025-08-01",
+            "fullDate": "20250801103832",
+            "size": 51987536,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Soundmap_1.67.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Soundmap_1.67.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png"
+        },
+        {
             "name": "EPIK",
             "type": 1,
             "bundleID": "com.snowcorp.epik",
