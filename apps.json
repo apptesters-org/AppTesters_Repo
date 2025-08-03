@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Clarity",
+            "type": 1,
+            "bundleID": "com.moodtools.thoughtdiary",
+            "bundleIdentifier": "com.moodtools.thoughtdiary",
+            "version": "5.5.0",
+            "versionDate": "2025-08-03",
+            "fullDate": "20250803131446",
+            "size": 209706709,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/Clarity_5.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/Clarity_5.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png"
+        },
+        {
+            "name": "AllTrails",
+            "type": 1,
+            "bundleID": "com.alltrails.AllTrails",
+            "bundleIdentifier": "com.alltrails.AllTrails",
+            "version": "25.7.51",
+            "versionDate": "2025-08-03",
+            "fullDate": "20250803131442",
+            "size": 107309752,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/AllTrails_25.7.51_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2025/AllTrails_25.7.51_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alltrails.AllTrails.png"
+        },
+        {
             "name": "Facebook",
             "type": 1,
             "bundleID": "com.facebook.Facebook",
