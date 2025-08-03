@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "14.12.9",
+            "versionDate": "2025-08-04",
+            "fullDate": "20250804033113",
+            "size": 215661118,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Notability_14.12.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Notability_14.12.9_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
             "name": "Clarity",
             "type": 1,
             "bundleID": "com.moodtools.thoughtdiary",
