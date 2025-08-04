@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unscripted",
+            "type": 1,
+            "bundleID": "com.ibit.UNPOSED",
+            "bundleIdentifier": "com.ibit.UNPOSED",
+            "version": "4.3.9",
+            "versionDate": "2025-08-04",
+            "fullDate": "20250804104658",
+            "size": 130354658,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Unscripted_4.3.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/Unscripted_4.3.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png"
+        },
+        {
             "name": "YouTubeOLED",
             "type": 1,
             "bundleID": "com.google.ios.youtube",
