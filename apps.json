@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ForeFlight",
+            "type": 1,
+            "bundleID": "com.foreflight.ForeFlightMobile",
+            "bundleIdentifier": "com.foreflight.ForeFlightMobile",
+            "version": "17.7.4",
+            "versionDate": "2025-08-05",
+            "fullDate": "20250805010656",
+            "size": 183468712,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/ForeFlight_17.7.4_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.foreflight.ForeFlightMobile.png"
+        },
+        {
             "name": "SimplySing",
             "type": 1,
             "bundleID": "com.joytunes.Sing",
