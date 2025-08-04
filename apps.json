@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "PowerThesaurus",
+            "type": 1,
+            "bundleID": "org.powerthesaurus.powerthesaurus",
+            "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
+            "version": "2.7.4",
+            "versionDate": "2025-08-04",
+            "fullDate": "20250804131358",
+            "size": 11936020,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/PowerThesaurus_2.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/PowerThesaurus_2.7.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png"
+        },
+        {
+            "name": "swipewipe",
+            "type": 1,
+            "bundleID": "com.aoklab.fewerphotos",
+            "bundleIdentifier": "com.aoklab.fewerphotos",
+            "version": "3.2.19",
+            "versionDate": "2025-08-04",
+            "fullDate": "20250804131355",
+            "size": 78727663,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/swipewipe_3.2.19_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2025/swipewipe_3.2.19_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png"
+        },
+        {
             "name": "Lampa",
             "type": 1,
             "bundleID": "com.lampa.photo",
