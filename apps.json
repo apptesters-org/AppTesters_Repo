@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "audiomack",
+            "type": 1,
+            "bundleID": "com.audiomack.iphone",
+            "bundleIdentifier": "com.audiomack.iphone",
+            "version": "7.15.0",
+            "versionDate": "2025-08-05",
+            "fullDate": "20250805211507",
+            "size": 243958959,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png"
+        },
+        {
             "name": "ImgAI",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
