@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Balance",
+            "type": 1,
+            "bundleID": "com.elevateapp.kamino.kamino",
+            "bundleIdentifier": "com.elevateapp.kamino.kamino",
+            "version": "1.183.0",
+            "versionDate": "2025-08-05",
+            "fullDate": "20250805114800",
+            "size": 113854637,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/Balance_1.183.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2025/Balance_1.183.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+        },
+        {
             "name": "Mercury",
             "type": 1,
             "bundleID": "com.tripleglazedstudios.Weather",
