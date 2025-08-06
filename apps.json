@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Quizlet",
+            "type": 1,
+            "bundleID": "com.quizlet.quizlet",
+            "bundleIdentifier": "com.quizlet.quizlet",
+            "version": "9.43.1",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807045421",
+            "size": 62575212,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Quizlet_9.43.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Quizlet_9.43.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png"
+        },
+        {
             "name": "Scoreboard",
             "type": 1,
             "bundleID": "com.edwinchan.Scoreboard",
