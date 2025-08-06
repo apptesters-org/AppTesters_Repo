@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PlantApp",
+            "type": 1,
+            "bundleID": "com.scaleup.plantid",
+            "bundleIdentifier": "com.scaleup.plantid",
+            "version": "3.1.4",
+            "versionDate": "2025-08-06",
+            "fullDate": "20250806124236",
+            "size": 83229123,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/PlantApp_3.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/PlantApp_3.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png"
+        },
+        {
             "name": "Melodia",
             "type": 1,
             "bundleID": "co.appnation.aimusic",
