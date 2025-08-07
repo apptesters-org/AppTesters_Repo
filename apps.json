@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GrowIt",
+            "type": 1,
+            "bundleID": "com.grow.my.food",
+            "bundleIdentifier": "com.grow.my.food",
+            "version": "1.33",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807145709",
+            "size": 51393749,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/GrowIt_1.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/GrowIt_1.33_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png"
+        },
+        {
             "name": "Calm",
             "type": 1,
             "bundleID": "com.calm.calmapp",
