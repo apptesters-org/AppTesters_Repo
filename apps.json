@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "WaterMinder",
+            "type": 1,
+            "bundleID": "com.waterminder.waterminder",
+            "bundleIdentifier": "com.waterminder.waterminder",
+            "version": "6.10.5",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807230918",
+            "size": 193399006,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/WaterMinder_6.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/WaterMinder_6.10.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png"
+        },
+        {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.10.22",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807230912",
+            "size": 140674057,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/SimplyPiano_9.10.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/SimplyPiano_9.10.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "Swiftgram",
             "type": 1,
             "bundleID": "app.swiftgram.ios",
