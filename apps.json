@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Temply",
+            "type": 1,
+            "bundleID": "com.templyvideo.Temply",
+            "bundleIdentifier": "com.templyvideo.Temply",
+            "version": "7.7.1",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807175744",
+            "size": 87123541,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Temply_7.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Temply_7.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.templyvideo.Temply.png"
+        },
+        {
             "name": "SnapEdit",
             "type": 1,
             "bundleID": "com.sfun.snapedit",
