@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "moneycontrol",
+            "type": 1,
+            "bundleID": "com.moneycontrol.mc",
+            "bundleIdentifier": "com.moneycontrol.mc",
+            "version": "11.0.3",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807111108",
+            "size": 94102289,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/moneycontrol_11.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/moneycontrol_11.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png"
+        },
+        {
+            "name": "Beelinguapp",
+            "type": 1,
+            "bundleID": "com.beelinguapp.beelinguapp",
+            "bundleIdentifier": "com.beelinguapp.beelinguapp",
+            "version": "3.8.38",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807111104",
+            "size": 60072006,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Beelinguapp_3.8.38_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Beelinguapp_3.8.38_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
