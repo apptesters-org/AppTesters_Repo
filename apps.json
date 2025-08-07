@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VEEDCaptions",
+            "type": 1,
+            "bundleID": "io.veed.appstore",
+            "bundleIdentifier": "io.veed.appstore",
+            "version": "6.4.0",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807231427",
+            "size": 111457628,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/VEEDCaptions_6.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/VEEDCaptions_6.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png"
+        },
+        {
             "name": "WaterMinder",
             "type": 1,
             "bundleID": "com.waterminder.waterminder",
