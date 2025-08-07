@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Vixer",
+            "type": 1,
+            "bundleID": "com.vixerapp.Vixer",
+            "bundleIdentifier": "com.vixerapp.Vixer",
+            "version": "6.5.1",
+            "versionDate": "2025-08-07",
+            "fullDate": "20250807181250",
+            "size": 113616515,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Vixer_6.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Vixer_6.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vixerapp.Vixer.png"
+        },
+        {
             "name": "Temply",
             "type": 1,
             "bundleID": "com.templyvideo.Temply",
