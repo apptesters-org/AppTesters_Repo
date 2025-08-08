@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MetadataEditor",
+            "type": 1,
+            "bundleID": "com.andrespizabuckmann.MetadataEditor",
+            "bundleIdentifier": "com.andrespizabuckmann.MetadataEditor",
+            "version": "3.0.0",
+            "versionDate": "2025-08-08",
+            "fullDate": "20250808103829",
+            "size": 44230773,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/MetadataEditor_3.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/MetadataEditor_3.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andrespizabuckmann.MetadataEditor.png"
+        },
+        {
             "name": "PictureThis",
             "type": 1,
             "bundleID": "cn.danatech.xingseus",
