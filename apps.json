@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "TeraBox",
+            "type": 1,
+            "bundleID": "com.dubox.drive",
+            "bundleIdentifier": "com.dubox.drive",
+            "version": "4.3.5",
+            "versionDate": "2025-08-08",
+            "fullDate": "20250808110938",
+            "size": 142851330,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/TeraBox_4.3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/TeraBox_4.3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png"
+        },
+        {
+            "name": "Trace",
+            "type": 1,
+            "bundleID": "com.morpholioapps.trace",
+            "bundleIdentifier": "com.morpholioapps.trace",
+            "version": "6.65",
+            "versionDate": "2025-08-08",
+            "fullDate": "20250808110925",
+            "size": 384280725,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Trace_6.65_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Trace_6.65_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.morpholioapps.trace.png"
+        },
+        {
             "name": "LoFiCam",
             "type": 1,
             "bundleID": "com.paha.LoFiCam",
