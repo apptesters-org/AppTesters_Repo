@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "LingoDeer",
+            "type": 1,
+            "bundleID": "com.lingodeer",
+            "bundleIdentifier": "com.lingodeer",
+            "version": "3.0.7",
+            "versionDate": "2025-08-08",
+            "fullDate": "20250808105906",
+            "size": 131673099,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/LingoDeer_3.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/LingoDeer_3.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png"
+        },
+        {
+            "name": "Wordscapes",
+            "type": 2,
+            "bundleID": "com.peoplefun.wordcross",
+            "bundleIdentifier": "com.peoplefun.wordcross",
+            "version": "3.2.15",
+            "versionDate": "2025-08-08",
+            "fullDate": "20250808105859",
+            "size": 187662673,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Wordscapes_3.2.15_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Wordscapes_3.2.15_IGG_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IGG",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.peoplefun.wordcross.png"
+        },
+        {
             "name": "MyFitCoach",
             "type": 1,
             "bundleID": "de.my-fit-coach.myfitcoach-ios",
