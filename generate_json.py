@@ -99,8 +99,8 @@ if __name__ == "__main__":
                     "downloadURL": asset.browser_download_url,
                     "developerName": "",
                     "localizedDescription": app_name,
-                    "icon": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
-                    "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp"
+                    "icon": "https://apptesters.org/apptesters-512x512.png",
+                    "iconURL": "https://apptesters.org/apptesters-512x512.png"
                 })
 
     data["apps"].sort(key=lambda x: x["fullDate"], reverse=True)
