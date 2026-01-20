@@ -1,54 +1,50 @@
+# [INFO] to run this... cd to the directory and run "./delete_release.sh" but before that do "chmod +x delete_release.sh"
+#and then provide dates like this: 05-03-2025 16-02-2025 02-03-2025 12-02-2025 to delete the releases. [/INFO]
+
 #!/bin/bash
 
-# Repository details
+# Configuration
 owner="apptesters-org"
-repo="Repo"
+repo="AppTesters_Repo"
 
-# GitHub personal access token
-token="_"
+echo "--- Fetching ALL releases for $owner/$repo ---"
 
-# Define the date pattern according to month
-date_pattern="-03-2024"
+# 1. Fetch ALL release tags using gh api with pagination
+all_releases=$(gh api "repos/$owner/$repo/releases" --paginate --jq '.[].tag_name')
 
-# Function to fetch all release tags
-fetch_releases() {
-  page=1
-  per_page=100
-  releases=()
+if [ -z "$all_releases" ]; then
+    echo "No releases found."
+    exit 0
+fi
 
-  while true; do
-    response=$(curl -s -H "Authorization: token $token" \
-      "https://api.github.com/repos/$owner/$repo/releases?per_page=$per_page&page=$page")
-
-    tags=$(echo $response | jq -r '.[].tag_name')
-
-    if [ -z "$tags" ]; then
-      break
-    fi
-
-    releases+=($tags)
-    page=$((page + 1))
-  done
-
-  echo "${releases[@]}"
-}
-
-# Fetch all releases
-all_releases=$(fetch_releases)
-
-# Debugging: print all fetched release tags
-echo "Fetched release tags:"
-echo "${all_releases[@]}"
+# 2. Display releases
+echo "Found the following releases:"
+echo "----------------------------"
+echo "$all_releases"
+echo "----------------------------"
 echo ""
 
-# Loop through each release tag and delete those matching the date pattern
-for release in ${all_releases[@]}
-do
-  # Debugging: print the current release being processed
-  echo "Processing release: $release"
+# 3. Ask user for input
+echo "Paste the tags you want to delete (separated by spaces):"
+read -p "Tags to delete: " -a target_tags
 
-  if [[ $release == *"$date_pattern" ]]; then
-    gh release delete $release --repo $owner/$repo --yes
-    echo "Deleted release $release"
-  fi
+if [ ${#target_tags[@]} -eq 0 ]; then
+    echo "No tags entered."
+    exit 0
+fi
+
+echo ""
+echo "Starting deletion..."
+
+# 4. Loop and delete WITHOUT asking for confirmation
+for tag in "${target_tags[@]}"; do
+    if [ -z "$tag" ]; then continue; fi
+    
+    echo "Deleting $tag..."
+    
+    # --yes : Skips the "y/n" prompt
+    # --cleanup-tag : Deletes the git tag as well (removes the "tag still remains" warning)
+    gh release delete "$tag" --repo "$owner/$repo" --yes --cleanup-tag
 done
+
+echo "Done."
