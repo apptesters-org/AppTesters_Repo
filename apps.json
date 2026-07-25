@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "B612",
+            "type": 1,
+            "bundleID": "com.linecorp.b612",
+            "bundleIdentifier": "com.linecorp.b612",
+            "version": "15.3.0",
+            "versionDate": "2026-07-26",
+            "fullDate": "20260726025605",
+            "size": 151374978,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2026/B612_15.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-07-2026/B612_15.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
+        },
+        {
             "name": "Boostcamp",
             "type": 1,
             "bundleID": "com.bpmhealth.boostfitness",
