@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnapEdit",
+            "type": 1,
+            "bundleID": "com.sfun.snapedit",
+            "bundleIdentifier": "com.sfun.snapedit",
+            "version": "6.22",
+            "versionDate": "2026-07-25",
+            "fullDate": "20260725074341",
+            "size": 92790267,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2026/SnapEdit_6.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2026/SnapEdit_6.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png"
+        },
+        {
             "name": "BoldVoice",
             "type": 1,
             "bundleID": "com.wellocution.iosapp",
