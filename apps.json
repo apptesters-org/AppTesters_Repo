@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.615",
+            "versionDate": "2026-07-25",
+            "fullDate": "20260725232028",
+            "size": 127513895,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2026/RiseSleep_0.1.615_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-07-2026/RiseSleep_0.1.615_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
