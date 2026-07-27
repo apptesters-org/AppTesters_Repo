@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Picsart",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "30.4.1",
+            "versionDate": "2026-07-27",
+            "fullDate": "20260727085005",
+            "size": 112345689,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Picsart_30.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Picsart_30.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "VideoLite",
             "type": 1,
             "bundleID": "com.videobrowser.ios",
