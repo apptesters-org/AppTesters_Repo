@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PUSH",
+            "type": 1,
+            "bundleID": "com.ADPTVLTD.push",
+            "bundleIdentifier": "com.ADPTVLTD.push",
+            "version": "3.13.2",
+            "versionDate": "2026-07-28",
+            "fullDate": "20260728125211",
+            "size": 69884129,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/PUSH_3.13.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/PUSH_3.13.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
+        },
+        {
             "name": "Camera",
             "type": 1,
             "bundleID": "com.andyworks.camera",
