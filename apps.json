@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyFitnessPal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "26.30.0",
+            "versionDate": "2026-07-29",
+            "fullDate": "20260729011130",
+            "size": 192799854,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/MyFitnessPal_26.30.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/MyFitnessPal_26.30.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "Yazio",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
