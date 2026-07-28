@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Most",
+            "type": 1,
+            "bundleID": "com.most.stories",
+            "bundleIdentifier": "com.most.stories",
+            "version": "3.5.3",
+            "versionDate": "2026-07-28",
+            "fullDate": "20260728061530",
+            "size": 247781575,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Most_3.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Most_3.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
+        },
+        {
             "name": "superagent",
             "type": 1,
             "bundleID": "com.agent.super.extension.safari",
