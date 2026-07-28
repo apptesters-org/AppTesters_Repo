@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Analogue",
+            "type": 1,
+            "bundleID": "Cristian-Teichner.Analogue",
+            "bundleIdentifier": "Cristian-Teichner.Analogue",
+            "version": "1.5.0",
+            "versionDate": "2026-07-28",
+            "fullDate": "20260728190426",
+            "size": 603895861,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png"
+        },
+        {
             "name": "EPIK",
             "type": 1,
             "bundleID": "com.snowcorp.epik",
