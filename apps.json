@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Moonly",
+            "type": 1,
+            "bundleID": "com.moonly.Moonly",
+            "bundleIdentifier": "com.moonly.Moonly",
+            "version": "2.8.8",
+            "versionDate": "2026-07-29",
+            "fullDate": "20260729174643",
+            "size": 124762205,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Moonly_2.8.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Moonly_2.8.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png"
+        },
+        {
             "name": "ThePiano",
             "type": 2,
             "bundleID": "com.impalastudios.pianofree",
