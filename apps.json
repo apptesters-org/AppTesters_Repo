@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Uplens",
+            "type": 1,
+            "bundleID": "app.uplens",
+            "bundleIdentifier": "app.uplens",
+            "version": "4.2.1",
+            "versionDate": "2026-07-30",
+            "fullDate": "20260730022333",
+            "size": 177950331,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/Uplens_4.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/Uplens_4.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
+        },
+        {
             "name": "LookUp",
             "type": 1,
             "bundleID": "in.muditbhargava.LookUp",
