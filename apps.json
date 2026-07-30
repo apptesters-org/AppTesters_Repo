@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "duet",
+            "type": 1,
+            "bundleID": "com.kairos.duet",
+            "bundleIdentifier": "com.kairos.duet",
+            "version": "3.1.9",
+            "versionDate": "2026-07-30",
+            "fullDate": "20260730212849",
+            "size": 44739077,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/duet_3.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/duet_3.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
+        },
+        {
             "name": "superagent",
             "type": 1,
             "bundleID": "com.agent.super.extension.safari",
