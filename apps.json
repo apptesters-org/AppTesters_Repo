@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PDFExpert",
+            "type": 1,
+            "bundleID": "com.readdle.PDFExpert5",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "version": "7.25.9",
+            "versionDate": "2026-07-30",
+            "fullDate": "20260730181739",
+            "size": 146062344,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/PDFExpert_7.25.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/PDFExpert_7.25.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
