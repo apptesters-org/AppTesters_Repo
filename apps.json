@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Elevate",
+            "type": 2,
+            "bundleID": "com.elevateapp.elevate",
+            "bundleIdentifier": "com.elevateapp.elevate",
+            "version": "5.250.0",
+            "versionDate": "2026-07-31",
+            "fullDate": "20260731040045",
+            "size": 415168545,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/Elevate_5.250.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/Elevate_5.250.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+        },
+        {
             "name": "Hevy",
             "type": 1,
             "bundleID": "com.hevyapp.hevy",
