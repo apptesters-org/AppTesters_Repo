@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KetoDiet",
+            "type": 1,
+            "bundleID": "com.lappir.keto",
+            "bundleIdentifier": "com.lappir.keto",
+            "version": "9.1.1",
+            "versionDate": "2026-08-01",
+            "fullDate": "20260801153715",
+            "size": 83891741,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/KetoDiet_9.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/KetoDiet_9.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
+        },
+        {
             "name": "LookUp",
             "type": 1,
             "bundleID": "in.muditbhargava.LookUp",
