@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Athlytic",
+            "type": 1,
+            "bundleID": "myndarc.newFitnessApp",
+            "bundleIdentifier": "myndarc.newFitnessApp",
+            "version": "26.5.1",
+            "versionDate": "2026-08-01",
+            "fullDate": "20260801114134",
+            "size": 33815351,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/Athlytic_26.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/Athlytic_26.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
+        },
+        {
             "name": "Edith",
             "type": 1,
             "bundleID": "com.thenovik.Presets",
