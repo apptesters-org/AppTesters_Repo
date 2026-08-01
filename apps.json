@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "LookUp",
+            "type": 1,
+            "bundleID": "in.muditbhargava.LookUp",
+            "bundleIdentifier": "in.muditbhargava.LookUp",
+            "version": "12.1.5",
+            "versionDate": "2026-08-01",
+            "fullDate": "20260801114644",
+            "size": 207289236,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
+        },
+        {
+            "name": "GrowMe",
+            "type": 1,
+            "bundleID": "com.book.summaries.reading",
+            "bundleIdentifier": "com.book.summaries.reading",
+            "version": "1.3.3",
+            "versionDate": "2026-08-01",
+            "fullDate": "20260801114638",
+            "size": 125078249,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/GrowMe_1.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/GrowMe_1.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png"
+        },
+        {
             "name": "Athlytic",
             "type": 1,
             "bundleID": "myndarc.newFitnessApp",
