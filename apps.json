@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "GOWOD",
+            "type": 1,
+            "bundleID": "eu.gowod",
+            "bundleIdentifier": "eu.gowod",
+            "version": "5.11.0",
+            "versionDate": "2026-08-03",
+            "fullDate": "20260803144448",
+            "size": 70111053,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/GOWOD_5.11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/GOWOD_5.11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png"
+        },
+        {
+            "name": "LUTStudio",
+            "type": 1,
+            "bundleID": "com.solveit.lut-studio",
+            "bundleIdentifier": "com.solveit.lut-studio",
+            "version": "3.0.15",
+            "versionDate": "2026-08-03",
+            "fullDate": "20260803142749",
+            "size": 109346554,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/LUTStudio_3.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/LUTStudio_3.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
+        },
+        {
             "name": "Lightroom",
             "type": 1,
             "bundleID": "com.adobe.lrmobilephone",
