@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Swiftgram",
+            "type": 1,
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "12.9.2",
+            "versionDate": "2026-08-04",
+            "fullDate": "20260804002441",
+            "size": 84836056,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Swiftgram_12.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Swiftgram_12.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
             "name": "Lightroom",
             "type": 1,
             "bundleID": "com.adobe.lrmobilephone",
