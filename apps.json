@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unfold",
+            "type": 1,
+            "bundleID": "com.moonlab.unfoldstories",
+            "bundleIdentifier": "com.moonlab.unfoldstories",
+            "version": "8.162.0",
+            "versionDate": "2026-08-03",
+            "fullDate": "20260803131433",
+            "size": 222200295,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Unfold_8.162.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Unfold_8.162.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonlab.unfoldstories.png"
+        },
+        {
             "name": "Mimo",
             "type": 1,
             "bundleID": "com.getmimo.mimo",
