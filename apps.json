@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LINECamera",
+            "type": 1,
+            "bundleID": "jp.naver.linecamera",
+            "bundleIdentifier": "jp.naver.linecamera",
+            "version": "18.4.7",
+            "versionDate": "2026-08-04",
+            "fullDate": "20260804215022",
+            "size": 202281633,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png"
+        },
+        {
             "name": "CMProCalc",
             "type": 1,
             "bundleID": "com.calculated.laurene",
