@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "",
+            "type": 1,
+            "bundleID": "com.intsig.CamScannerLite",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "7.23.0",
+            "versionDate": "2026-08-04",
+            "fullDate": "20260804125236",
+            "size": 211994281,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/_7.23.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/_7.23.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with VIP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png"
+        },
+        {
             "name": "iLovePDF",
             "type": 1,
             "bundleID": "com.ilovepdf.www",
