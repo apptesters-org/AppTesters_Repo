@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Evermusic",
+            "type": 1,
+            "bundleID": "com.leshko.cloudplayer",
+            "bundleIdentifier": "com.leshko.cloudplayer",
+            "version": "8.8",
+            "versionDate": "2026-08-05",
+            "fullDate": "20260805150654",
+            "size": 88466009,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png"
+        },
+        {
             "name": "PREQUEL",
             "type": 1,
             "bundleID": "com.aiarlabs.prequel",
