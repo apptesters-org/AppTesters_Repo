@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Busuu",
+            "type": 1,
+            "bundleID": "com.busuu.english.app",
+            "bundleIdentifier": "com.busuu.english.app",
+            "version": "30.23.0",
+            "versionDate": "2026-08-06",
+            "fullDate": "20260806014731",
+            "size": 157568981,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Busuu_30.23.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Busuu_30.23.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png"
+        },
+        {
             "name": "OfflineMusic",
             "type": 1,
             "bundleID": "com.offlinemusic",
