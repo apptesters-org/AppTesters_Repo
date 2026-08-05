@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Photoleap",
+            "type": 1,
+            "bundleID": "com.lightricks.Enlight-Editor",
+            "bundleIdentifier": "com.lightricks.Enlight-Editor",
+            "version": "2.124",
+            "versionDate": "2026-08-05",
+            "fullDate": "20260805182737",
+            "size": 401093196,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Photoleap_2.124_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Photoleap_2.124_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png"
+        },
+        {
             "name": "SimplyPiano",
             "type": 1,
             "bundleID": "com.joytunes.asla",
