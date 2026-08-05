@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Balance",
+            "type": 1,
+            "bundleID": "com.elevateapp.kamino.kamino",
+            "bundleIdentifier": "com.elevateapp.kamino.kamino",
+            "version": "1.207.0",
+            "versionDate": "2026-08-05",
+            "fullDate": "20260805212852",
+            "size": 122389700,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Balance_1.207.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Balance_1.207.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+        },
+        {
             "name": "Wikiloc",
             "type": 1,
             "bundleID": "com.wikiloc.wikiloc",
