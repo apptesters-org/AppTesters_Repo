@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnoreLab",
+            "type": 1,
+            "bundleID": "com.revivasoftworks.Snore-Lab",
+            "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+            "version": "6.4.6",
+            "versionDate": "2026-08-06",
+            "fullDate": "20260806132658",
+            "size": 163089404,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SnoreLab_6.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SnoreLab_6.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
