@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplyGuitar",
+            "type": 1,
+            "bundleID": "com.joytunes.SimplyGuitar",
+            "bundleIdentifier": "com.joytunes.SimplyGuitar",
+            "version": "10.27",
+            "versionDate": "2026-08-06",
+            "fullDate": "20260806171741",
+            "size": 186808690,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SimplyGuitar_10.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SimplyGuitar_10.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
+        },
+        {
             "name": "SimplyDraw",
             "type": 1,
             "bundleID": "com.joytunes.Draw",
