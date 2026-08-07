@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TinyDecisions",
+            "type": 1,
+            "bundleID": "com.nixwang.decision",
+            "bundleIdentifier": "com.nixwang.decision",
+            "version": "26.7.1",
+            "versionDate": "2026-08-07",
+            "fullDate": "20260807062720",
+            "size": 78443096,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/TinyDecisions_26.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/TinyDecisions_26.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png"
+        },
+        {
             "name": "SnapEdit",
             "type": 1,
             "bundleID": "com.sfun.snapedit",
