@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CMProCalc",
+            "type": 1,
+            "bundleID": "com.calculated.laurene",
+            "bundleIdentifier": "com.calculated.laurene",
+            "version": "330",
+            "versionDate": "2026-08-09",
+            "fullDate": "20260809233408",
+            "size": 57071065,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/CMProCalc_330_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/CMProCalc_330_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calculated.laurene.png"
+        },
+        {
             "name": "ThePiano",
             "type": 2,
             "bundleID": "com.impalastudios.pianofree",
