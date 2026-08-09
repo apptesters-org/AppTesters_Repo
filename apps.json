@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.22.0",
+            "versionDate": "2026-08-09",
+            "fullDate": "20260809225853",
+            "size": 87432831,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/ThePiano_2.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/ThePiano_2.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
