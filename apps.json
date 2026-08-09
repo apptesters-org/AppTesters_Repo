@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Labbet",
+            "type": 1,
+            "bundleID": "app.labbet.labbet",
+            "bundleIdentifier": "app.labbet.labbet",
+            "version": "2.66",
+            "versionDate": "2026-08-09",
+            "fullDate": "20260809115631",
+            "size": 171947050,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/Labbet_2.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/Labbet_2.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png"
+        },
+        {
             "name": "TORVPN",
             "type": 1,
             "bundleID": "com.youssef.developer.Full-Browser",
