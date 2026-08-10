@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mimo",
+            "type": 1,
+            "bundleID": "com.getmimo.mimo",
+            "bundleIdentifier": "com.getmimo.mimo",
+            "version": "12.22.0",
+            "versionDate": "2026-08-10",
+            "fullDate": "20260810125638",
+            "size": 189567272,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Mimo_12.22.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Mimo_12.22.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
+        },
+        {
             "name": "Lifesum",
             "type": 1,
             "bundleID": "com.sillens.iShape",
