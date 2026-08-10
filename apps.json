@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplyDraw",
+            "type": 1,
+            "bundleID": "com.joytunes.Draw",
+            "bundleIdentifier": "com.joytunes.Draw",
+            "version": "1.7.3",
+            "versionDate": "2026-08-11",
+            "fullDate": "20260811012114",
+            "size": 116650953,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SimplyDraw_1.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SimplyDraw_1.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
