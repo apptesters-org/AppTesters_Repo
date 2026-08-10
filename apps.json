@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Paste",
+            "type": 1,
+            "bundleID": "com.wiheads.paste",
+            "bundleIdentifier": "com.wiheads.paste",
+            "version": "6.6.6",
+            "versionDate": "2026-08-10",
+            "fullDate": "20260810170313",
+            "size": 124794304,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Paste_6.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Paste_6.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png"
+        },
+        {
+            "name": "Dehancer",
+            "type": 1,
+            "bundleID": "com.dehancer.film.ios-app",
+            "bundleIdentifier": "com.dehancer.film.ios-app",
+            "version": "6.6",
+            "versionDate": "2026-08-10",
+            "fullDate": "20260810170302",
+            "size": 189630441,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Dehancer_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Dehancer_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
+        },
+        {
             "name": "Stndrd",
             "type": 1,
             "bundleID": "uni.cbum",
