@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Most",
+            "type": 1,
+            "bundleID": "com.most.stories",
+            "bundleIdentifier": "com.most.stories",
+            "version": "3.5.4",
+            "versionDate": "2026-08-11",
+            "fullDate": "20260811183615",
+            "size": 232936673,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Most_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Most_3.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
