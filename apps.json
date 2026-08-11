@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Foodie",
+            "type": 1,
+            "bundleID": "com.linecorp.Foodie",
+            "bundleIdentifier": "com.linecorp.Foodie",
+            "version": "8.2.4",
+            "versionDate": "2026-08-12",
+            "fullDate": "20260812013042",
+            "size": 119449858,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/Foodie_8.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/Foodie_8.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.Foodie.png"
+        },
+        {
             "name": "NFCTools",
             "type": 1,
             "bundleID": "com.wakdev.wdnfc",
