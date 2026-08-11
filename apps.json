@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "NFCTools",
+            "type": 1,
+            "bundleID": "com.wakdev.wdnfc",
+            "bundleIdentifier": "com.wakdev.wdnfc",
+            "version": "3.1",
+            "versionDate": "2026-08-12",
+            "fullDate": "20260812012537",
+            "size": 6900022,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/NFCTools_3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/NFCTools_3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
+        },
+        {
             "name": "MyFitnessPal",
             "type": 1,
             "bundleID": "com.myfitnesspal.mfp",
