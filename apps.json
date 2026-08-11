@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Shapeyard",
+            "type": 1,
+            "bundleID": "app.chudo",
+            "bundleIdentifier": "app.chudo",
+            "version": "5.24",
+            "versionDate": "2026-08-11",
+            "fullDate": "20260811114405",
+            "size": 78277999,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Shapeyard_5.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Shapeyard_5.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png"
+        },
+        {
             "name": "Picsart",
             "type": 1,
             "bundleID": "com.picsart.studio",
