@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AlightMotion",
+            "type": 1,
+            "bundleID": "com.alightcreative.motion",
+            "bundleIdentifier": "com.alightcreative.motion",
+            "version": "6.2.56",
+            "versionDate": "2026-08-11",
+            "fullDate": "20260811233449",
+            "size": 128657609,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/AlightMotion_6.2.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/AlightMotion_6.2.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png"
+        },
+        {
             "name": "GrowMe",
             "type": 1,
             "bundleID": "com.book.summaries.reading",
