@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Edith",
+            "type": 1,
+            "bundleID": "com.thenovik.Presets",
+            "bundleIdentifier": "com.thenovik.Presets",
+            "version": "2.4.21",
+            "versionDate": "2026-08-11",
+            "fullDate": "20260811194658",
+            "size": 469503910,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Edith_2.4.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Edith_2.4.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thenovik.Presets.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thenovik.Presets.png"
+        },
+        {
             "name": "Flightradar24",
             "type": 1,
             "bundleID": "se.resenatverket.FlightRadar24-Free",
