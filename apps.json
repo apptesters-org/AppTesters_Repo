@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lyfta",
+            "type": 1,
+            "bundleID": "com.lyftaios",
+            "bundleIdentifier": "com.lyftaios",
+            "version": "1.154",
+            "versionDate": "2026-08-13",
+            "fullDate": "20260813044349",
+            "size": 62012848,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Lyfta_1.154_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Lyfta_1.154_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
+        },
+        {
             "name": "Dictionary",
             "type": 1,
             "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
