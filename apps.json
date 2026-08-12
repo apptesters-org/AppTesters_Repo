@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Enki",
+            "type": 1,
+            "bundleID": "PHCXZHD53T.com.enki.insights",
+            "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
+            "version": "2.40.11",
+            "versionDate": "2026-08-13",
+            "fullDate": "20260813045858",
+            "size": 22056600,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Enki_2.40.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Enki_2.40.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png"
+        },
+        {
             "name": "Lyfta",
             "type": 1,
             "bundleID": "com.lyftaios",
