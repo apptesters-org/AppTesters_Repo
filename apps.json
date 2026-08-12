@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KineMaster",
+            "type": 1,
+            "bundleID": "com.kinemaster.kios",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "8.1.18",
+            "versionDate": "2026-08-12",
+            "fullDate": "20260812080249",
+            "size": 120122222,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/KineMaster_8.1.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/KineMaster_8.1.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+        },
+        {
             "name": "HiWidget",
             "type": 1,
             "bundleID": "com.zerone.hidesktop",
