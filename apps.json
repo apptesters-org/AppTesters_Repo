@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Documents",
+            "type": 1,
+            "bundleID": "com.readdle.ReaddleDocsIPad",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "version": "8.20.8",
+            "versionDate": "2026-08-13",
+            "fullDate": "20260813141523",
+            "size": 285211393,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Documents_8.20.8_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/Documents_8.20.8_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+        },
+        {
             "name": "PixelColor",
             "type": 1,
             "bundleID": "com.djitlabs.pixelcolor",
