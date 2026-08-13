@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "B612",
+            "type": 1,
+            "bundleID": "com.linecorp.b612",
+            "bundleIdentifier": "com.linecorp.b612",
+            "version": "15.3.8",
+            "versionDate": "2026-08-14",
+            "fullDate": "20260814021958",
+            "size": 155437715,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/B612_15.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/B612_15.3.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
+        },
+        {
+            "name": "SNOW",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "15.3.8",
+            "versionDate": "2026-08-14",
+            "fullDate": "20260814021950",
+            "size": 155755178,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/SNOW_15.3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2026/SNOW_15.3.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
             "name": "Bazaart",
             "type": 1,
             "bundleID": "co.bazaart.app",
