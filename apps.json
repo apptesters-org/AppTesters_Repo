@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LEMOFM",
+            "type": 1,
+            "bundleID": "com.LEMO.LemoFM",
+            "bundleIdentifier": "com.LEMO.LemoFM",
+            "version": "1.11.4",
+            "versionDate": "2026-08-16",
+            "fullDate": "20260816001314",
+            "size": 108345885,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/LEMOFM_1.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/LEMOFM_1.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png"
+        },
+        {
             "name": "BoldVoice",
             "type": 1,
             "bundleID": "com.wellocution.iosapp",
