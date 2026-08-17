@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Dropshare",
+            "type": 1,
+            "bundleID": "net.mkswap.Dropshare-iOS",
+            "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+            "version": "3.64",
+            "versionDate": "2026-08-17",
+            "fullDate": "20260817180147",
+            "size": 71817982,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Dropshare_3.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Dropshare_3.64_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png"
+        },
+        {
             "name": "SCRL",
             "type": 1,
             "bundleID": "com.dopedevelopment.Panels",
