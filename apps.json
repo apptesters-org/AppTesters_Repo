@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "16.9.1",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818005909",
+            "size": 254016741,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Notability_16.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Notability_16.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
             "name": "MyCalendar",
             "type": 1,
             "bundleID": "com.podfactor.pod",
