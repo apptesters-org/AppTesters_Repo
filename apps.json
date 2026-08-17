@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.49",
+            "versionDate": "2026-08-17",
+            "fullDate": "20260817152623",
+            "size": 77817443,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/SCRL_9.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/SCRL_9.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "Stndrd",
             "type": 1,
             "bundleID": "uni.cbum",
