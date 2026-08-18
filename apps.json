@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.21.2",
+            "versionDate": "2026-08-19",
+            "fullDate": "20260819002859",
+            "size": 55672225,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/UpNote_9.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/UpNote_9.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.274.1",
+            "versionDate": "2026-08-19",
+            "fullDate": "20260819002844",
+            "size": 174703025,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Mojo_1.274.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Mojo_1.274.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "AdobeFresco",
             "type": 1,
             "bundleID": "com.adobe.fresco.ios",
