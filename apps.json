@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Shapr3D",
+            "type": 1,
+            "bundleID": "com.shapr3d.shapr",
+            "bundleIdentifier": "com.shapr3d.shapr",
+            "version": "26.150.0",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818124254",
+            "size": 1301742755,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png"
+        },
+        {
             "name": "BoxBox",
             "type": 1,
             "bundleID": "club.boxbox.widgets-ios",
