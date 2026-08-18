@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Picsart",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "30.6.1",
+            "versionDate": "2026-08-19",
+            "fullDate": "20260819014419",
+            "size": 117712092,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Picsart_30.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Picsart_30.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "UpNote",
             "type": 1,
             "bundleID": "com.getupnote.ios",
