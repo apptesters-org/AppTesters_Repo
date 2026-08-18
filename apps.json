@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Sketchar",
+            "type": 1,
+            "bundleID": "tech.sketchar.ios",
+            "bundleIdentifier": "tech.sketchar.ios",
+            "version": "10.8.1",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818100213",
+            "size": 170391090,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Sketchar_10.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Sketchar_10.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png"
+        },
+        {
             "name": "Unzip",
             "type": 1,
             "bundleID": "com.cuilingshi.fileextract",
