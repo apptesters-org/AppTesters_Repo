@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "AlarmClockforMe",
+            "type": 1,
+            "bundleID": "com.apalonapps.alarmclockfree",
+            "bundleIdentifier": "com.apalonapps.alarmclockfree",
+            "version": "3.19.23",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818171556",
+            "size": 76502010,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/AlarmClockforMe_3.19.23_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/AlarmClockforMe_3.19.23_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png"
+        },
+        {
+            "name": "Moovit",
+            "type": 1,
+            "bundleID": "com.tranzmate.tranzmate1",
+            "bundleIdentifier": "com.tranzmate.tranzmate1",
+            "version": "5.198.1",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818171551",
+            "size": 108572619,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Moovit_5.198.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Moovit_5.198.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png"
+        },
+        {
             "name": "TORVPN",
             "type": 1,
             "bundleID": "com.youssef.developer.Full-Browser",
