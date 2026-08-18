@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Duolingo",
+            "type": 1,
+            "bundleID": "com.duolingo.DuolingoMobile",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.136.0",
+            "versionDate": "2026-08-18",
+            "fullDate": "20260818210651",
+            "size": 212569010,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Duolingo_7.136.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Duolingo_7.136.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png"
+        },
+        {
             "name": "CollaNote",
             "type": 1,
             "bundleID": "net.quochuywdm.collanote496",
