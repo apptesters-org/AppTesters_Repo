@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Weather",
+            "type": 1,
+            "bundleID": "com.apalonapps.wlf",
+            "bundleIdentifier": "com.apalonapps.wlf",
+            "version": "4.1.11",
+            "versionDate": "2026-08-19",
+            "fullDate": "20260819132312",
+            "size": 167685090,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Weather_4.1.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Weather_4.1.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
+        },
+        {
             "name": "SnapEdit",
             "type": 1,
             "bundleID": "com.sfun.snapedit",
