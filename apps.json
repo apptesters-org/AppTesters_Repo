@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "YouCut",
+            "type": 1,
+            "bundleID": "com.shantanu.YouCut",
+            "bundleIdentifier": "com.shantanu.YouCut",
+            "version": "1.31.0",
+            "versionDate": "2026-08-20",
+            "fullDate": "20260820011554",
+            "size": 94073629,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/YouCut_1.31.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/YouCut_1.31.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shantanu.YouCut.png"
+        },
+        {
             "name": "EPIK",
             "type": 1,
             "bundleID": "com.snowcorp.epik",
