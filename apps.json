@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Picsart",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "30.6.2",
+            "versionDate": "2026-08-21",
+            "fullDate": "20260821022623",
+            "size": 112676998,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/Picsart_30.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/Picsart_30.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "Camera",
+            "type": 1,
+            "bundleID": "com.andyworks.camera",
+            "bundleIdentifier": "com.andyworks.camera",
+            "version": "1.56",
+            "versionDate": "2026-08-21",
+            "fullDate": "20260821022617",
+            "size": 84850874,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/Camera_1.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/Camera_1.56_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.camera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.camera.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
