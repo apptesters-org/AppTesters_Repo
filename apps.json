@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "edjingMix",
+            "type": 1,
+            "bundleID": "com.edjing.edjingdjturntable",
+            "bundleIdentifier": "com.edjing.edjingdjturntable",
+            "version": "9.1.8",
+            "versionDate": "2026-08-20",
+            "fullDate": "20260820144344",
+            "size": 101667524,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/edjingMix_9.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/edjingMix_9.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+        },
+        {
             "name": "Flitsmeister",
             "type": 1,
             "bundleID": "rw.sp.flitsmeister",
