@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.21.3",
+            "versionDate": "2026-08-21",
+            "fullDate": "20260821135919",
+            "size": 37336497,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/UpNote_9.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/UpNote_9.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
             "name": "LINECamera",
             "type": 1,
             "bundleID": "jp.naver.linecamera",
