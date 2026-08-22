@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "461.7.0",
+            "versionDate": "2026-08-22",
+            "fullDate": "20260822223436",
+            "size": 201297582,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/VSCO_461.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/VSCO_461.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "Calendars",
             "type": 1,
             "bundleID": "com.readdle.CalendarsLite",
