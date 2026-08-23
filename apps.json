@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Animock",
+            "type": 1,
+            "bundleID": "com.hassantaleb.mockup",
+            "bundleIdentifier": "com.hassantaleb.mockup",
+            "version": "5.11",
+            "versionDate": "2026-08-23",
+            "fullDate": "20260823200854",
+            "size": 120019767,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/Animock_5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/Animock_5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png"
+        },
+        {
             "name": "SimplyPiano",
             "type": 1,
             "bundleID": "com.joytunes.asla",
