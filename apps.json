@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Mimo",
+            "type": 1,
+            "bundleID": "com.getmimo.mimo",
+            "bundleIdentifier": "com.getmimo.mimo",
+            "version": "12.24.0",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824140807",
+            "size": 189671427,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Mimo_12.24.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Mimo_12.24.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
+        },
+        {
+            "name": "edjingMix",
+            "type": 1,
+            "bundleID": "com.edjing.edjingdjturntable",
+            "bundleIdentifier": "com.edjing.edjingdjturntable",
+            "version": "9.1.9",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824140757",
+            "size": 186408304,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/edjingMix_9.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/edjingMix_9.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+        },
+        {
             "name": "HiWidget",
             "type": 1,
             "bundleID": "com.zerone.hidesktop",
