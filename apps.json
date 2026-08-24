@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PUSH",
+            "type": 1,
+            "bundleID": "com.ADPTVLTD.push",
+            "bundleIdentifier": "com.ADPTVLTD.push",
+            "version": "3.15.1",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824214149",
+            "size": 69347759,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/PUSH_3.15.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/PUSH_3.15.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
+        },
+        {
             "name": "Notability",
             "type": 1,
             "bundleID": "com.gingerlabs.Notability",
