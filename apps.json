@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stemz",
+            "type": 1,
+            "bundleID": "com.mwm.stems",
+            "bundleIdentifier": "com.mwm.stems",
+            "version": "5.06.01",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824185948",
+            "size": 317919502,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Stemz_5.06.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Stemz_5.06.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png"
+        },
+        {
             "name": "SimplySing",
             "type": 1,
             "bundleID": "com.joytunes.Sing",
