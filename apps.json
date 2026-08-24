@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "CollaNote",
+            "type": 1,
+            "bundleID": "net.quochuywdm.collanote496",
+            "bundleIdentifier": "net.quochuywdm.collanote496",
+            "version": "4.3.1",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824130655",
+            "size": 128213440,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/CollaNote_4.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/CollaNote_4.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png"
+        },
+        {
+            "name": "FlightTracker",
+            "type": 1,
+            "bundleID": "com.iaftt.flightplusfree",
+            "bundleIdentifier": "com.iaftt.flightplusfree",
+            "version": "8.7.21",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824130649",
+            "size": 97510245,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/FlightTracker_8.7.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/FlightTracker_8.7.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png"
+        },
+        {
             "name": "LUTStudio",
             "type": 1,
             "bundleID": "com.solveit.lut-studio",
