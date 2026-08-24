@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Caliber",
+            "type": 1,
+            "bundleID": "com.caliberfitness.app",
+            "bundleIdentifier": "com.caliberfitness.app",
+            "version": "5.16.0",
+            "versionDate": "2026-08-24",
+            "fullDate": "20260824215658",
+            "size": 53092615,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Caliber_5.16.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Caliber_5.16.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.caliberfitness.app.png"
+        },
+        {
             "name": "PUSH",
             "type": 1,
             "bundleID": "com.ADPTVLTD.push",
