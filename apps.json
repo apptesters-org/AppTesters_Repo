@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SODA",
+            "type": 1,
+            "bundleID": "com.snowcorp.soda",
+            "bundleIdentifier": "com.snowcorp.soda",
+            "version": "10.3.0",
+            "versionDate": "2026-08-26",
+            "fullDate": "20260826011121",
+            "size": 184726206,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SODA_10.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SODA_10.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png"
+        },
+        {
             "name": "BoldVoice",
             "type": 1,
             "bundleID": "com.wellocution.iosapp",
