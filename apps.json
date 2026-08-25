@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyFitnessPal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "26.34.0",
+            "versionDate": "2026-08-26",
+            "fullDate": "20260826013139",
+            "size": 212236165,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/MyFitnessPal_26.34.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/MyFitnessPal_26.34.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "SODA",
             "type": 1,
             "bundleID": "com.snowcorp.soda",
