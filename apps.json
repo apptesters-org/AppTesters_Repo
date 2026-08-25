@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Crsel",
+            "type": 1,
+            "bundleID": "com.frameoneapps.Crsel",
+            "bundleIdentifier": "com.frameoneapps.Crsel",
+            "version": "1.4.6",
+            "versionDate": "2026-08-25",
+            "fullDate": "20260825161640",
+            "size": 120024622,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Crsel_1.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Crsel_1.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
+        },
+        {
             "name": "Thenx",
             "type": 1,
             "bundleID": "com.calisthenics.thenx",
