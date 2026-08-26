@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tripsy",
+            "type": 1,
+            "bundleID": "app.tripsy.ios",
+            "bundleIdentifier": "app.tripsy.ios",
+            "version": "3.9.0",
+            "versionDate": "2026-08-26",
+            "fullDate": "20260826180540",
+            "size": 89225026,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Tripsy_3.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Tripsy_3.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+        },
+        {
             "name": "SimplyDraw",
             "type": 1,
             "bundleID": "com.joytunes.Draw",
