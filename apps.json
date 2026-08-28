@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Minutes",
+            "type": 1,
+            "bundleID": "ventures.slam.minutes",
+            "bundleIdentifier": "ventures.slam.minutes",
+            "version": "1.12.5",
+            "versionDate": "2026-08-28",
+            "fullDate": "20260828235258",
+            "size": 23079748,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Minutes_1.12.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Minutes_1.12.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+        },
+        {
             "name": "BoldVoice",
             "type": 1,
             "bundleID": "com.wellocution.iosapp",
