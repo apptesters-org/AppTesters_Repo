@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Infuse",
+            "type": 1,
+            "bundleID": "com.firecore.infuse",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "8.5.3",
+            "versionDate": "2026-08-28",
+            "fullDate": "20260828072505",
+            "size": 102469124,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Infuse_8.5.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Infuse_8.5.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png"
+        },
+        {
             "name": "ShutEye",
             "type": 1,
             "bundleID": "health.sleep.sounds.tracker.alarm.calm",
