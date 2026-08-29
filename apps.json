@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VideoLite",
+            "type": 1,
+            "bundleID": "com.videobrowser.ios",
+            "bundleIdentifier": "com.videobrowser.ios",
+            "version": "623500",
+            "versionDate": "2026-08-30",
+            "fullDate": "20260830000708",
+            "size": 43878251,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/VideoLite_623500_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/VideoLite_623500_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png"
+        },
+        {
             "name": "GentlerStreak",
             "type": 1,
             "bundleID": "app.gentler.activity",
