@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lyfta",
+            "type": 1,
+            "bundleID": "com.lyftaios",
+            "bundleIdentifier": "com.lyftaios",
+            "version": "1.158",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831035222",
+            "size": 58188923,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Lyfta_1.158_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Lyfta_1.158_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
+        },
+        {
             "name": "LUTStudio",
             "type": 1,
             "bundleID": "com.solveit.lut-studio",
