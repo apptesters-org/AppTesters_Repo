@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Elevate",
+            "type": 2,
+            "bundleID": "com.elevateapp.elevate",
+            "bundleIdentifier": "com.elevateapp.elevate",
+            "version": "5.255.0",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831225041",
+            "size": 428129370,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Elevate_5.255.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Elevate_5.255.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+        },
+        {
             "name": "Balance",
             "type": 1,
             "bundleID": "com.elevateapp.kamino.kamino",
