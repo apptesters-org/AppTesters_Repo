@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lightroom",
+            "type": 1,
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "11.5.20",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831125921",
+            "size": 219839742,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Lightroom_11.5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Lightroom_11.5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "Stay",
             "type": 1,
             "bundleID": "com.dajiu.stay.pro",
