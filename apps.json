@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TunerPro",
+            "type": 1,
+            "bundleID": "com.mwm.guitartuner",
+            "bundleIdentifier": "com.mwm.guitartuner",
+            "version": "4.01.04",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831153203",
+            "size": 297616373,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/TunerPro_4.01.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/TunerPro_4.01.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
