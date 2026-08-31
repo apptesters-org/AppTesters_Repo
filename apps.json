@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "HabitKit",
+            "type": 1,
+            "bundleID": "com.roehl.habitkit",
+            "bundleIdentifier": "com.roehl.habitkit",
+            "version": "1.17.1",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831135523",
+            "size": 98068503,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/HabitKit_1.17.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/HabitKit_1.17.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png"
+        },
+        {
+            "name": "BEAT",
+            "type": 1,
+            "bundleID": "reels-maker-one",
+            "bundleIdentifier": "reels-maker-one",
+            "version": "1.26.0",
+            "versionDate": "2026-08-31",
+            "fullDate": "20260831135516",
+            "size": 130757552,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/BEAT_1.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/BEAT_1.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png"
+        },
+        {
             "name": "Osmosis",
             "type": 1,
             "bundleID": "com.osmose-it.osmosis",
