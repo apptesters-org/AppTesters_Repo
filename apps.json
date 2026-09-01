@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Rest",
+            "type": 1,
+            "bundleID": "com.evolve.helm",
+            "bundleIdentifier": "com.evolve.helm",
+            "version": "3.200.0",
+            "versionDate": "2026-09-02",
+            "fullDate": "20260902041131",
+            "size": 80851158,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Rest_3.200.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Rest_3.200.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+        },
+        {
+            "name": "MediaConvert",
+            "type": 1,
+            "bundleID": "com.verycoolapp.mediaconvert",
+            "bundleIdentifier": "com.verycoolapp.mediaconvert",
+            "version": "4.15",
+            "versionDate": "2026-09-02",
+            "fullDate": "20260902041128",
+            "size": 64910527,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MediaConvert_4.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MediaConvert_4.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
