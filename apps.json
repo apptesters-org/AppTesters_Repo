@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnapCut",
+            "type": 1,
+            "bundleID": "com.mwm.moments",
+            "bundleIdentifier": "com.mwm.moments",
+            "version": "1.1.0",
+            "versionDate": "2026-09-03",
+            "fullDate": "20260903020321",
+            "size": 236995198,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SnapCut_1.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SnapCut_1.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png"
+        },
+        {
             "name": "LUTStudio",
             "type": 1,
             "bundleID": "com.solveit.lut-studio",
