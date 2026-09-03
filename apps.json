@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PUSH",
+            "type": 1,
+            "bundleID": "com.ADPTVLTD.push",
+            "bundleIdentifier": "com.ADPTVLTD.push",
+            "version": "4.0.1",
+            "versionDate": "2026-09-04",
+            "fullDate": "20260904002435",
+            "size": 77777865,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PUSH_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PUSH_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
+        },
+        {
             "name": "Endel",
             "type": 1,
             "bundleID": "com.endel.endel",
