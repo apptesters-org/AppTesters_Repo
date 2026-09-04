@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DaVinci",
+            "type": 1,
+            "bundleID": "com.hubx.imagination",
+            "bundleIdentifier": "com.hubx.imagination",
+            "version": "5.0.7",
+            "versionDate": "2026-09-04",
+            "fullDate": "20260904141406",
+            "size": 123303664,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/DaVinci_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/DaVinci_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png"
+        },
+        {
             "name": "OfflineMusic",
             "type": 1,
             "bundleID": "com.offlinemusic",
