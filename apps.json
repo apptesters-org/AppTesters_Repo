@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Elevate",
+            "type": 2,
+            "bundleID": "com.elevateapp.elevate",
+            "bundleIdentifier": "com.elevateapp.elevate",
+            "version": "5.256.0",
+            "versionDate": "2026-09-08",
+            "fullDate": "20260908023551",
+            "size": 149483963,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Elevate_5.256.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Elevate_5.256.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+        },
+        {
             "name": "FitnessAI",
             "type": 1,
             "bundleID": "com.jakemor.firness-ai",
