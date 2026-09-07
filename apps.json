@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "BoldVoice",
+            "type": 1,
+            "bundleID": "com.wellocution.iosapp",
+            "bundleIdentifier": "com.wellocution.iosapp",
+            "version": "4.4.0",
+            "versionDate": "2026-09-08",
+            "fullDate": "20260908002012",
+            "size": 119962508,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/BoldVoice_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/BoldVoice_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png"
+        },
+        {
             "name": "Lyfta",
             "type": 1,
             "bundleID": "com.lyftaios",
