@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lightroom",
+            "type": 1,
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "11.5.21",
+            "versionDate": "2026-09-07",
+            "fullDate": "20260907141118",
+            "size": 219798985,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/Lightroom_11.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/Lightroom_11.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "HabitKit",
             "type": 1,
             "bundleID": "com.roehl.habitkit",
