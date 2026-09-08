@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FilmicPro",
+            "type": 1,
+            "bundleID": "com.cinegenix.filmic.pro",
+            "bundleIdentifier": "com.cinegenix.filmic.pro",
+            "version": "7.5.35",
+            "versionDate": "2026-09-08",
+            "fullDate": "20260908210552",
+            "size": 147305157,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/FilmicPro_7.5.35_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/FilmicPro_7.5.35_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png"
+        },
+        {
             "name": "Caliber",
             "type": 1,
             "bundleID": "com.caliberfitness.app",
