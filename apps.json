@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "edjingMix",
+            "type": 1,
+            "bundleID": "com.edjing.edjingdjturntable",
+            "bundleIdentifier": "com.edjing.edjingdjturntable",
+            "version": "9.1.10",
+            "versionDate": "2026-09-08",
+            "fullDate": "20260908144346",
+            "size": 186525927,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/edjingMix_9.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/edjingMix_9.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
