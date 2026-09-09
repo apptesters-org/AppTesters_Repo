@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "NeoServer",
+            "type": 1,
+            "bundleID": "com.neo.NeoMan",
+            "bundleIdentifier": "com.neo.NeoMan",
+            "version": "8.4.3",
+            "versionDate": "2026-09-09",
+            "fullDate": "20260909053412",
+            "size": 31316946,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/NeoServer_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/NeoServer_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png"
+        },
+        {
             "name": "Animock",
             "type": 1,
             "bundleID": "com.hassantaleb.mockup",
