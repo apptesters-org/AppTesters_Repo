@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "B612",
+            "type": 1,
+            "bundleID": "com.linecorp.b612",
+            "bundleIdentifier": "com.linecorp.b612",
+            "version": "15.3.11",
+            "versionDate": "2026-09-10",
+            "fullDate": "20260910020016",
+            "size": 178231876,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/B612_15.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/B612_15.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png"
+        },
+        {
             "name": "InShot",
             "type": 1,
             "bundleID": "com.camerasideas.InstaShot",
