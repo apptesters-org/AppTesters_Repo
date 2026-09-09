@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Documents",
+            "type": 1,
+            "bundleID": "com.readdle.ReaddleDocsIPad",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "version": "8.22.2",
+            "versionDate": "2026-09-09",
+            "fullDate": "20260909141130",
+            "size": 278433518,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Documents_8.22.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Documents_8.22.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png"
+        },
+        {
             "name": "SleepCycle",
             "type": 1,
             "bundleID": "com.lexwarelabs.goodmorning",
