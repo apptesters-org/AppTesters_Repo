@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SimplySing",
+            "type": 1,
+            "bundleID": "com.joytunes.Sing",
+            "bundleIdentifier": "com.joytunes.Sing",
+            "version": "3.0.11",
+            "versionDate": "2026-09-10",
+            "fullDate": "20260910123732",
+            "size": 121430748,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/SimplySing_3.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/SimplySing_3.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
+        },
+        {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.10.92",
+            "versionDate": "2026-09-10",
+            "fullDate": "20260910123723",
+            "size": 158910455,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/SimplyPiano_9.10.92_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/SimplyPiano_9.10.92_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "Action",
             "type": 1,
             "bundleID": "com.future.kapi",
