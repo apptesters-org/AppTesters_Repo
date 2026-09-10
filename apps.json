@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "TranslateNow",
+            "type": 1,
+            "bundleID": "solutions.wzp.translator",
+            "bundleIdentifier": "solutions.wzp.translator",
+            "version": "2026.9.25",
+            "versionDate": "2026-09-11",
+            "fullDate": "20260911002018",
+            "size": 222149727,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/TranslateNow_2026.9.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/TranslateNow_2026.9.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png"
+        },
+        {
             "name": "BoldVoice",
             "type": 1,
             "bundleID": "com.wellocution.iosapp",
