@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Tripsy",
+            "type": 1,
+            "bundleID": "app.tripsy.ios",
+            "bundleIdentifier": "app.tripsy.ios",
+            "version": "3.9.4",
+            "versionDate": "2026-09-11",
+            "fullDate": "20260911201643",
+            "size": 89383855,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Tripsy_3.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Tripsy_3.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png"
+        },
+        {
             "name": "Mercury",
             "type": 1,
             "bundleID": "com.tripleglazedstudios.Weather",
