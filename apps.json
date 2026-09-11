@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "simpleweather",
+            "type": 1,
+            "bundleID": "com.andyworks.weather",
+            "bundleIdentifier": "com.andyworks.weather",
+            "version": "3.51",
+            "versionDate": "2026-09-12",
+            "fullDate": "20260912041949",
+            "size": 233505285,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/simpleweather_3.51_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/simpleweather_3.51_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png"
+        },
+        {
             "name": "BoxBox",
             "type": 1,
             "bundleID": "club.boxbox.widgets-ios",
