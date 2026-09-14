@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.22.4",
+            "versionDate": "2026-09-15",
+            "fullDate": "20260915033850",
+            "size": 55809195,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/UpNote_9.22.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/UpNote_9.22.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.629",
+            "versionDate": "2026-09-15",
+            "fullDate": "20260915033844",
+            "size": 129622864,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/RiseSleep_0.1.629_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/RiseSleep_0.1.629_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "BoxBox",
             "type": 1,
             "bundleID": "club.boxbox.widgets-ios",
