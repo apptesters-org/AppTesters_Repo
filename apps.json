@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Ketoapp",
+            "type": 1,
+            "bundleID": "com.lappir.keto",
+            "bundleIdentifier": "com.lappir.keto",
+            "version": "9.2.2",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914163617",
+            "size": 87846919,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Ketoapp_9.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Ketoapp_9.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lappir.keto.png"
+        },
+        {
             "name": "PREQUEL",
             "type": 1,
             "bundleID": "com.aiarlabs.prequel",
