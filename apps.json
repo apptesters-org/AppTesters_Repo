@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Widgetsmith",
+            "type": 1,
+            "bundleID": "com.crossforward.WidgetSmith",
+            "bundleIdentifier": "com.crossforward.WidgetSmith",
+            "version": "8.5",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914185215",
+            "size": 155863692,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Widgetsmith_8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Widgetsmith_8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png"
+        },
+        {
             "name": "Slopes",
             "type": 1,
             "bundleID": "com.consumedbycode.slopes",
