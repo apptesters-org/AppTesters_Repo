@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Thenx",
+            "type": 1,
+            "bundleID": "com.calisthenics.thenx",
+            "bundleIdentifier": "com.calisthenics.thenx",
+            "version": "6.7.8",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914123241",
+            "size": 150549794,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Thenx_6.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Thenx_6.7.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png"
+        },
+        {
             "name": "Sofa",
             "type": 1,
             "bundleID": "com.astrio.Sofa",
