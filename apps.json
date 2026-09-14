@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "KKPhoto",
+            "type": 1,
+            "bundleID": "tech.miidii.AlbumManager",
+            "bundleIdentifier": "tech.miidii.AlbumManager",
+            "version": "2.3",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914080635",
+            "size": 17673174,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/KKPhoto_2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/KKPhoto_2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with IAP",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png"
+        },
+        {
+            "name": "HappyScale",
+            "type": 1,
+            "bundleID": "com.frontpocketsoftware.happyscale",
+            "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+            "version": "2026.7",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914080632",
+            "size": 42087969,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/HappyScale_2026.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/HappyScale_2026.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png"
+        },
+        {
             "name": "MDClock",
             "type": 1,
             "bundleID": "tech.miidii.MDClock",
