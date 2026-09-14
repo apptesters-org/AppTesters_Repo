@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Pigment",
+            "type": 1,
+            "bundleID": "com.pixite.pigment",
+            "bundleIdentifier": "com.pixite.pigment",
+            "version": "3.15",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914192740",
+            "size": 160045505,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Pigment_3.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Pigment_3.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png"
+        },
+        {
+            "name": "Yazio",
+            "type": 1,
+            "bundleID": "com.yazio.ios.YAZIO",
+            "bundleIdentifier": "com.yazio.ios.YAZIO",
+            "version": "26.37.1",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914192733",
+            "size": 173169495,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Yazio_26.37.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Yazio_26.37.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png"
+        },
+        {
             "name": "Widgetsmith",
             "type": 1,
             "bundleID": "com.crossforward.WidgetSmith",
