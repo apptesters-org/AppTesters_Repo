@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lightroom",
+            "type": 1,
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "11.5.30",
+            "versionDate": "2026-09-15",
+            "fullDate": "20260915000215",
+            "size": 221493615,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Lightroom_11.5.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Lightroom_11.5.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "Infuse",
             "type": 1,
             "bundleID": "com.firecore.infuse",
