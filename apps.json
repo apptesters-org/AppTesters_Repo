@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Splice",
+            "type": 1,
+            "bundleID": "com.path36.SpliceFree",
+            "bundleIdentifier": "com.path36.SpliceFree",
+            "version": "4.28.69",
+            "versionDate": "2026-09-14",
+            "fullDate": "20260914134830",
+            "size": 107304513,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Splice_4.28.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Splice_4.28.69_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png"
+        },
+        {
             "name": "HabitKit",
             "type": 1,
             "bundleID": "com.roehl.habitkit",
