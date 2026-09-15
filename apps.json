@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FujiXWeekly",
+            "type": 1,
+            "bundleID": "com.fujixweekly.fujixweeklyrecipes",
+            "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+            "version": "1.16.1",
+            "versionDate": "2026-09-16",
+            "fullDate": "20260916025314",
+            "size": 22913912,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/FujiXWeekly_1.16.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/FujiXWeekly_1.16.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png"
+        },
+        {
             "name": "GentlerStreak",
             "type": 1,
             "bundleID": "app.gentler.activity",
