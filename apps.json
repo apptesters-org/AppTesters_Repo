@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calendars",
+            "type": 1,
+            "bundleID": "com.readdle.CalendarsLite",
+            "bundleIdentifier": "com.readdle.CalendarsLite",
+            "version": "5.39.2",
+            "versionDate": "2026-09-16",
+            "fullDate": "20260916040332",
+            "size": 313947436,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Calendars_5.39.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Calendars_5.39.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
+        },
+        {
             "name": "FujiXWeekly",
             "type": 1,
             "bundleID": "com.fujixweekly.fujixweeklyrecipes",
