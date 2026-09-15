@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.10.93",
+            "versionDate": "2026-09-15",
+            "fullDate": "20260915132719",
+            "size": 159027275,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/SimplyPiano_9.10.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/SimplyPiano_9.10.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "Moovit",
             "type": 1,
             "bundleID": "com.tranzmate.tranzmate1",
