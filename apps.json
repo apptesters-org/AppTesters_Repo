@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HiWidget",
+            "type": 1,
+            "bundleID": "com.zerone.hidesktop",
+            "bundleIdentifier": "com.zerone.hidesktop",
+            "version": "5.1.06",
+            "versionDate": "2026-09-16",
+            "fullDate": "20260916055921",
+            "size": 330531893,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/HiWidget_5.1.06_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/HiWidget_5.1.06_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+        },
+        {
             "name": "VDIT",
             "type": 1,
             "bundleID": "me.imgbase.videoday",
