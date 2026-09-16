@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LookUp",
+            "type": 1,
+            "bundleID": "in.muditbhargava.LookUp",
+            "bundleIdentifier": "in.muditbhargava.LookUp",
+            "version": "13.0.2",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917033229",
+            "size": 140536188,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/LookUp_13.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/LookUp_13.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png"
+        },
+        {
             "name": "Detail",
             "type": 1,
             "bundleID": "co.detail.duo",
