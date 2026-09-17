@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "ProCCD",
+            "type": 1,
+            "bundleID": "com.yengshine.proccd",
+            "bundleIdentifier": "com.yengshine.proccd",
+            "version": "6.8",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917151646",
+            "size": 290745206,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/ProCCD_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/ProCCD_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+        },
+        {
+            "name": "SNOW",
+            "type": 1,
+            "bundleID": "com.campmobile.snow",
+            "bundleIdentifier": "com.campmobile.snow",
+            "version": "15.4.0",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917151637",
+            "size": 175743035,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/SNOW_15.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/SNOW_15.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png"
+        },
+        {
             "name": "edjingMix",
             "type": 1,
             "bundleID": "com.edjing.edjingdjturntable",
