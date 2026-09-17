@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PixelColor",
+            "type": 1,
+            "bundleID": "com.djitlabs.pixelcolor",
+            "bundleIdentifier": "com.djitlabs.pixelcolor",
+            "version": "6.02.00",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917210429",
+            "size": 54666442,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PixelColor_6.02.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PixelColor_6.02.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png"
+        },
+        {
             "name": "Documents",
             "type": 1,
             "bundleID": "com.readdle.ReaddleDocsIPad",
