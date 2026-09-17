@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitnessOnline",
+            "type": 1,
+            "bundleID": "com.aiti.FitnessOnline",
+            "bundleIdentifier": "com.aiti.FitnessOnline",
+            "version": "1.28.0",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917083356",
+            "size": 134595079,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/FitnessOnline_1.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/FitnessOnline_1.28.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
+        },
+        {
             "name": "CollaNote",
             "type": 1,
             "bundleID": "net.quochuywdm.collanote496",
