@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PREQUEL",
+            "type": 1,
+            "bundleID": "com.aiarlabs.prequel",
+            "bundleIdentifier": "com.aiarlabs.prequel",
+            "version": "2.100.1",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917161244",
+            "size": 253167155,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PREQUEL_2.100.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PREQUEL_2.100.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+        },
+        {
             "name": "MediaConvert",
             "type": 1,
             "bundleID": "com.verycoolapp.mediaconvert",
