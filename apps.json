@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "NoFusion",
+            "type": 1,
+            "bundleID": "com.grey.swiftcamera",
+            "bundleIdentifier": "com.grey.swiftcamera",
+            "version": "2.5.58",
+            "versionDate": "2026-09-17",
+            "fullDate": "20260917073828",
+            "size": 128114642,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/NoFusion_2.5.58_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/NoFusion_2.5.58_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png"
+        },
+        {
             "name": "Bazaart",
             "type": 1,
             "bundleID": "co.bazaart.app",
