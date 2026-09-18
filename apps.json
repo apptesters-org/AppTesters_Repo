@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DynamicLyrics",
+            "type": 1,
+            "bundleID": "com.bing.lyrics",
+            "bundleIdentifier": "com.bing.lyrics",
+            "version": "2.0.5",
+            "versionDate": "2026-09-18",
+            "fullDate": "20260918054048",
+            "size": 29323404,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/DynamicLyrics_2.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/DynamicLyrics_2.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png"
+        },
+        {
             "name": "Shapeyard",
             "type": 1,
             "bundleID": "app.chudo",
