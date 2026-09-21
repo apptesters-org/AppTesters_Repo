@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "16.12.2",
+            "versionDate": "2026-09-22",
+            "fullDate": "20260922002753",
+            "size": 262794715,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Notability_16.12.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Notability_16.12.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
             "name": "SimplyDraw",
             "type": 1,
             "bundleID": "com.joytunes.Draw",
