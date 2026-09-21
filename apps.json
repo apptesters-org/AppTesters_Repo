@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Weather",
+            "type": 1,
+            "bundleID": "com.apalonapps.wlf",
+            "bundleIdentifier": "com.apalonapps.wlf",
+            "version": "4.18.21",
+            "versionDate": "2026-09-21",
+            "fullDate": "20260921135250",
+            "size": 101638270,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Weather_4.18.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Weather_4.18.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png"
+        },
+        {
             "name": "Mimo",
             "type": 1,
             "bundleID": "com.getmimo.mimo",
