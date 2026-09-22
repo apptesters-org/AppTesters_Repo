@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Cleanup",
+            "type": 1,
+            "bundleID": "com.codeway.cleanerplus",
+            "bundleIdentifier": "com.codeway.cleanerplus",
+            "version": "6.22.0",
+            "versionDate": "2026-09-22",
+            "fullDate": "20260922175530",
+            "size": 89328864,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Cleanup_6.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Cleanup_6.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png"
+        },
+        {
             "name": "SnoreLab",
             "type": 1,
             "bundleID": "com.revivasoftworks.Snore-Lab",
