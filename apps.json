@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Picsew",
+            "type": 1,
+            "bundleID": "com.sugarmo.ScrollClip",
+            "bundleIdentifier": "com.sugarmo.ScrollClip",
+            "version": "3.19.1",
+            "versionDate": "2026-09-22",
+            "fullDate": "20260922212237",
+            "size": 51461940,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Picsew_3.19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Picsew_3.19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png"
+        },
+        {
             "name": "Labbet",
             "type": 1,
             "bundleID": "app.labbet.labbet",
