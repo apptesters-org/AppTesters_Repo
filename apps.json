@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SkyGuide",
+            "type": 1,
+            "bundleID": "com.fifthstarlabs.skyguide",
+            "bundleIdentifier": "com.fifthstarlabs.skyguide",
+            "version": "13.0.2",
+            "versionDate": "2026-09-23",
+            "fullDate": "20260923225508",
+            "size": 309080974,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/SkyGuide_13.0.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/SkyGuide_13.0.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Plus",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png"
+        },
+        {
             "name": "Lifesum",
             "type": 1,
             "bundleID": "com.sillens.iShape",
