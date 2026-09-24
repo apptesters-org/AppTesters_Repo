@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pillow",
+            "type": 1,
+            "bundleID": "com.neybox.Pillow",
+            "bundleIdentifier": "com.neybox.Pillow",
+            "version": "6.6",
+            "versionDate": "2026-09-25",
+            "fullDate": "20260925001420",
+            "size": 576602400,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Pillow_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Pillow_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png"
+        },
+        {
             "name": "Mockview",
             "type": 1,
             "bundleID": "com.kavsoft.MockviewApp",
