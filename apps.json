@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PSExpress",
+            "type": 1,
+            "bundleID": "com.adobe.PSMobile",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "26.37.0",
+            "versionDate": "2026-09-24",
+            "fullDate": "20260924144640",
+            "size": 176150203,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/PSExpress_26.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/PSExpress_26.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png"
+        },
+        {
             "name": "GOWOD",
             "type": 1,
             "bundleID": "eu.gowod",
