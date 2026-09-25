@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Encode",
+            "type": 1,
+            "bundleID": "com.upskew.encode.ios",
+            "bundleIdentifier": "com.upskew.encode.ios",
+            "version": "6.23.0",
+            "versionDate": "2026-09-26",
+            "fullDate": "20260926002622",
+            "size": 46546668,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Encode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Encode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png"
+        },
+        {
+            "name": "BoldVoice",
+            "type": 1,
+            "bundleID": "com.wellocution.iosapp",
+            "bundleIdentifier": "com.wellocution.iosapp",
+            "version": "4.4.6",
+            "versionDate": "2026-09-26",
+            "fullDate": "20260926002614",
+            "size": 122871499,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/BoldVoice_4.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/BoldVoice_4.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png"
+        },
+        {
             "name": "Dictionary",
             "type": 1,
             "bundleID": "com.mobisystems.OxfordDictionaryOfEnglishFree",
