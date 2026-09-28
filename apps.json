@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Swiftgram",
+            "type": 1,
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "12.9.3",
+            "versionDate": "2026-09-28",
+            "fullDate": "20260928223324",
+            "size": 84601423,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Swiftgram_12.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Swiftgram_12.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "2.66.1",
+            "versionDate": "2026-09-28",
+            "fullDate": "20260928223319",
+            "size": 94796280,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Locket_2.66.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Locket_2.66.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "Elevate",
             "type": 2,
             "bundleID": "com.elevateapp.elevate",
