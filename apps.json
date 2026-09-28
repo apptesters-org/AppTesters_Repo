@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Elevate",
+            "type": 2,
+            "bundleID": "com.elevateapp.elevate",
+            "bundleIdentifier": "com.elevateapp.elevate",
+            "version": "5.259.0",
+            "versionDate": "2026-09-28",
+            "fullDate": "20260928214241",
+            "size": 433454276,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Elevate_5.259.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Elevate_5.259.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png"
+        },
+        {
             "name": "edjingMix",
             "type": 1,
             "bundleID": "com.edjing.edjingdjturntable",
