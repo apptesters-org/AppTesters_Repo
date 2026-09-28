@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Buddy",
+            "type": 1,
+            "bundleID": "com.iPwners.Plonkan",
+            "bundleIdentifier": "com.iPwners.Plonkan",
+            "version": "13.47",
+            "versionDate": "2026-09-29",
+            "fullDate": "20260929013025",
+            "size": 116421496,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Buddy_13.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Buddy_13.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png"
+        },
+        {
+            "name": "ProCCD",
+            "type": 1,
+            "bundleID": "com.yengshine.proccd",
+            "bundleIdentifier": "com.yengshine.proccd",
+            "version": "6.8.3",
+            "versionDate": "2026-09-29",
+            "fullDate": "20260929012956",
+            "size": 290747696,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ProCCD_6.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ProCCD_6.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+        },
+        {
             "name": "superagent",
             "type": 1,
             "bundleID": "com.agent.super.extension.safari",
