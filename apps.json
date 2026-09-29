@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Uplens",
+            "type": 1,
+            "bundleID": "app.uplens",
+            "bundleIdentifier": "app.uplens",
+            "version": "4.3.1",
+            "versionDate": "2026-09-29",
+            "fullDate": "20260929174141",
+            "size": 178022338,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Uplens_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Uplens_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png"
+        },
+        {
+            "name": "Luminar",
+            "type": 1,
+            "bundleID": "com.skylum.luminaripad",
+            "bundleIdentifier": "com.skylum.luminaripad",
+            "version": "4.4.2",
+            "versionDate": "2026-09-29",
+            "fullDate": "20260929173607",
+            "size": 557419267,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Luminar_4.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Luminar_4.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png"
+        },
+        {
             "name": "PREQUEL",
             "type": 1,
             "bundleID": "com.aiarlabs.prequel",
