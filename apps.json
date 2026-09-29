@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Dehancer",
+            "type": 1,
+            "bundleID": "com.dehancer.film.ios-app",
+            "bundleIdentifier": "com.dehancer.film.ios-app",
+            "version": "7.1",
+            "versionDate": "2026-09-29",
+            "fullDate": "20260929221309",
+            "size": 198031719,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Dehancer_7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Dehancer_7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png"
+        },
+        {
             "name": "Athlytic",
             "type": 1,
             "bundleID": "myndarc.newFitnessApp",
