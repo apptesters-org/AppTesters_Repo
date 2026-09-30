@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SleepCycle",
+            "type": 1,
+            "bundleID": "com.lexwarelabs.goodmorning",
+            "bundleIdentifier": "com.lexwarelabs.goodmorning",
+            "version": "6.26.390",
+            "versionDate": "2026-10-01",
+            "fullDate": "20261001030758",
+            "size": 202916813,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SleepCycle_6.26.390_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SleepCycle_6.26.390_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png"
+        },
+        {
+            "name": "HeavyBagPro",
+            "type": 1,
+            "bundleID": "com.opentechiz.heavybagpro",
+            "bundleIdentifier": "com.opentechiz.heavybagpro",
+            "version": "2.6.3",
+            "versionDate": "2026-10-01",
+            "fullDate": "20261001030250",
+            "size": 29715040,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/HeavyBagPro_2.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/HeavyBagPro_2.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png"
+        },
+        {
             "name": "FitnessAI",
             "type": 1,
             "bundleID": "com.jakemor.firness-ai",
