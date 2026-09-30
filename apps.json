@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.23.6",
+            "versionDate": "2026-09-30",
+            "fullDate": "20260930150834",
+            "size": 118272771,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/ThePiano_2.23.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/ThePiano_2.23.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
             "name": "ColorPop",
             "type": 1,
             "bundleID": "com.mwm.procolor",
