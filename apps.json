@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Crsel",
+            "type": 1,
+            "bundleID": "com.frameoneapps.Crsel",
+            "bundleIdentifier": "com.frameoneapps.Crsel",
+            "version": "1.5.5",
+            "versionDate": "2026-09-30",
+            "fullDate": "20260930131719",
+            "size": 148239409,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/Crsel_1.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/Crsel_1.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
+        },
+        {
             "name": "DiamondFinder",
             "type": 1,
             "bundleID": "com.mcdiamondfinder.app",
