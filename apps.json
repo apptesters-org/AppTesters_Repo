@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calendars",
+            "type": 1,
+            "bundleID": "com.readdle.CalendarsLite",
+            "bundleIdentifier": "com.readdle.CalendarsLite",
+            "version": "5.39.4",
+            "versionDate": "2026-10-01",
+            "fullDate": "20261001231847",
+            "size": 316631836,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/Calendars_5.39.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/Calendars_5.39.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
+        },
+        {
             "name": "SkyGuide",
             "type": 1,
             "bundleID": "com.fifthstarlabs.skyguide",
