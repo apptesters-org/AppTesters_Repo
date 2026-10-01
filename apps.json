@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "UpNote",
+            "type": 1,
+            "bundleID": "com.getupnote.ios",
+            "bundleIdentifier": "com.getupnote.ios",
+            "version": "9.22.7",
+            "versionDate": "2026-10-02",
+            "fullDate": "20261002005959",
+            "size": 55507640,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/UpNote_9.22.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/UpNote_9.22.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png"
+        },
+        {
             "name": "InShot",
             "type": 1,
             "bundleID": "com.camerasideas.InstaShot",
