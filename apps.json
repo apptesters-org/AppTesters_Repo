@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "13.37.0",
+            "versionDate": "2026-10-03",
+            "fullDate": "20261003035820",
+            "size": 121844625,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Captions_13.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Captions_13.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
