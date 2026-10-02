@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.57.2",
+            "versionDate": "2026-10-02",
+            "fullDate": "20261002123839",
+            "size": 85218019,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/SCRL_9.57.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/SCRL_9.57.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "Pillow",
             "type": 1,
             "bundleID": "com.neybox.Pillow",
