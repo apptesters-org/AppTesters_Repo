@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CodeSnackIDE",
+            "type": 1,
+            "bundleID": "com.cloud-compiler",
+            "bundleIdentifier": "com.cloud-compiler",
+            "version": "6.4.0",
+            "versionDate": "2026-10-06",
+            "fullDate": "20261006025241",
+            "size": 22200104,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/CodeSnackIDE_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/CodeSnackIDE_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
