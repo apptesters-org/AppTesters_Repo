@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Athlytic",
+            "type": 1,
+            "bundleID": "myndarc.newFitnessApp",
+            "bundleIdentifier": "myndarc.newFitnessApp",
+            "version": "27.0.4",
+            "versionDate": "2026-10-06",
+            "fullDate": "20261006214735",
+            "size": 44399875,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Athlytic_27.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Athlytic_27.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
