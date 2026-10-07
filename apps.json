@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "duet",
+            "type": 1,
+            "bundleID": "com.kairos.duet",
+            "bundleIdentifier": "com.kairos.duet",
+            "version": "3.2.1",
+            "versionDate": "2026-10-07",
+            "fullDate": "20261007190854",
+            "size": 41772181,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/duet_3.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/duet_3.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png"
+        },
+        {
             "name": "Facelab",
             "type": 1,
             "bundleID": "com.lyrebirdstudio.facelab",
