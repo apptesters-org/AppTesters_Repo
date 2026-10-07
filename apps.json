@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Captions",
+            "type": 1,
+            "bundleID": "boomer.Smart-Video",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "13.38.0",
+            "versionDate": "2026-10-07",
+            "fullDate": "20261007200921",
+            "size": 121641812,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Captions_13.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Captions_13.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png"
+        },
+        {
             "name": "Moonly",
             "type": 1,
             "bundleID": "com.moonly.Moonly",
