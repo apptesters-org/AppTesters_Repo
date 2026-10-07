@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Splice",
+            "type": 1,
+            "bundleID": "com.path36.SpliceFree",
+            "bundleIdentifier": "com.path36.SpliceFree",
+            "version": "4.28.71",
+            "versionDate": "2026-10-07",
+            "fullDate": "20261007055955",
+            "size": 107410721,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Splice_4.28.71_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Splice_4.28.71_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png"
+        },
+        {
             "name": "Fonts",
             "type": 1,
             "bundleID": "fontskeyboard.fonts",
