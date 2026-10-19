@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VDIT",
+            "type": 1,
+            "bundleID": "me.imgbase.videoday",
+            "bundleIdentifier": "me.imgbase.videoday",
+            "version": "4.3.1",
+            "versionDate": "2026-10-19",
+            "fullDate": "20261019172851",
+            "size": 223535643,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
+        },
+        {
             "name": "foriOS",
             "type": 1,
             "bundleID": "com.tapinfinity.HdjcXcode7",
@@ -26,22 +42,6 @@
             "localizedDescription": "Injected with Pro",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png"
-        },
-        {
-            "name": "VDIT",
-            "type": 1,
-            "bundleID": "me.imgbase.videoday",
-            "bundleIdentifier": "me.imgbase.videoday",
-            "version": "4.3.1",
-            "versionDate": "2026-10-19",
-            "fullDate": "20261019165613",
-            "size": 223535643,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/VDIT_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Subscription Unlocked",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png"
         },
         {
             "name": "VDIT",
