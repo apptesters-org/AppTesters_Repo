@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Textastic",
+            "type": 1,
+            "bundleID": "com.textasticapp.textastic-universal",
+            "bundleIdentifier": "com.textasticapp.textastic-universal",
+            "version": "10.9.10",
+            "versionDate": "2026-10-22",
+            "fullDate": "20261022042832",
+            "size": 15889495,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Textastic_10.9.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Textastic_10.9.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.textasticapp.textastic-universal.png"
+        },
+        {
             "name": "Hevy",
             "type": 1,
             "bundleID": "com.hevyapp.hevy",
