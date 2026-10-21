@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "simpletimer",
+            "type": 1,
+            "bundleID": "com.andyworks.timer",
+            "bundleIdentifier": "com.andyworks.timer",
+            "version": "3.22",
+            "versionDate": "2026-10-22",
+            "fullDate": "20261022014650",
+            "size": 187911332,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/simpletimer_3.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/simpletimer_3.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png"
+        },
+        {
             "name": "andyworkscalculator",
             "type": 1,
             "bundleID": "com.andyworks.calculator",
