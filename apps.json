@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerPro",
+            "type": 1,
+            "bundleID": "com.readdle.Scanner",
+            "bundleIdentifier": "com.readdle.Scanner",
+            "version": "9.0.3",
+            "versionDate": "2026-10-23",
+            "fullDate": "20261023190031",
+            "size": 203363334,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/ScannerPro_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/ScannerPro_9.0.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png"
+        },
+        {
             "name": "Phocus",
             "type": 1,
             "bundleID": "com.ahmetserdarkaradeniz.Phocus",
