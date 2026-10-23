@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ScannerAir",
+            "type": 1,
+            "bundleID": "co.airapps.scannerapp",
+            "bundleIdentifier": "co.airapps.scannerapp",
+            "version": "2026.10.11",
+            "versionDate": "2026-10-24",
+            "fullDate": "20261024004923",
+            "size": 145074456,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/ScannerAir_2026.10.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/ScannerAir_2026.10.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+        },
+        {
             "name": "Captions",
             "type": 1,
             "bundleID": "boomer.Smart-Video",
