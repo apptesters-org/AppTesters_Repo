@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Pillow",
+            "type": 1,
+            "bundleID": "com.neybox.Pillow",
+            "bundleIdentifier": "com.neybox.Pillow",
+            "version": "6.7.1",
+            "versionDate": "2026-10-24",
+            "fullDate": "20261024223658",
+            "size": 576804160,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png"
+        },
+        {
             "name": "DtdSounds",
             "type": 1,
             "bundleID": "com.dtd.aroundu",
