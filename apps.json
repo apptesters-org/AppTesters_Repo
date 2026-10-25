@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "FitnessOnline",
+            "type": 1,
+            "bundleID": "com.aiti.FitnessOnline",
+            "bundleIdentifier": "com.aiti.FitnessOnline",
+            "version": "1.31.0",
+            "versionDate": "2026-10-25",
+            "fullDate": "20261025104458",
+            "size": 134898786,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/FitnessOnline_1.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/FitnessOnline_1.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png"
+        },
+        {
             "name": "fGet",
             "type": 1,
             "bundleID": "com.penguinbit.fastdownload",
