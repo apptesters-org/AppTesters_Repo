@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Bazaart",
+            "type": 1,
+            "bundleID": "co.bazaart.app",
+            "bundleIdentifier": "co.bazaart.app",
+            "version": "27.0.6",
+            "versionDate": "2026-10-25",
+            "fullDate": "20261025140845",
+            "size": 122010545,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Bazaart_27.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
