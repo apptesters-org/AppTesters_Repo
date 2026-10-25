@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "NFCTools",
+            "type": 1,
+            "bundleID": "com.wakdev.wdnfc",
+            "bundleIdentifier": "com.wakdev.wdnfc",
+            "version": "3.5",
+            "versionDate": "2026-10-26",
+            "fullDate": "20261026032732",
+            "size": 7359780,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png"
+        },
+        {
             "name": "SleepCycle",
             "type": 1,
             "bundleID": "com.lexwarelabs.goodmorning",
