@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Duolingo",
+            "type": 1,
+            "bundleID": "com.duolingo.DuolingoMobile",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.146.0",
+            "versionDate": "2026-10-26",
+            "fullDate": "20261026234806",
+            "size": 212566465,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Duolingo_7.146.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Duolingo_7.146.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png"
+        },
+        {
             "name": "MDClock",
             "type": 1,
             "bundleID": "tech.miidii.MDClock",
