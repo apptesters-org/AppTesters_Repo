@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PREQUEL",
+            "type": 1,
+            "bundleID": "com.aiarlabs.prequel",
+            "bundleIdentifier": "com.aiarlabs.prequel",
+            "version": "2.103.0",
+            "versionDate": "2026-10-26",
+            "fullDate": "20261026163134",
+            "size": 257840677,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/PREQUEL_2.103.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/PREQUEL_2.103.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png"
+        },
+        {
             "name": "ism",
             "type": 1,
             "bundleID": "com.ahaf.mshion",
