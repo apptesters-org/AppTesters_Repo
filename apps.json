@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ism",
+            "type": 1,
+            "bundleID": "com.ahaf.mshion",
+            "bundleIdentifier": "com.ahaf.mshion",
+            "version": "7.51.1",
+            "versionDate": "2026-10-26",
+            "fullDate": "20261026160438",
+            "size": 144131980,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/ism_7.51.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/ism_7.51.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png"
+        },
+        {
             "name": "Lightroom",
             "type": 1,
             "bundleID": "com.adobe.lrmobilephone",
