@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Crsel",
+            "type": 1,
+            "bundleID": "com.frameoneapps.Crsel",
+            "bundleIdentifier": "com.frameoneapps.Crsel",
+            "version": "1.6.1",
+            "versionDate": "2026-10-27",
+            "fullDate": "20261027002412",
+            "size": 168912104,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Crsel_1.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Crsel_1.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png"
+        },
+        {
             "name": "Calm",
             "type": 1,
             "bundleID": "com.calm.calmapp",
