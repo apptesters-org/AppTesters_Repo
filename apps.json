@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Cleanup",
+            "type": 1,
+            "bundleID": "com.codeway.cleanerplus",
+            "bundleIdentifier": "com.codeway.cleanerplus",
+            "version": "6.25.1",
+            "versionDate": "2026-10-27",
+            "fullDate": "20261027151733",
+            "size": 85004770,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png"
+        },
+        {
             "name": "Yazio",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
