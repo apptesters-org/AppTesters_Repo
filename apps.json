@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "462.0.0",
+            "versionDate": "2026-10-29",
+            "fullDate": "20261029035045",
+            "size": 208892996,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/VSCO_462.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/VSCO_462.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "Hevy",
             "type": 1,
             "bundleID": "com.hevyapp.hevy",
