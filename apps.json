@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "",
+            "type": 1,
+            "bundleID": "tech.miidii.MDBlank",
+            "bundleIdentifier": "tech.miidii.MDBlank",
+            "version": "4.3.5",
+            "versionDate": "2026-10-28",
+            "fullDate": "20261028065325",
+            "size": 245269962,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png"
+        },
+        {
             "name": "AIRetouch",
             "type": 1,
             "bundleID": "com.picretouch.photoeditor",
