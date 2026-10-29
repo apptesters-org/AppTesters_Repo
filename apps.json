@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "InCollage",
+            "type": 1,
+            "bundleID": "PhotoEditor.PhotoCollage.inCollage",
+            "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
+            "version": "2.2.81",
+            "versionDate": "2026-10-30",
+            "fullDate": "20261030012623",
+            "size": 102910743,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/InCollage_2.2.81_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/InCollage_2.2.81_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png"
+        },
+        {
             "name": "Endel",
             "type": 1,
             "bundleID": "com.endel.endel",
