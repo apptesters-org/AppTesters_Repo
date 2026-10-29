@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Origami",
+            "type": 1,
+            "bundleID": "com.oribot.origami",
+            "bundleIdentifier": "com.oribot.origami",
+            "version": "5.1",
+            "versionDate": "2026-10-29",
+            "fullDate": "20261029161032",
+            "size": 203905344,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Origami_5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Origami_5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png"
+        },
+        {
             "name": "X",
             "type": 1,
             "bundleID": "com.atebits.Tweetie2",
