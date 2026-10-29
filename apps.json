@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "X",
+            "type": 1,
+            "bundleID": "com.atebits.Tweetie2",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "12.38.1",
+            "versionDate": "2026-10-29",
+            "fullDate": "20261029152151",
+            "size": 273143491,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/X_12.38.1_NeoFreeBird_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/X_12.38.1_NeoFreeBird_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with NeoFreeBird",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png"
+        },
+        {
             "name": "iLovePDF",
             "type": 1,
             "bundleID": "com.ilovepdf.www",
