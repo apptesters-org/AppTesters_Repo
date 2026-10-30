@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Wallcraft",
+            "type": 1,
+            "bundleID": "com.wallpaperscraft.wallpapers",
+            "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+            "version": "3.43",
+            "versionDate": "2026-10-30",
+            "fullDate": "20261030120032",
+            "size": 129650639,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/Wallcraft_3.43_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/Wallcraft_3.43_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png"
+        },
+        {
             "name": "CollaNote",
             "type": 1,
             "bundleID": "net.quochuywdm.collanote496",
