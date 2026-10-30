@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.26.0",
+            "versionDate": "2026-10-30",
+            "fullDate": "20261030135749",
+            "size": 127448806,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/ThePiano_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/ThePiano_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
             "name": "Wallcraft",
             "type": 1,
             "bundleID": "com.wallpaperscraft.wallpapers",
