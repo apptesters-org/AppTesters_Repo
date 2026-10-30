@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ProCCD",
+            "type": 1,
+            "bundleID": "com.yengshine.proccd",
+            "bundleIdentifier": "com.yengshine.proccd",
+            "version": "7.0.0",
+            "versionDate": "2026-10-31",
+            "fullDate": "20261031015113",
+            "size": 242031361,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/ProCCD_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/ProCCD_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+        },
+        {
             "name": "GrowMe",
             "type": 1,
             "bundleID": "com.book.summaries.reading",
