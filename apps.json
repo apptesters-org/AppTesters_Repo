@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calendars",
+            "type": 1,
+            "bundleID": "com.readdle.CalendarsLite",
+            "bundleIdentifier": "com.readdle.CalendarsLite",
+            "version": "5.41.2",
+            "versionDate": "2026-10-31",
+            "fullDate": "20261031045942",
+            "size": 320410155,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Calendars_5.41.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Calendars_5.41.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png"
+        },
+        {
             "name": "Lampa",
             "type": 1,
             "bundleID": "com.lampa.photo",
