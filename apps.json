@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "2.70.1",
+            "versionDate": "2026-10-31",
+            "fullDate": "20261031215926",
+            "size": 96225637,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Locket_2.70.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Locket_2.70.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "Uplens",
             "type": 1,
             "bundleID": "app.uplens",
