@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "iScreen",
+            "type": 1,
+            "bundleID": "com.zerone.hidesktop",
+            "bundleIdentifier": "com.zerone.hidesktop",
+            "version": "5.1.25",
+            "versionDate": "2026-11-01",
+            "fullDate": "20261101205636",
+            "size": 347842459,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png"
+        },
+        {
             "name": "KineMaster",
             "type": 1,
             "bundleID": "com.kinemaster.kios",
