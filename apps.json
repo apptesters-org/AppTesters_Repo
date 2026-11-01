@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "JSCodePad",
+            "type": 1,
+            "bundleID": "com.markodevcic.js-code-pad",
+            "bundleIdentifier": "com.markodevcic.js-code-pad",
+            "version": "1.10.0",
+            "versionDate": "2026-11-01",
+            "fullDate": "20261101093319",
+            "size": 62594835,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/JSCodePad_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/JSCodePad_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png"
+        },
+        {
             "name": "Yazio",
             "type": 1,
             "bundleID": "com.yazio.ios.YAZIO",
