@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LINECamera",
+            "type": 1,
+            "bundleID": "jp.naver.linecamera",
+            "bundleIdentifier": "jp.naver.linecamera",
+            "version": "18.6.5",
+            "versionDate": "2026-11-02",
+            "fullDate": "20261102221431",
+            "size": 189407748,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/LINECamera_18.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/LINECamera_18.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png"
+        },
+        {
             "name": "Moonly",
             "type": 1,
             "bundleID": "com.moonly.Moonly",
