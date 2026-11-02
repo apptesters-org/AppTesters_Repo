@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "fGet",
+            "type": 1,
+            "bundleID": "com.penguinbit.fastdownload",
+            "bundleIdentifier": "com.penguinbit.fastdownload",
+            "version": "1.7.3",
+            "versionDate": "2026-11-03",
+            "fullDate": "20261103012008",
+            "size": 19838264,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
