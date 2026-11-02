@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Moovit",
+            "type": 1,
+            "bundleID": "com.tranzmate.tranzmate1",
+            "bundleIdentifier": "com.tranzmate.tranzmate1",
+            "version": "5.202.3",
+            "versionDate": "2026-11-02",
+            "fullDate": "20261102133435",
+            "size": 151085458,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moovit_5.202.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moovit_5.202.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png"
+        },
+        {
             "name": "Stndrd",
             "type": 1,
             "bundleID": "uni.cbum",
