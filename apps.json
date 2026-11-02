@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stndrd",
+            "type": 1,
+            "bundleID": "uni.cbum",
+            "bundleIdentifier": "uni.cbum",
+            "version": "4.1.63",
+            "versionDate": "2026-11-02",
+            "fullDate": "20261102132817",
+            "size": 148202630,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Stndrd_4.1.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Stndrd_4.1.63_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.intsig.CamScannerLite",
