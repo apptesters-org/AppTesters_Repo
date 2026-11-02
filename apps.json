@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Yazio",
+            "type": 1,
+            "bundleID": "com.yazio.ios.YAZIO",
+            "bundleIdentifier": "com.yazio.ios.YAZIO",
+            "version": "26.44.1",
+            "versionDate": "2026-11-02",
+            "fullDate": "20261102203724",
+            "size": 214437762,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Yazio_26.44.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Yazio_26.44.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png"
+        },
+        {
             "name": "Widgetsmith",
             "type": 1,
             "bundleID": "com.crossforward.WidgetSmith",
