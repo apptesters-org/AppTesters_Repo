@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "edjingMix",
+            "type": 1,
+            "bundleID": "com.edjing.edjingdjturntable",
+            "bundleIdentifier": "com.edjing.edjingdjturntable",
+            "version": "9.4.2",
+            "versionDate": "2026-11-03",
+            "fullDate": "20261103170641",
+            "size": 215212264,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/edjingMix_9.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+        },
+        {
             "name": "SnoreLab",
             "type": 1,
             "bundleID": "com.revivasoftworks.Snore-Lab",
