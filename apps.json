@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Notability",
+            "type": 1,
+            "bundleID": "com.gingerlabs.Notability",
+            "bundleIdentifier": "com.gingerlabs.Notability",
+            "version": "16.13.4",
+            "versionDate": "2026-11-04",
+            "fullDate": "20261104010631",
+            "size": 298638014,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Notability_16.13.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Notability_16.13.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png"
+        },
+        {
             "name": "Caliber",
             "type": 1,
             "bundleID": "com.caliberfitness.app",
