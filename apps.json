@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.26.1",
+            "versionDate": "2026-11-04",
+            "fullDate": "20261104161517",
+            "size": 127584318,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/ThePiano_2.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/ThePiano_2.26.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
             "name": "ImgAI",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
