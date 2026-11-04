@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "KineMaster",
+            "type": 1,
+            "bundleID": "com.kinemaster.kios",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "8.2.8",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105015906",
+            "size": 157436937,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png"
+        },
+        {
             "name": "TORVPN",
             "type": 1,
             "bundleID": "com.youssef.developer.Full-Browser",
