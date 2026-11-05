@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "HeavyBagPro",
+            "type": 1,
+            "bundleID": "com.opentechiz.heavybagpro",
+            "bundleIdentifier": "com.opentechiz.heavybagpro",
+            "version": "2.6.5",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105105619",
+            "size": 29742592,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/HeavyBagPro_2.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/HeavyBagPro_2.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png"
+        },
+        {
             "name": "SimplyPiano",
             "type": 1,
             "bundleID": "com.joytunes.asla",
