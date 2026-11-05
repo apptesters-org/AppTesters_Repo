@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.26.2",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105164735",
+            "size": 147948127,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/ThePiano_2.26.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/ThePiano_2.26.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
             "name": "PREQUEL",
             "type": 1,
             "bundleID": "com.aiarlabs.prequel",
