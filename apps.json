@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.11.2",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105070851",
+            "size": 180890162,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/SimplyPiano_9.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
             "name": "Fitia",
             "type": 1,
             "bundleID": "com.ulisesolave.Fitia",
