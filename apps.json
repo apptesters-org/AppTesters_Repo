@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "CarScanner",
+            "type": 1,
+            "bundleID": "ovz.Car-Scanner",
+            "bundleIdentifier": "ovz.Car-Scanner",
+            "version": "2.2.42",
+            "versionDate": "2026-11-06",
+            "fullDate": "20261106022501",
+            "size": 74521440,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/CarScanner_2.2.42_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/CarScanner_2.2.42_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png"
+        },
+        {
+            "name": "BlitzerdePRO",
+            "type": 1,
+            "bundleID": "com.eifrig.blitzerdepro",
+            "bundleIdentifier": "com.eifrig.blitzerdepro",
+            "version": "400.3.5",
+            "versionDate": "2026-11-06",
+            "fullDate": "20261106022457",
+            "size": 54665905,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/BlitzerdePRO_400.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/BlitzerdePRO_400.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png"
+        },
+        {
             "name": "rPlayer",
             "type": 1,
             "bundleID": "com.wangyuehuan.vrtef",
