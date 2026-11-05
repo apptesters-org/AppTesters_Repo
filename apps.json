@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "RiseSleep",
+            "type": 1,
+            "bundleID": "com.risesci.nyx",
+            "bundleIdentifier": "com.risesci.nyx",
+            "version": "0.1.647",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105215115",
+            "size": 133420574,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
