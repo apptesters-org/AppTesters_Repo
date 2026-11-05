@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Halide",
+            "type": 1,
+            "bundleID": "com.chromanoir.Zeit",
+            "bundleIdentifier": "com.chromanoir.Zeit",
+            "version": "3.3.3",
+            "versionDate": "2026-11-05",
+            "fullDate": "20261105223555",
+            "size": 87857225,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Halide_3.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Halide_3.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png"
+        },
+        {
             "name": "ImgAI",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
