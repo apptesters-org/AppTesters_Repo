@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.120",
+            "versionDate": "2026-11-07",
+            "fullDate": "20261107045714",
+            "size": 162900825,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
             "name": "Phocus",
             "type": 1,
             "bundleID": "com.ahmetserdarkaradeniz.Phocus",
