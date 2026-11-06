@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "iLovePDF",
+            "type": 1,
+            "bundleID": "com.ilovepdf.www",
+            "bundleIdentifier": "com.ilovepdf.www",
+            "version": "4.2.3",
+            "versionDate": "2026-11-07",
+            "fullDate": "20261107030351",
+            "size": 157104410,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/iLovePDF_4.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/iLovePDF_4.2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ilovepdf.www.png"
+        },
+        {
             "name": "HeavyBagPro",
             "type": 1,
             "bundleID": "com.opentechiz.heavybagpro",
