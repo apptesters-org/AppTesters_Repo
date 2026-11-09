@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Luminar",
+            "type": 1,
+            "bundleID": "com.skylum.luminaripad",
+            "bundleIdentifier": "com.skylum.luminaripad",
+            "version": "4.6",
+            "versionDate": "2026-11-09",
+            "fullDate": "20261109132451",
+            "size": 573528057,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Luminar_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/Luminar_4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
