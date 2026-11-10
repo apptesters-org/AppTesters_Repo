@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "AdobeFresco",
+            "type": 1,
+            "bundleID": "com.adobe.fresco.ios",
+            "bundleIdentifier": "com.adobe.fresco.ios",
+            "version": "8.1.0",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110062642",
+            "size": 833485145,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/AdobeFresco_8.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/AdobeFresco_8.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png"
+        },
+        {
             "name": "Mercury",
             "type": 1,
             "bundleID": "com.tripleglazedstudios.Weather",
