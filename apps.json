@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Unblink",
+            "type": 1,
+            "bundleID": "com.idevtal.Wallpapers",
+            "bundleIdentifier": "com.idevtal.Wallpapers",
+            "version": "5.93",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110205501",
+            "size": 42065218,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Unblink_5.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "com.madarsoft.fitness",
