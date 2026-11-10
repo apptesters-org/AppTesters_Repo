@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Rest",
+            "type": 1,
+            "bundleID": "com.evolve.helm",
+            "bundleIdentifier": "com.evolve.helm",
+            "version": "3.210.0",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110210222",
+            "size": 135426751,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Rest_3.210.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png"
+        },
+        {
+            "name": "Picsart",
+            "type": 1,
+            "bundleID": "com.picsart.studio",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "30.9.6",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110210215",
+            "size": 119191274,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Picsart_30.9.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png"
+        },
+        {
             "name": "Unblink",
             "type": 1,
             "bundleID": "com.idevtal.Wallpapers",
