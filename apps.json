@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "WaterAir",
+            "type": 1,
+            "bundleID": "co.airapps.waterreminder",
+            "bundleIdentifier": "co.airapps.waterreminder",
+            "version": "2026.11.2",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110211931",
+            "size": 67662955,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/WaterAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png"
+        },
+        {
+            "name": "ScannerAir",
+            "type": 1,
+            "bundleID": "co.airapps.scannerapp",
+            "bundleIdentifier": "co.airapps.scannerapp",
+            "version": "2026.11.2",
+            "versionDate": "2026-11-10",
+            "fullDate": "20261110211919",
+            "size": 145692805,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/ScannerAir_2026.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png"
+        },
+        {
             "name": "Rest",
             "type": 1,
             "bundleID": "com.evolve.helm",
