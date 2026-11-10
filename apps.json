@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mojo",
+            "type": 1,
+            "bundleID": "archery.storify",
+            "bundleIdentifier": "archery.storify",
+            "version": "1.282.1",
+            "versionDate": "2026-11-11",
+            "fullDate": "20261111044733",
+            "size": 181376495,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Mojo_1.282.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Mojo_1.282.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png"
+        },
+        {
             "name": "MyFitnessPal",
             "type": 1,
             "bundleID": "com.myfitnesspal.mfp",
