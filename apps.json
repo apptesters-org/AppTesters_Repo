@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "ThePiano",
+            "type": 2,
+            "bundleID": "com.impalastudios.pianofree",
+            "bundleIdentifier": "com.impalastudios.pianofree",
+            "version": "2.26.4",
+            "versionDate": "2026-11-11",
+            "fullDate": "20261111223126",
+            "size": 120041491,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/ThePiano_2.26.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/ThePiano_2.26.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.pianofree.png"
+        },
+        {
+            "name": "Duolingo",
+            "type": 1,
+            "bundleID": "com.duolingo.DuolingoMobile",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.148.1",
+            "versionDate": "2026-11-11",
+            "fullDate": "20261111223114",
+            "size": 214457776,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Duolingo_7.148.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/Duolingo_7.148.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png"
+        },
+        {
             "name": "OfflineMusic",
             "type": 1,
             "bundleID": "com.offlinemusic",
