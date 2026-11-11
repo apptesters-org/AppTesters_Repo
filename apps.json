@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "462.1.1",
+            "versionDate": "2026-11-11",
+            "fullDate": "20261111075755",
+            "size": 143870180,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VSCO_462.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/VSCO_462.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "B612",
             "type": 1,
             "bundleID": "com.linecorp.b612",
