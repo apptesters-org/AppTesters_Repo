@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GentlerStreak",
+            "type": 1,
+            "bundleID": "app.gentler.activity",
+            "bundleIdentifier": "app.gentler.activity",
+            "version": "6.0",
+            "versionDate": "2026-11-12",
+            "fullDate": "20261112135609",
+            "size": 239552862,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/GentlerStreak_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/GentlerStreak_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png"
+        },
+        {
             "name": "SCRL",
             "type": 1,
             "bundleID": "com.dopedevelopment.Panels",
