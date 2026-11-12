@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Origami",
+            "type": 1,
+            "bundleID": "com.oribot.origami",
+            "bundleIdentifier": "com.oribot.origami",
+            "version": "5.3",
+            "versionDate": "2026-11-12",
+            "fullDate": "20261112151002",
+            "size": 207614800,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Origami_5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Origami_5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png"
+        },
+        {
             "name": "Documents",
             "type": 1,
             "bundleID": "com.readdle.ReaddleDocsIPad",
