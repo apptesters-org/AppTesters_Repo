@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Swiftgram",
+            "type": 1,
+            "bundleID": "app.swiftgram.ios",
+            "bundleIdentifier": "app.swiftgram.ios",
+            "version": "13.2",
+            "versionDate": "2026-11-12",
+            "fullDate": "20261112205928",
+            "size": 93686639,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Swiftgram_13.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Swiftgram_13.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png"
+        },
+        {
+            "name": "Phocus",
+            "type": 1,
+            "bundleID": "com.ahmetserdarkaradeniz.Phocus",
+            "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+            "version": "3.6.0",
+            "versionDate": "2026-11-12",
+            "fullDate": "20261112205912",
+            "size": 250243828,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Phocus_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Phocus_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png"
+        },
+        {
             "name": "superagent",
             "type": 1,
             "bundleID": "com.agent.super.extension.safari",
