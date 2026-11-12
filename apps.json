@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lyfta",
+            "type": 1,
+            "bundleID": "com.lyftaios",
+            "bundleIdentifier": "com.lyftaios",
+            "version": "1.168",
+            "versionDate": "2026-11-13",
+            "fullDate": "20261113012349",
+            "size": 65046552,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Lyfta_1.168_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Lyfta_1.168_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png"
+        },
+        {
             "name": "Boostcamp",
             "type": 1,
             "bundleID": "com.bpmhealth.boostfitness",
