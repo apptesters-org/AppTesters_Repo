@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Balance",
+            "type": 1,
+            "bundleID": "com.elevateapp.kamino.kamino",
+            "bundleIdentifier": "com.elevateapp.kamino.kamino",
+            "version": "1.215.0",
+            "versionDate": "2026-11-12",
+            "fullDate": "20261112221111",
+            "size": 129943362,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Balance_1.215.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Balance_1.215.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png"
+        },
+        {
             "name": "iTranslate",
             "type": 1,
             "bundleID": "com.outerspaceapps.itranslate",
