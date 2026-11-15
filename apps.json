@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Athlytic",
+            "type": 1,
+            "bundleID": "myndarc.newFitnessApp",
+            "bundleIdentifier": "myndarc.newFitnessApp",
+            "version": "27.0.11",
+            "versionDate": "2026-11-15",
+            "fullDate": "20261115124354",
+            "size": 45231397,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Athlytic_27.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Athlytic_27.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
+        },
+        {
             "name": "Crsel",
             "type": 1,
             "bundleID": "com.frameoneapps.Crsel",
