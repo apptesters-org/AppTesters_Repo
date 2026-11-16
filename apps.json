@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.65",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116155213",
+            "size": 99764677,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/SCRL_9.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/SCRL_9.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
+            "name": "Cleanup",
+            "type": 1,
+            "bundleID": "com.codeway.cleanerplus",
+            "bundleIdentifier": "com.codeway.cleanerplus",
+            "version": "6.27.0",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116155207",
+            "size": 84123677,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Cleanup_6.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Cleanup_6.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png"
+        },
+        {
             "name": "PUSH",
             "type": 1,
             "bundleID": "com.ADPTVLTD.push",
