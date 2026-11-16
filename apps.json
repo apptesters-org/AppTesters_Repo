@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SimplySing",
+            "type": 1,
+            "bundleID": "com.joytunes.Sing",
+            "bundleIdentifier": "com.joytunes.Sing",
+            "version": "3.2.4",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116141505",
+            "size": 120257654,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/SimplySing_3.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/SimplySing_3.2.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png"
+        },
+        {
+            "name": "FlightTracker",
+            "type": 1,
+            "bundleID": "com.iaftt.flightplusfree",
+            "bundleIdentifier": "com.iaftt.flightplusfree",
+            "version": "8.8.5",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116141459",
+            "size": 108717866,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/FlightTracker_8.8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/FlightTracker_8.8.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png"
+        },
+        {
             "name": "Mimo",
             "type": 1,
             "bundleID": "com.getmimo.mimo",
