@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "LUTStudio",
+            "type": 1,
+            "bundleID": "com.solveit.lut-studio",
+            "bundleIdentifier": "com.solveit.lut-studio",
+            "version": "4.1.4",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116133636",
+            "size": 152412566,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/LUTStudio_4.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/LUTStudio_4.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png"
+        },
+        {
             "name": "Facetune",
             "type": 1,
             "bundleID": "com.lightricks.Facetune2",
