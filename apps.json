@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Lifesum",
+            "type": 1,
+            "bundleID": "com.sillens.iShape",
+            "bundleIdentifier": "com.sillens.iShape",
+            "version": "24.1.1",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116200626",
+            "size": 133772840,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Lifesum_24.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Lifesum_24.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png"
+        },
+        {
             "name": "Paste",
             "type": 1,
             "bundleID": "com.wiheads.paste",
