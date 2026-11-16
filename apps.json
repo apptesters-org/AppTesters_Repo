@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Mimo",
+            "type": 1,
+            "bundleID": "com.getmimo.mimo",
+            "bundleIdentifier": "com.getmimo.mimo",
+            "version": "12.36.0",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116135318",
+            "size": 160774307,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Mimo_12.36.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Mimo_12.36.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png"
+        },
+        {
             "name": "LUTStudio",
             "type": 1,
             "bundleID": "com.solveit.lut-studio",
