@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "edjingMix",
+            "type": 1,
+            "bundleID": "com.edjing.edjingdjturntable",
+            "bundleIdentifier": "com.edjing.edjingdjturntable",
+            "version": "9.4.7",
+            "versionDate": "2026-11-16",
+            "fullDate": "20261116163112",
+            "size": 214124176,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/edjingMix_9.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/edjingMix_9.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png"
+        },
+        {
             "name": "swipewipe",
             "type": 1,
             "bundleID": "com.aoklab.fewerphotos",
