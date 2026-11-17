@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Calm",
+            "type": 1,
+            "bundleID": "com.calm.calmapp",
+            "bundleIdentifier": "com.calm.calmapp",
+            "version": "7.5.1",
+            "versionDate": "2026-11-17",
+            "fullDate": "20261117212952",
+            "size": 126765273,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Calm_7.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Calm_7.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png"
+        },
+        {
             "name": "Picsart",
             "type": 1,
             "bundleID": "com.picsart.studio",
