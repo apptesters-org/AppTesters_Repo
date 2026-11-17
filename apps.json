@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SCRL",
+            "type": 1,
+            "bundleID": "com.dopedevelopment.Panels",
+            "bundleIdentifier": "com.dopedevelopment.Panels",
+            "version": "9.65.1",
+            "versionDate": "2026-11-18",
+            "fullDate": "20261118033359",
+            "size": 99758093,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SCRL_9.65.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SCRL_9.65.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png"
+        },
+        {
             "name": "Camera",
             "type": 1,
             "bundleID": "com.andyworks.camera",
