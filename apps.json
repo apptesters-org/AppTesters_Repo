@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CalculatorAir",
+            "type": 1,
+            "bundleID": "com.CalculatorForiPad.InternetRocks",
+            "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
+            "version": "2026.11.4",
+            "versionDate": "2026-11-17",
+            "fullDate": "20261117112744",
+            "size": 67275671,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/CalculatorAir_2026.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.CalculatorForiPad.InternetRocks.png"
+        },
+        {
             "name": "Mockview",
             "type": 1,
             "bundleID": "com.kavsoft.MockviewApp",
