@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Locket",
+            "type": 1,
+            "bundleID": "com.locket.Locket",
+            "bundleIdentifier": "com.locket.Locket",
+            "version": "2.73.0",
+            "versionDate": "2026-11-17",
+            "fullDate": "20261117082135",
+            "size": 97875349,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Locket_2.73.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Locket_2.73.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Gold",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png"
+        },
+        {
             "name": "Slopes",
             "type": 1,
             "bundleID": "com.consumedbycode.slopes",
