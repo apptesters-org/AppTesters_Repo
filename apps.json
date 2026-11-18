@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "PdfEdit",
+            "type": 1,
+            "bundleID": "com.apalonapps.pdfeditor",
+            "bundleIdentifier": "com.apalonapps.pdfeditor",
+            "version": "2.14.22",
+            "versionDate": "2026-11-19",
+            "fullDate": "20261119001711",
+            "size": 385611171,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/PdfEdit_2.14.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/PdfEdit_2.14.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png"
+        },
+        {
             "name": "FreeYourMusic",
             "type": 1,
             "bundleID": "io.stampapp.Stamp",
