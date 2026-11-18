@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "MyFitnessPal",
+            "type": 1,
+            "bundleID": "com.myfitnesspal.mfp",
+            "bundleIdentifier": "com.myfitnesspal.mfp",
+            "version": "26.46.0",
+            "versionDate": "2026-11-18",
+            "fullDate": "20261118055519",
+            "size": 219813653,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/MyFitnessPal_26.46.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png"
+        },
+        {
             "name": "QrCode",
             "type": 1,
             "bundleID": "com.internet-rocks.codescanner",
