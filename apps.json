@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Minutes",
+            "type": 1,
+            "bundleID": "ventures.slam.minutes",
+            "bundleIdentifier": "ventures.slam.minutes",
+            "version": "1.12.10",
+            "versionDate": "2026-11-19",
+            "fullDate": "20261119174712",
+            "size": 33248149,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Minutes_1.12.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Minutes_1.12.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Pro",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png"
+        },
+        {
             "name": "NutriCoach",
             "type": 1,
             "bundleID": "nutrition.coach",
