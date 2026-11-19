@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "NutriCoach",
+            "type": 1,
+            "bundleID": "nutrition.coach",
+            "bundleIdentifier": "nutrition.coach",
+            "version": "2.8.1",
+            "versionDate": "2026-11-19",
+            "fullDate": "20261119170941",
+            "size": 78087446,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/NutriCoach_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/NutriCoach_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png"
+        },
+        {
+            "name": "DictionaryAir",
+            "type": 1,
+            "bundleID": "co.airapps.dictionary",
+            "bundleIdentifier": "co.airapps.dictionary",
+            "version": "2026.11.3",
+            "versionDate": "2026-11-19",
+            "fullDate": "20261119170937",
+            "size": 66861311,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DictionaryAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DictionaryAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png"
+        },
+        {
             "name": "StressWatch",
             "type": 1,
             "bundleID": "com.ideation.Stress",
