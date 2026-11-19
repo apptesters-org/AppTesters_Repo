@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DynamicLyrics",
+            "type": 1,
+            "bundleID": "com.bing.lyrics",
+            "bundleIdentifier": "com.bing.lyrics",
+            "version": "2.0.8",
+            "versionDate": "2026-11-19",
+            "fullDate": "20261119054846",
+            "size": 29248152,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DynamicLyrics_2.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/DynamicLyrics_2.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png"
+        },
+        {
             "name": "Drafts",
             "type": 1,
             "bundleID": "com.agiletortoise.Drafts5",
