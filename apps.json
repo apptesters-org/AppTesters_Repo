@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "ProCCD",
+            "type": 1,
+            "bundleID": "com.yengshine.proccd",
+            "bundleIdentifier": "com.yengshine.proccd",
+            "version": "7.2",
+            "versionDate": "2026-11-20",
+            "fullDate": "20261120015706",
+            "size": 253884588,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/ProCCD_7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/ProCCD_7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png"
+        },
+        {
             "name": "RiseSleep",
             "type": 1,
             "bundleID": "com.risesci.nyx",
