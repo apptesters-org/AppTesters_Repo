@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "CoinID",
+            "type": 1,
+            "bundleID": "com.aiby.wtcoin",
+            "bundleIdentifier": "com.aiby.wtcoin",
+            "version": "1.30",
+            "versionDate": "2026-11-20",
+            "fullDate": "20261120183437",
+            "size": 58638144,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/CoinID_1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-11-2026/CoinID_1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png"
+        },
+        {
             "name": "Scanner",
             "type": 1,
             "bundleID": "com.apalonapps.pdffree",
