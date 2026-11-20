@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VlogNow",
+            "type": 1,
+            "bundleID": "com.frontrow.vlog",
+            "bundleIdentifier": "com.frontrow.vlog",
+            "version": "2.26.0",
+            "versionDate": "2026-11-21",
+            "fullDate": "20261121014234",
+            "size": 508112634,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/VlogNow_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png"
+        },
+        {
             "name": "superagent",
             "type": 1,
             "bundleID": "com.agent.super.extension.safari",
