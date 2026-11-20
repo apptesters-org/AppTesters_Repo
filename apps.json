@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Halide",
+            "type": 1,
+            "bundleID": "com.chromanoir.Zeit",
+            "bundleIdentifier": "com.chromanoir.Zeit",
+            "version": "3.4.1",
+            "versionDate": "2026-11-21",
+            "fullDate": "20261121015428",
+            "size": 88003874,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Halide_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Halide_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png"
+        },
+        {
             "name": "VlogNow",
             "type": 1,
             "bundleID": "com.frontrow.vlog",
