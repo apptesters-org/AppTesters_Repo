@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SlideShow",
+            "type": 1,
+            "bundleID": "com.spacegab.slideshow",
+            "bundleIdentifier": "com.spacegab.slideshow",
+            "version": "5.6.49",
+            "versionDate": "2026-11-23",
+            "fullDate": "20261123151822",
+            "size": 122408755,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SlideShow_5.6.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SlideShow_5.6.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png"
+        },
+        {
+            "name": "Lightroom",
+            "type": 1,
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "12.0.10",
+            "versionDate": "2026-11-23",
+            "fullDate": "20261123151807",
+            "size": 225658047,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lightroom_12.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lightroom_12.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "Weather",
             "type": 1,
             "bundleID": "com.apalonapps.wlf",
@@ -42,22 +74,6 @@
             "localizedDescription": "Injected with Subscription Unlocked",
             "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
             "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png"
-        },
-        {
-            "name": "Lightroom",
-            "type": 1,
-            "bundleID": "com.adobe.lrmobilephone",
-            "bundleIdentifier": "com.adobe.lrmobilephone",
-            "version": "12.0.10",
-            "versionDate": "2026-11-23",
-            "fullDate": "20261123145526",
-            "size": 225819932,
-            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lightroom_12.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lightroom_12.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-            "developerName": "",
-            "localizedDescription": "Injected with Subscription Unlocked",
-            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
         },
         {
             "name": "PREQUEL",
