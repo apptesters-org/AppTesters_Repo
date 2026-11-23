@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "VSCO",
+            "type": 1,
+            "bundleID": "co.visualsupply.cam",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "version": "463.0.2",
+            "versionDate": "2026-11-24",
+            "fullDate": "20261124043836",
+            "size": 158464619,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VSCO_463.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VSCO_463.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png"
+        },
+        {
             "name": "ShutEye",
             "type": 1,
             "bundleID": "health.sleep.sounds.tracker.alarm.calm",
