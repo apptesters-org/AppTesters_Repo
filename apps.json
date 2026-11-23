@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "SnoreLab",
+            "type": 1,
+            "bundleID": "com.revivasoftworks.Snore-Lab",
+            "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+            "version": "6.6",
+            "versionDate": "2026-11-23",
+            "fullDate": "20261123161631",
+            "size": 178086319,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SnoreLab_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SnoreLab_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png"
+        },
+        {
             "name": "Stndrd",
             "type": 1,
             "bundleID": "uni.cbum",
