@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Stndrd",
+            "type": 1,
+            "bundleID": "uni.cbum",
+            "bundleIdentifier": "uni.cbum",
+            "version": "4.1.66",
+            "versionDate": "2026-11-23",
+            "fullDate": "20261123155408",
+            "size": 100030347,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Stndrd_4.1.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Stndrd_4.1.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png"
+        },
+        {
             "name": "TunerPro",
             "type": 1,
             "bundleID": "com.mwm.guitartuner",
