@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SimplyGuitar",
+            "type": 1,
+            "bundleID": "com.joytunes.SimplyGuitar",
+            "bundleIdentifier": "com.joytunes.SimplyGuitar",
+            "version": "10.32.2",
+            "versionDate": "2026-11-24",
+            "fullDate": "20261124013004",
+            "size": 158975348,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/SimplyGuitar_10.32.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/SimplyGuitar_10.32.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png"
+        },
+        {
+            "name": "PeakVisor",
+            "type": 1,
+            "bundleID": "ru.routes.peakvisor",
+            "bundleIdentifier": "ru.routes.peakvisor",
+            "version": "5.124",
+            "versionDate": "2026-11-24",
+            "fullDate": "20261124012950",
+            "size": 165357118,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PeakVisor_5.124_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PeakVisor_5.124_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png"
+        },
+        {
             "name": "SimplyDraw",
             "type": 1,
             "bundleID": "com.joytunes.Draw",
