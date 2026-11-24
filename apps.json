@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "Unblink",
+            "type": 1,
+            "bundleID": "com.idevtal.Wallpapers",
+            "bundleIdentifier": "com.idevtal.Wallpapers",
+            "version": "5.97",
+            "versionDate": "2026-11-24",
+            "fullDate": "20261124160956",
+            "size": 44478997,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png"
+        },
+        {
+            "name": "PUSH",
+            "type": 1,
+            "bundleID": "com.ADPTVLTD.push",
+            "bundleIdentifier": "com.ADPTVLTD.push",
+            "version": "4.3.0",
+            "versionDate": "2026-11-24",
+            "fullDate": "20261124160951",
+            "size": 84087728,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png"
+        },
+        {
             "name": "Uplens",
             "type": 1,
             "bundleID": "app.uplens",
