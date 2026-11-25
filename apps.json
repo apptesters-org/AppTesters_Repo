@@ -12,6 +12,38 @@
     },
     "apps": [
         {
+            "name": "SimplyPiano",
+            "type": 1,
+            "bundleID": "com.joytunes.asla",
+            "bundleIdentifier": "com.joytunes.asla",
+            "version": "9.11.8",
+            "versionDate": "2026-11-25",
+            "fullDate": "20261125144204",
+            "size": 155167552,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/SimplyPiano_9.11.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/SimplyPiano_9.11.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png"
+        },
+        {
+            "name": "Lightroom",
+            "type": 1,
+            "bundleID": "com.adobe.lrmobilephone",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "version": "12.0.11",
+            "versionDate": "2026-11-25",
+            "fullDate": "20261125144150",
+            "size": 225864312,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Lightroom_12.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Lightroom_12.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png"
+        },
+        {
             "name": "Animock",
             "type": 1,
             "bundleID": "com.hassantaleb.mockup",
