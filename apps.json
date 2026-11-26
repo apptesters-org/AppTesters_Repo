@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "DynamicLyrics",
+            "type": 1,
+            "bundleID": "com.bing.lyrics",
+            "bundleIdentifier": "com.bing.lyrics",
+            "version": "2.0.9",
+            "versionDate": "2026-11-26",
+            "fullDate": "20261126061221",
+            "size": 29310506,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/DynamicLyrics_2.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/DynamicLyrics_2.0.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Premium",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png"
+        },
+        {
             "name": "PeakVisor",
             "type": 1,
             "bundleID": "ru.routes.peakvisor",
