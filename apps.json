@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "1Blocker",
+            "type": 1,
+            "bundleID": "com.khanov.BlockerX",
+            "bundleIdentifier": "com.khanov.BlockerX",
+            "version": "6.7.2",
+            "versionDate": "2026-11-26",
+            "fullDate": "20261126102731",
+            "size": 66445353,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/1Blocker_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/1Blocker_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png"
+        },
+        {
             "name": "",
             "type": 1,
             "bundleID": "tech.miidii.MDBlank",
