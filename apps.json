@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "Athlytic",
+            "type": 1,
+            "bundleID": "myndarc.newFitnessApp",
+            "bundleIdentifier": "myndarc.newFitnessApp",
+            "version": "27.1",
+            "versionDate": "2026-11-27",
+            "fullDate": "20261127071418",
+            "size": 47627719,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png"
+        },
+        {
             "name": "RiseSleep",
             "type": 1,
             "bundleID": "com.risesci.nyx",
