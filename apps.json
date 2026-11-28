@@ -12,6 +12,22 @@
     },
     "apps": [
         {
+            "name": "GrowMe",
+            "type": 1,
+            "bundleID": "com.book.summaries.reading",
+            "bundleIdentifier": "com.book.summaries.reading",
+            "version": "1.4.9",
+            "versionDate": "2026-11-28",
+            "fullDate": "20261128080258",
+            "size": 166554189,
+            "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+            "developerName": "",
+            "localizedDescription": "Injected with Subscription Unlocked",
+            "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
+            "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png"
+        },
+        {
             "name": "Dehancer",
             "type": 1,
             "bundleID": "com.dehancer.film.ios-app",
